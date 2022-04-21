@@ -1,0 +1,65 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Graduation Helper
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  pull_request_target:
+    types:
+      - opened
+      - review_requested
+      - ready_for_review
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: .github/workflows/src
+    name: Getting grades
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Cache modules
+        id: cachemodules
+        uses: actions/cache@v2
+        with:
+          path: .github/workflows/src/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('.github/workflows/src/package.json') }}
+      - name: Setup npm
+        run: npm install -g npm
+      - name: Install dependencies
+        if: steps.cachemodules.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Get Minute
+        id: getminute
+        run: echo "::set-output name=minute::$(date -u '+%M')"
+        shell: bash # For Windows, Linux and macOS default to bash alrea
+      - name: Cache data
+        id: cache-data
+        uses: actions/cache@v2
+        with:
+          path: .github/workflows/src/app/data
+          key: ${{ runner.OS }}-${{ steps.getminute.outputs.minute }} # cache for 1 minute
+      - name: Cache Airtable
+        if: steps.cache-data.outputs.cache-hit != 'true'
+        run: node fetch-data.js
+        env:
+          AIRTABLE_SECRET: ${{ secrets.AIRTABLE_SECRET }}
+          GH_SECRET: ${{ secrets.GH_SECRET }}
+          EDUCATION_WEB_KEY: ${{ secrets.EDUCATION_WEB_KEY }}
+          EDUCATION_WEB_SECRET: ${{ secrets.EDUCATION_WEB_SECRET }}
+          EDUCATION_WEB_API: ${{ secrets.EDUCATION_WEB_API }}
+      - name: run entry point
+        run: node index.js
+        env:
+          AIRTABLE_SECRET: ${{ secrets.AIRTABLE_SECRET }}
+          GH_SECRET: ${{ secrets.GH_SECRET }}
+          EDUCATION_WEB_KEY: ${{ secrets.EDUCATION_WEB_KEY }}
+          EDUCATION_WEB_SECRET: ${{ secrets.EDUCATION_WEB_SECRET }}
+          EDUCATION_WEB_API: ${{ secrets.EDUCATION_WEB_API }}
