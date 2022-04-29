@@ -33,7 +33,7 @@ const actionEvent = require('./app/action-event.js');
 const educationWeb = require('./app/education-web.js');
 const fileValidator = require('./app/file-validator.js');
 
-const BOT_ACCOUNT_LOGIN = "GitHub-Education-bot"
+const BOT_ACCOUNT_LOGIN = "github-education"
 
 
 try {
@@ -171,7 +171,7 @@ Feel free to re-request a review from me and I'll come back and take a look!
     `
   } else {
     // All checks pass
-    feedBackMessage = "It looks like you're all set! ⚠️Unfortunately, we no longer have swag to ship 🛍 yet you can still walk the stage. Thanks for the graduation submission."
+    feedBackMessage = "It looks like you're all set! Thanks for the graduation submission."
     try {
       // await octokit.mergePR()
       await octokit.addReviewLabel()
