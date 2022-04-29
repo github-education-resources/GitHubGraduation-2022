@@ -12,10 +12,7 @@ The first 7,500 pull request successfully merged into the repository by May 27 w
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
 
-# Who can apply 📝
-We invite any student who has graduated, or plans to graduate, in 2021 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
 The eligibility criteria are -
 1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2021-06-05-GitHubGraduation).
