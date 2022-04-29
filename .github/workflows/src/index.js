@@ -58,14 +58,14 @@ try {
   }
 
   try {
-    user2021 = await airtable.fetchPriorGraduate(actionEvent.pullAuthor)
+    user2022 = await airtable.fetchPriorGraduate(actionEvent.pullAuthor)
   } catch(err) {
     console.log(err)
   }
 
   // checks
 
-  // graduated already in 2020?
+  // graduated already in 2020 or 2021?
   try {
     user2020 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2020)
     user2021 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2021)
@@ -81,7 +81,7 @@ try {
   }
 
   // Has the user completed the shipping form? (address must exist for the form to be submitted)
-  const completedShippingForm = user2021 && user2021["Address Line 1"].length > 0
+  const completedShippingForm = user2022 && user2022["Address Line 1"].length > 0
   const fileNames = pull.files.edges.map((file)=>{
     return file.node.path
   })
@@ -131,7 +131,7 @@ try {
   // - welcome and congrats
   // - merge PR
 
-  const userAgreesCoc = user2021 && user2021["Code of Conduct"]
+  const userAgreesCoc = user2022 && user2022["Code of Conduct"]
   let closePR = false
 
   if(user2020 || user2021) {
