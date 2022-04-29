@@ -58,7 +58,7 @@ try {
   }
 
   try {
-    user2022 = await airtable.fetchPriorGraduate(actionEvent.pullAuthor, GRADUATES_2022)
+    user2022 = await airtable.fetchGraduate(actionEvent.pullAuthor, GRADUATES_2022)
   } catch(err) {
     console.log(err)
   }
