@@ -66,9 +66,13 @@ _Do not use special characters in the template above._
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
 
 # 3. Graduation Stories 2022 👩‍🏫👨‍🏫
-We ​​would love to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates in our Graduation Stories 2022. 
-To know more about this event, please check the link below where you can find all the necessary information and rules on how to participate. 
-Submit your story and get a custom trading card. We can’t wait to hear! 
+We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates. 
+
+[How to participate](https://drive.google.com/file/d/1ozBt4ekiQuD4dSCq65S30-6V1Csw65A7/view)
+
+We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖 
+Remember: you have until May 30th to submit your story! 
+ 
 
 
 # A note on swag 🛍
