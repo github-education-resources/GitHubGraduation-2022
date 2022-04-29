@@ -45,7 +45,7 @@ try {
 
   const feedback = []
 
-  let pull, user2021, user2020, user2021, hasSdp
+  let pull, user2021, user2020, user2022, hasSdp
 
   if(actionEvent.name === "review_requested" && actionEvent.requestedReviewer.login !== BOT_ACCOUNT_LOGIN) {
     return true
