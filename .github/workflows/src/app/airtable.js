@@ -39,7 +39,7 @@ class ATable {
   }
 
   async fetchPriorGraduate(githubLogin) {
-    const data = await Promise.all([this.fetchFromCache(githubLogin, GRADUATES_2021), this.fetchFromCache(githubLogin, GRADUATES_2020)]
+    const data = await Promise.all([this.fetchFromCache(githubLogin, GRADUATES_2021), this.fetchFromCache(githubLogin, GRADUATES_2020)])
     if(data[0] || data[1]) {
       console.log("found cached 2021 or 2020 data")
       return Promise.resolve(data)
