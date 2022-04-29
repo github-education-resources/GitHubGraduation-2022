@@ -75,6 +75,10 @@ class ATable {
     })
   }
 
+  async fetchAll2022() {
+    return await this.fetchAll(GRADUATES_2022)
+  }
+
   async fetchAll2021() {
     return await this.fetchAll(GRADUATES_2021)
   }
