@@ -35,13 +35,17 @@ const fileValidator = require('./app/file-validator.js');
 
 const BOT_ACCOUNT_LOGIN = "github-education"
 
+const GRADUATES_2020 = "Graduation 2020"
+const GRADUATES_2021 = "Graduation 2021"
+const GRADUATES_2022 = "Graduation 2022"
+
 
 try {
 ;(async ()=>{
 
   const feedback = []
 
-  let pull, user2021, user2020, hasSdp
+  let pull, user2021, user2020, user2021, hasSdp
 
   if(actionEvent.name === "review_requested" && actionEvent.requestedReviewer.login !== BOT_ACCOUNT_LOGIN) {
     return true
@@ -63,7 +67,8 @@ try {
 
   // graduated already in 2020?
   try {
-    user2020 = await airtable.userParticipated2020(actionEvent.pullAuthor)
+    user2020 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2020)
+    user2021 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2021)
   } catch(err) {
     console.log(err)
   }
@@ -129,8 +134,8 @@ try {
   const userAgreesCoc = user2021 && user2021["Code of Conduct"]
   let closePR = false
 
-  if(user2020) {
-    console.log("user already Participated in 2020")
+  if(user2020 || user2021) {
+    console.log("user already Participated in 2020 or 2021")
     closePR = true
   } else {
     if(!hasSdp) {
