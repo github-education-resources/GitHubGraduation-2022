@@ -6,9 +6,10 @@ Airtable.configure({
   apiKey: process.env.AIRTABLE_SECRET
 });
 
-const GITHUB_GRADUATION = "appnpTfSaHWAf964L"
+const GITHUB_GRADUATION = "appQj1OE66mjSGWq8"
 const GRADUATES_2020 = "Graduation 2020"
 const GRADUATES_2021 = "Graduation 2021"
+const GRADUATES_2022 = "Graduation 2022"
 
 let cachedJson
 let cachedData = {}
@@ -26,21 +27,21 @@ class ATable {
 
   }
 
-  userParticipated2020(githubLogin) {
-    const data = this.fetchFromCache(githubLogin, GRADUATES_2020)
+  userParticipatedPrior(githubLogin, year) {
+    const data = this.fetchFromCache(githubLogin, year)
 
     if(data) {
-      console.log("found cached 2020 data")
+      console.log("found cached " + year + " data")
       return Promise.resolve(data)
     }
 
-    return this.fetchGraduate(githubLogin, GRADUATES_2020)
+    return this.fetchGraduate(githubLogin, year)
   }
 
-  fetch2021Graduate(githubLogin) {
-    const data = this.fetchFromCache(githubLogin, GRADUATES_2021)
-    if(data) {
-      console.log("found cached 2021 data")
+  async fetchGraduate(githubLogin, year) {
+    const data = this.fetchFromCache(githubLogin, year)
+    if(data[0] || data[1]) {
+      console.log("found cached 2021 or 2020 data")
       return Promise.resolve(data)
     }
 
@@ -74,6 +75,10 @@ class ATable {
     })
   }
 
+  async fetchAll2022() {
+    return await this.fetchAll(GRADUATES_2022)
+  }
+
   async fetchAll2021() {
     return await this.fetchAll(GRADUATES_2021)
   }
@@ -89,6 +94,8 @@ class ATable {
       data = cachedData["grad2020"]
     } else if(table === GRADUATES_2021) {
       data = cachedData["grad2021"]
+    } else if(table === GRADUATES_2022) {
+      data = cachedData["grad2022"]
     }
 
     if(data) {
