@@ -1,4 +1,4 @@
-# GitHubGraduation-2022
+# GitHub Graduation-2022
 
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
