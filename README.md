@@ -14,10 +14,10 @@ Consider that all the information that you add to this repository will be public
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
 
 # Who can apply 📝
-We invite any student who has graduated, or plans to graduate, in 2021 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
+We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
 The eligibility criteria are -
-1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2021-06-05-GitHubGraduation).
+1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. You have not participated in a past GitHub Graduation event.
 3. You identify as a graduate in the year 2022.
 
@@ -25,7 +25,7 @@ The eligibility criteria are -
 
 Here are two steps to join graduation and receive swag in the mail. 
 1. [Fill out the **swag shipment form**](https://airtable.com/shrVMo8ItH4wjsO9f)
-⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
+ ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
 2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
 3. [**Save the date**](http://www.google.com/calendar/event?action=TEMPLATE&dates=20220611T160000Z%2FT010000Z&text=GitHub%20Graduation%202022&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=GitHub%20Graduation%202022%2C%20live%20event) (Google calendar invite) and attend graduation 🥳
 
