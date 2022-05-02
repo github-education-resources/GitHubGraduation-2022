@@ -1,6 +1,6 @@
 # GitHub Graduation-2022
 
-### [Leia este repositório em Português.](https://drive.google.com/file/d/1Jv777YShJLg_3fn5cVt27wU5QoqRrAni/view?usp=sharing)
+### [Leia este repositório em Português.](https://drive.google.com/file/d/1pbjjTfIzB3Mu3Ot98GTO72s8ZpsB_Lxb/view?usp=sharing)
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
