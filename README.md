@@ -23,7 +23,7 @@ The eligibility criteria are -
 
 # How to join the Class of 2022
 
-Here are two steps to join graduation and receive swag in the mail. 
+Here are three steps to join graduation and receive swag in the mail. 
 1. [Fill out the **swag shipment form**](https://airtable.com/shrVMo8ItH4wjsO9f)
  ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
 2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
