@@ -145,7 +145,7 @@ try {
 
     if(!completedShippingForm) {
       console.log("user has not completed the shipping form")
-      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrEfpxnoqAKKTZic) to continue*")
+      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrVMo8ItH4wjsO9f) to continue*")
     }
 
     if(!isFilePathValid.isValid) {
