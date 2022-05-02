@@ -5,7 +5,7 @@
 
 This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
 
-The first 7,500 pull request successfully merged into the repository by May 27 will receive custom swag in the mail. 
+The first 7,500 pull request successfully merged into the repository by May 27 will receive a letter and custom developer trading card with your GitHub profile information in the mail. 
 
 
 ## Privacy Notice 👀
