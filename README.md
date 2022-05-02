@@ -1,11 +1,11 @@
-# GitHub Graduation 2022
+# GitHub Graduation-2022
 
 ### [Leia este repositório em Português.](https://drive.google.com/file/d/1Jv777YShJLg_3fn5cVt27wU5QoqRrAni/view?usp=sharing)
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
 
-The first 7,500 pull request successfully merged into the repository by May 27 will receive a letter and custom developer trading card with your GitHub profile information in the mail. 
+The first 7,500 pull request successfully merged into the repository by May 27 will receive custom swag in the mail. 
 
 
 ## Privacy Notice 👀
@@ -75,9 +75,9 @@ Remember: you have until May 30th to submit your story!
 
 
 # A note on swag 🛍
-The first 7,500 successfully merged PRs will receive a custom developer trading card with their GitHub status in the mail. 
+The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
 
-What does this mean? We use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please update your GitHub profile picture and bio with what you would like shown on the card.
+What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
 
 # Graduation Day 🎓
 Don't forget to watch the livestream! 
@@ -85,4 +85,7 @@ Don't forget to watch the livestream!
 - 📆 Saturday, June 11, 2022
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
 - 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
-- 📎 [Add the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20220611T160000Z%2FT010000Z&text=GitHub%20Graduation%202022&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=GitHub%20Graduation%202022%2C%20live%20event) to your calendar (Google calendar invite).
+- 📎Add the event to your calender:
+  - [Google Calender](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T200000Z%2F20220611T220000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [Microsoft Calender](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T22%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T20%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [Yahoo Calender](https://calendar.yahoo.com/?desc=&dur=&et=20220611T220000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T200000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
