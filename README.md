@@ -1,4 +1,4 @@
-# GitHub Graduation-2022
+# GitHub Graduation 2022
 
 ### [Leia este repositório em Português.](https://drive.google.com/file/d/1Jv777YShJLg_3fn5cVt27wU5QoqRrAni/view?usp=sharing)
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
