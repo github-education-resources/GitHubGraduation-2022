@@ -75,9 +75,9 @@ Remember: you have until May 30th to submit your story!
 
 
 # A note on swag 🛍
-The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
+The first 7,500 successfully merged PRs will receive a custom developer trading card with their GitHub status in the mail. 
 
-What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
+What does this mean? We use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please update your GitHub profile picture and bio with what you would like shown on the card.
 
 # Graduation Day 🎓
 Don't forget to watch the livestream! 
