@@ -145,7 +145,7 @@ try {
 
     if(!completedShippingForm) {
       console.log("user has not completed the shipping form")
-      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrM5IigBuRFaj33H) to continue*")
+      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrEfpxnoqAKKTZic) to continue*")
     }
 
     if(!isFilePathValid.isValid) {
@@ -160,7 +160,7 @@ try {
 
     if(!userAgreesCoc) {
       console.log("User has not agreed to COC")
-      feedback.push("* *You need to agree to our COC pretty please!*")
+      feedback.push("* *You need to agree to our COC on the shipping form pretty please!*")
     }
   }
 
