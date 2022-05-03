@@ -3,7 +3,7 @@
 ### Available Translations 🗣
 [Pt-BR](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.pt-br.md) 
 
-*Read the instruction in your language or contribute a translation!*
+*Read the instructions in your language or contribute a translation!*
 
 [Additional Translations](translations/README.md)
 
