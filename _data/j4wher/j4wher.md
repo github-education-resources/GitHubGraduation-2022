@@ -1,6 +1,6 @@
 ---
 name: jawher smida 
-institution: Higher Institute of Information and Communication Technologies ISTIC BC 🚩 
+institution:  ISTIC BC Tunisia🚩 
 quote: My future is only as good as the work I put into it. 
 github_user: j4wher
 ---
