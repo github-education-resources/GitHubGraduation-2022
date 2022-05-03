@@ -1,7 +1,7 @@
 # GitHub Graduation-2022
 
 ### Available Translations 🗣
-[Pt-BR](https://bit.ly/3LI8kAc) 
+[Pt-BR](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.pt-br.md) 
 
 *Read the instructions in your language or contribute a translation!*
 
