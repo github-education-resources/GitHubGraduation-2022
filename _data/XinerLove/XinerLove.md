@@ -1,7 +1,6 @@
 ---
 name: XinJun Li
-insitution: Rutgers Business School
-quote: You can't move forward without saying goodbye to the past
+institution: Rutgers Business School
+quote: Any sufficiently advanced technology is indistinguishable from magic
 github_user: XinerLove
 ---
-
