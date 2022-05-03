@@ -1,6 +1,6 @@
 ---
 name: Tom Matsaev
-institution: BGU
+institution: Ben Gurion University
 quote: Be wise. Be brave. Be tricky.
 github_user: tomatsaev
 ---
