@@ -1,6 +1,6 @@
 ---
 name: Nathan Adhitya
 institution: SINLUI 1
-quote: There are only two hard things in Computer Science. Cache invalidation and naming things.
+quote: I have no clue what I wrote, but the program's somehow working.
 github_user: NathanAdhitya
 ---
