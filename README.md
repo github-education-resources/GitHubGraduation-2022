@@ -7,7 +7,6 @@ This repository contains the yearbook for **GitHub Graduation 2022**. By issuing
 
 The first 7,500 pull request successfully merged into the repository by May 27 will receive custom trading card, stickers, and letter in the mail. 
 
-
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
 
