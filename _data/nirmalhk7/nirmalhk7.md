@@ -1,7 +1,6 @@
 ---
 name: Nirmal Khedkar
-tyOgheUniversityUniversitytyOgh
-tyOgh OgheUniversityUniversityNirmaOgheUniversityUniversityNirmaversityiversitversityiversity of NigeriaNigeria
-quote: Determination is a burning desire for success.
-github_user: yomaoktyOghyomaoktyOgh
+institute: National Institute of Technology, Karnataka
+quote: No guts, no glory. No hustle, no story.
+github_user: nirmalhk7
 ---
