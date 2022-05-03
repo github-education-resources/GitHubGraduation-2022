@@ -1,6 +1,6 @@
 ---
 name: Jonathan Zavialov
 institution: Central Bucks High School East
-quote: Some people graduate but still be stupid. -Ye
+quote: Even if you are not ready for the day, it cannot always be night. -Ye
 github_user: JonZavialov
 ---
