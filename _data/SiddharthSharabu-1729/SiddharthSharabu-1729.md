@@ -6,6 +6,6 @@ institution: SVR Engineering college
 
 quote: Don't Quit Learning
 
-github_user: SiddharthSharabu1729
+github_user: SiddharthSharabu-1729
 
 ---
