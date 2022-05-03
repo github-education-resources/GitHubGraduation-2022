@@ -41,7 +41,7 @@ Information submitted to [the swag shipment form](https://airtable.com/shrVMo8It
 
 ## 2. Add yourself to Yearbook 🏫
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
 
 ### First, create the folder _data/YOUR-USERNAME/ 
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
