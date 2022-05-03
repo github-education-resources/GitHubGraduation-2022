@@ -1,0 +1,6 @@
+---
+name: ROHIL KOHLI
+institution: DAYALBAGH EDUCATIONAL INSTITUTE
+quote: RUN FOR SUCCESS MONEY WILL FOLLOW YOU ON YOUR OWN
+github_user: rohil06
+---
