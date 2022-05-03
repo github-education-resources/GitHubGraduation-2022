@@ -42,7 +42,7 @@ Fork this repository, create a new folder inside the `_data` folder, and name it
 _data/MonaTheOctocat/
 ```
 ### Second, add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+Create a markdown file in your folder following the convention `brtobin.md`. Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
