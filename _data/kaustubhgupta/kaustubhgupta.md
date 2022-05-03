@@ -1,6 +1,6 @@
 ---
 name: Kaustubh Gupta
-institution: Maharaja Agrasen Institute of Technology (Guru Gobind Singh Indraprastha University)
+institution: Maharaja Agrasen Institute of Technology (GGSIPU)
 quote: Incremental sucess makes sense!
 github_user: kaustubhgupta
 ---
