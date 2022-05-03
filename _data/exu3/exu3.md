@@ -1,6 +1,6 @@
 ---
 name: Ella
-institution: School
-quote: Gadzooks!
+institution: Foothill High School
+quote: Yeah!
 github_user: exu3
 ---
