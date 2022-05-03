@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Gadesula lokeshprasanth
+institution: University college of engineering kakatiya university
+quote: Greatest choices require the strongest wills.
+github_user: lokeshgadesula
 ---
