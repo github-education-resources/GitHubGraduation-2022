@@ -1,6 +1,6 @@
 ---
 name: Evan Silverman
 institution: New York University
-quote: Nolan likes the shrug ¯\_(ツ)_/¯
+quote: Nolan likes the shrug
 github_user: esilverm
 ---
