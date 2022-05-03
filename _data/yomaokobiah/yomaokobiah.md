@@ -1,6 +1,6 @@
 ---
-name: Saurabh Jaiswal
-institution: Ewing christian college prayagraj
-quote: Hard work beats talent when talent dosent work hard.
-github_user: SaurabhJais
+name: Ogheneyoma Okobiah
+institution: Nile University of Nigeria
+quote: Determination is a burning desire for success.
+github_user: yomaokobiah
 ---
