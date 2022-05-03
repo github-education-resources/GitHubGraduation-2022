@@ -1,6 +1,6 @@
 ---
 name: NITESH TALIYAN 
 institution: Meerut Institute of Engineering and Technology 🚩 
-quote: If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+quote: Genius is one percent inspiration, ninety-nine percent perspiration.
 github_user: Niteshtaliyan
 ---
