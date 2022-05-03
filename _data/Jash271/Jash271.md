@@ -1,6 +1,6 @@
 ---
 name: Jash Shah 
 institution: Dwarkadas J. Sanghvi College of Engineering 
-quote: Hacking my way through !  
+quote: Hacking My Way Through !  
 github_user: Jash271
 ---
