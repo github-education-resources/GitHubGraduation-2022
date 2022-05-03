@@ -1,6 +1,0 @@
----
-name: AMOGH AYALASOMAYAJULA
-institution: UNIVERSITY OF ILLINOIS URBANA CHAMPAIGN
-quote: I LOVE GIT
-github_user: 27amogh
----
