@@ -1,6 +1,6 @@
 ---
 name: Deepanshu Udhwani
-institution: INSTITUTION-NAME 🚩 Thapar University
+institution: Thapar University
 quote: Live freely!
 github_user: itsdeepanshu
 ---
