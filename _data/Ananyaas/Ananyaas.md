@@ -1,5 +1,6 @@
--------
-name: Rishabh Devbanshi
-institution: IIITDM Jabalpur
-quote: If you don't like your destiny, don't accept it.
-github_user: RishabhDevbanshi
+---
+name: Ananyaa Shrivastava
+institution: Banasthali Vidyapith
+quote: Don't ever do anything to anyone, EVER! No matter who... or where...
+github_user: Ananyaas
+---
