@@ -1,6 +1,0 @@
----
-name: HUY NGO 
-institution: UNIVERSITY OF CALIFORNIA RIVERSIDE
-quote: ADVERSATIES IN LIFE CAN BE OVERCOME WITH GREAT OPTIMISM
-github_user: Tentorfield
----
