@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Graduation-2022
 
 ### [Leia este repositório em Português.](https://drive.google.com/file/d/1pbjjTfIzB3Mu3Ot98GTO72s8ZpsB_Lxb/view?usp=sharing)
@@ -95,3 +96,6 @@ Don't forget to watch the livestream!
 
 
 Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+=======
+# creat new branch
+>>>>>>> emptybranch
