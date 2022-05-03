@@ -33,7 +33,11 @@ const actionEvent = require('./app/action-event.js');
 const educationWeb = require('./app/education-web.js');
 const fileValidator = require('./app/file-validator.js');
 
-const BOT_ACCOUNT_LOGIN = "GitHub-Education-bot"
+const BOT_ACCOUNT_LOGIN = "github-education"
+
+const GRADUATES_2020 = "Graduation 2020"
+const GRADUATES_2021 = "Graduation 2021"
+const GRADUATES_2022 = "Graduation 2022"
 
 
 try {
@@ -41,7 +45,7 @@ try {
 
   const feedback = []
 
-  let pull, user2021, user2020, hasSdp
+  let pull, user2021, user2020, user2022, hasSdp
 
   if(actionEvent.name === "review_requested" && actionEvent.requestedReviewer.login !== BOT_ACCOUNT_LOGIN) {
     return true
@@ -54,16 +58,17 @@ try {
   }
 
   try {
-    user2021 = await airtable.fetch2021Graduate(actionEvent.pullAuthor)
+    user2022 = await airtable.fetchGraduate(actionEvent.pullAuthor, GRADUATES_2022)
   } catch(err) {
     console.log(err)
   }
 
   // checks
 
-  // graduated already in 2020?
+  // graduated already in 2020 or 2021?
   try {
-    user2020 = await airtable.userParticipated2020(actionEvent.pullAuthor)
+    user2020 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2020)
+    user2021 = await airtable.userParticipatedPrior(actionEvent.pullAuthor, GRADUATES_2021)
   } catch(err) {
     console.log(err)
   }
@@ -76,7 +81,7 @@ try {
   }
 
   // Has the user completed the shipping form? (address must exist for the form to be submitted)
-  const completedShippingForm = user2021 && user2021["Address Line 1"].length > 0
+  const completedShippingForm = user2022 && user2022["Address Line 1"].length > 0
   const fileNames = pull.files.edges.map((file)=>{
     return file.node.path
   })
@@ -126,11 +131,11 @@ try {
   // - welcome and congrats
   // - merge PR
 
-  const userAgreesCoc = user2021 && user2021["Code of Conduct"]
+  const userAgreesCoc = user2022 && user2022["Code of Conduct"]
   let closePR = false
 
-  if(user2020) {
-    console.log("user already Participated in 2020")
+  if(user2020 || user2021) {
+    console.log("user already Participated in 2020 or 2021")
     closePR = true
   } else {
     if(!hasSdp) {
@@ -140,7 +145,7 @@ try {
 
     if(!completedShippingForm) {
       console.log("user has not completed the shipping form")
-      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrM5IigBuRFaj33H) to continue*")
+      feedback.push("* *It looks like you still need to fill out the [shipping form](https://airtable.com/shrVMo8ItH4wjsO9f) to continue*")
     }
 
     if(!isFilePathValid.isValid) {
@@ -155,7 +160,7 @@ try {
 
     if(!userAgreesCoc) {
       console.log("User has not agreed to COC")
-      feedback.push("* *You need to agree to our COC pretty please!*")
+      feedback.push("* *You need to agree to our COC on the shipping form pretty please!*")
     }
   }
 
@@ -171,7 +176,7 @@ Feel free to re-request a review from me and I'll come back and take a look!
     `
   } else {
     // All checks pass
-    feedBackMessage = "It looks like you're all set! ⚠️Unfortunately, we no longer have swag to ship 🛍 yet you can still walk the stage. Thanks for the graduation submission."
+    feedBackMessage = "Your Pull Request looks good! Thanks for your graduation submission. Next, one of our reviews will come by to check your PR meets the Code of Conduct. You don’t need to do anything but wait. Once they've completed their review, they'll leave another comment asking for changes or merging your Pull Request."
     try {
       // await octokit.mergePR()
       await octokit.addReviewLabel()
