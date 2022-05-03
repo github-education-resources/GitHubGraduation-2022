@@ -1,6 +1,6 @@
 ---
 name: Hannah Chea 
 institution: University of California, Berkeley 
-quote:  I will never sell, only hold this $GME, smooth brain; diamond hands
+quote: not me graduating haha
 github_user: cheahannah
 ---
