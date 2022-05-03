@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Noor Gill
+institution: UC Berkeley 
+quote: Fiat Lux 
+github_user: noorkaurgill
 ---
