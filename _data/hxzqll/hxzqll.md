@@ -1,6 +1,6 @@
 ---
 name: Hizqeel Javed
 institution: Bahria University, Islamabad
-quote: The ending don't end you.
+quote: The endings won't end you.
 github_user: hxzqll
 ---
