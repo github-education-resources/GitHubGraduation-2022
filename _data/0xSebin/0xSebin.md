@@ -1,6 +1,6 @@
 ---
 name: Sebin Thomas
-institution: Alvas Degree College
+institution: Mangalore University
 quote: Code is my weapon
 github_user: 0xSebin
 ---
