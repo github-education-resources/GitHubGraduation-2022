@@ -1,6 +1,6 @@
 ---
 name: Nathan Goller-Deitsch
 institution: West Ashley High School
-quote: '); DROP TABLE Students;--
+quote: do cool things
 github_user: Quartzic
 ---
