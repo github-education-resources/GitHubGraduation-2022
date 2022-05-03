@@ -1,6 +1,6 @@
 ---
 name: Andrew Xie
 institution: University of New South Wales
-quote: Arch btw
+quote: I use arch btw
 github_user: axieax
 ---
