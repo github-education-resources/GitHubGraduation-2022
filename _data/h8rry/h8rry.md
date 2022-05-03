@@ -1,6 +1,6 @@
 ---
 name: Harry Chen
 institution: Georgia Tech
-quote: Compounding.
+quote: Compounding!
 github_user: h8rry
 ---
