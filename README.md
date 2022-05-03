@@ -23,13 +23,12 @@ The eligibility criteria are -
 
 # How to join the Class of 2022
 
-Here are three steps to join graduation and receive swag in the mail. 
-1. [Fill out the **swag shipment form**](https://airtable.com/shrVMo8ItH4wjsO9f)
+Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
+1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
  ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
 2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
-3. [**Save the date**](http://www.google.com/calendar/event?action=TEMPLATE&dates=20220611T160000Z%2FT010000Z&text=GitHub%20Graduation%202022&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=GitHub%20Graduation%202022%2C%20live%20event) (Google calendar invite) and attend graduation 🥳
 
-## 1. Fill out the swag shipment form.
+## 1. Fill out the shipping form.
 Information submitted to [the swag shipment form](https://airtable.com/shrVMo8ItH4wjsO9f) is only used to ship trading cards for graduation. Submitting the form does not guarantee you will receive anything in the mail. Only the first 7,500 graduates to merge their Pull Request to the GitHub Yearbook will receive a shipment.
 
 ## 2. Add yourself to Yearbook 🏫
