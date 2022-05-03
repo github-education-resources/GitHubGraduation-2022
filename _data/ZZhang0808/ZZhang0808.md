@@ -1,6 +1,6 @@
 ---
 name: Zifan Zhang
 institution: University of California San Diego
-quote: You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
+quote: Don't be afraid to give up the good to go for the great.
 github_user: ZZhang0808
 ---
