@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Rishabh Devbanshi
+institution: IIITDM Jabalpur
+quote: If you don't like your destiny, don't accept it.
+github_user: RishabhDevbanshi
 ---
