@@ -1,6 +1,6 @@
 ---
 
-name: Simone Benedetto
+name: Simo B
 
 institution: University of Catania 🚩
 
