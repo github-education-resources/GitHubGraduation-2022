@@ -1,6 +1,6 @@
 ---
 name: Adithi G
 institution: Amrita Vishwa Vidyapeetham
-quote: Why Fall In Love When You Can Fall Asleep
+quote: git pull origin me-out-of-college
 github_user: adithigiridharan
 ---
