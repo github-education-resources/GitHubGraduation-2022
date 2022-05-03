@@ -1,6 +1,6 @@
 ---
 name: Devika
 institution: Scripps College
-quote: nevertheless she persisted
+quote: Nevertheless she persisted.
 github_user: devikamehr
 ---
