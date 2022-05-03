@@ -1,6 +1,6 @@
 ---
 name: Armando Jiménez
 institution: Udemy
-quote: Believe in yourself. 
+quote: Always believe in yourself. 
 github_user: armandojimenez
 ---
