@@ -1,6 +1,6 @@
 ---
-name: Xunzhuo
+name: Xunzhuo Liu
 institution: UESTC
 quote: Stay hungry, stay foolish.
-github_user: xunzhuo
+github_user: Xunzhuo
 ---
