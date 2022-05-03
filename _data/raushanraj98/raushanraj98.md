@@ -1,6 +1,6 @@
 ---
 name: Raushan Raj 
 institution: Techno Engineering College Banipur
-quote: Always code as if the guy who ends up maintaning your code will be a violent psychopath who knows where you live.
+quote: I don't do Voodoo Programming it happens sometimes.
 github_user: raushanraj98
 ---
