@@ -10,4 +10,4 @@ This pull request template helps you complete an application to the **Class of 2
 - [ ] I have used the Markdown file template to add my information to the Year Book.
 - [ ] I understand that a reviewer will merge my pull request after examining it or ask for changes in case needed.
 - [ ] I understand I should not tag or add a reviewer to this Pull Request.
-- [ ] I have [added the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20210605T160000Z%2F20210605T173000Z&text=GitHub%20Graduation%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to my Calendar.
+- [ ] I have [added the event](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T200000Z%2F20220611T220000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A) to my Calendar.
