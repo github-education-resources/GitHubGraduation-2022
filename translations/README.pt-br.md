@@ -1,9 +1,9 @@
 ![Main Banner](https://github.com/education/GitHubGraduation-2022/raw/main/assets/GHG_Blog_1.jpg)
 
 
-Este repositório contém o Anuário para a Formatura do GitHub 2022. Ao criar um “pull request”, você está solicitando para ser adicionado a classe GitHub deste ano. 
+Este repositório contém o Anuário para a Formatura do GitHub 2022. Ao criar um pull request, você está solicitando para ser adicionado a classe GitHub deste ano. 
 
-As primeiras 7.500 solicitações de “pull requests” adicionadas com sucesso ao repositório até o dia 27 de maio receberão cartões personalizados por correio. 
+As primeiras 7.500 solicitações de pull requests adicionadas com sucesso ao repositório até o dia 27 de maio receberão cartões personalizados por correio. 
 
 
 ### Aviso de Privacidade 👀
@@ -32,9 +32,9 @@ Aqui você vai encontrar os dois passos a serem seguidos para participar da form
 
 1. **[Preencha esse formulário](https://airtable.com/shrVMo8ItH4wjsO9f)** para podermos enviar o seu cartão personalizado por correio.
 
-    ⚠️ ️Você deve preencher o formulário antes de criar o seu “pull request”. Lembre-se que apenas enviar o formulário não garante sua participação no evento. O seu “pull request" deve ser adicionado (merged) com sucesso ao nosso repositório e estar entre os primeiros 7.500 para receber o cartão personalizado.  
+    ⚠️ ️Você deve preencher o formulário antes de criar o seu pull request. Lembre-se que apenas enviar o formulário não garante sua participação no evento. O seu pull request deve ser adicionado (merged) com sucesso ao nosso repositório e estar entre os primeiros 7.500 para receber o cartão personalizado.  
 
-2. Envie o seu “pull request” com as informações do seu perfil do GitHub para ser adicionado ao nosso Anuário e ser destacado no nosso evento de formatura. 
+2. Envie o seu pull request com as informações do seu perfil do GitHub para ser adicionado ao nosso Anuário e ser destacado no nosso evento de formatura. 
 3. **[Save the date](https://education.github.com/events)** - Não deixe de fazer parte da nossa formatura 🥳
 
 ### 1. Preencha o formulário de envio do cartão personalizado
@@ -55,8 +55,7 @@ Copie este repositório (fork), crie uma nova pasta dentro da pasta `_data `e co
 Ex:  `_data/MonaTheOctocat/`
 
 
-### 
-**Em seguida adicione as informações do seu perfil **
+#### Em seguida adicione as informações do seu perfil 
 
 Crie um arquivo markdown em sua pasta seguindo esse exemplo: `<YOUR-USERNAME>.md`. 
 
@@ -78,7 +77,7 @@ Github_user: SEU-NOME-DE-USUARIO-GITBHUB
 
 _Não use caracteres especiais do modelo acima._
 
-**E por último, envie o seu pull request**
+#### E por último, envie o seu pull request
 
 Confira a checklist do modelo de pull request para garantir que o seu envio seja válido. A equipe do GitHub Education vai revisar sua inscrição, aprovar e aceitar o pull request se tudo estiver correto. Caso contrário, você será notificado sobre as alterações necessárias na seção de comentários do pull request. 
 
@@ -89,7 +88,7 @@ Nós adoraríamos ouvir sobre as coisas incríveis que você conquistou durante 
 
 Para saber mais sobre essa campanha, confira o link abaixo onde você irá encontrar todas as informações e regras de como participar. Tenha o seu vídeo compartilhado em nosso **[Instagram](https://www.instagram.com/githubeducation/)** ou a sua mensagem em nosso **[Twitter](https://twitter.com/GitHubEducation)**. 
 
-**[Envie sua história aqui](https://drive.google.com/file/d/1ozBt4ekiQuD4dSCq65S30-6V1Csw65A7/view?usp=sharing)**. Estamos empolgados para saber mais sobre você!
+**[Envie sua história aqui](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)**. Estamos empolgados para saber mais sobre você!
 
 
 ## Uma nota sobre os cartões 🛍
