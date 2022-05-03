@@ -1,6 +1,6 @@
 ---
 name: Dedar Alam
 institution: Primeasia University
-quote: The learning process continues until the day you die
+quote: Develop a passion for learning
 github_user: devded
 ---
