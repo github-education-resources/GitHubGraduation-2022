@@ -1,6 +1,6 @@
 ---
 name: Purvansh Parmar
 institution: M.B.M Engineering College
-quote: It is a shame for a man to grow old without seeing the strength of which his body is capable.
+quote: Fun times are over
 github_user: purvansh
 ---
