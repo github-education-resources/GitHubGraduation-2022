@@ -1,6 +1,6 @@
 ---
 name: Yassin BENNKHAY
-institution: EST Safi - Université Cadi Ayyad
+institution: EST Safi - Cadi Ayyad University
 quote: First Learn... the remove the L.
 github_user: yassine-bennkhay
 ---
