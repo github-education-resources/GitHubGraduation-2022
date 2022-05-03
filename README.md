@@ -94,4 +94,4 @@ Don't forget to watch the livestream!
   - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T220000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T200000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
-Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education) .
