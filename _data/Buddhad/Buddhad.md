@@ -1,6 +1,6 @@
 ---
 name: Buddhadeb Chhetri
-institution: Kingstion Educational Institute
+institution: Kingston Educational Institute
 quote: Work Hard and Party Hard
 github_user: Buddhad
 ---
