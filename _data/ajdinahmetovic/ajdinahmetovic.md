@@ -1,6 +1,6 @@
 ---
 name: Ajdin Ahmetovic
 institution: International Burch University
-quote: Tezak je zivot nas umjetnika.
+quote: Lorem ipsum dolor sit amet
 github_user: ajdinahmetovic
 ---
