@@ -1,6 +1,6 @@
 ---
 name: Jainam Zobaliya
 institution: K. J. Somaiya College of Engineering
-quote: Dream Big, do Smart-Work, have Patience and Persistenly work on GOALS and leave the end result on our KARMA.
+quote: Nothing happens by chance, by fate. We create our own fate by our actions. That’s Karma.
 github_user: JainamZobaliya
 ---
