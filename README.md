@@ -33,16 +33,16 @@ Information submitted to [the swag shipment form](https://airtable.com/shrVMo8It
 
 ## 2. Add yourself to Yearbook 🏫
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+Replace `brtobin` with your GitHub username in this guide.
 
-### First, create the folder _data/YOUR-USERNAME/ 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+### First, create the folder _data/brtobin/ 
+Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/brtobin/`. Ex.
 
 ```
 _data/MonaTheOctocat/
 ```
 ### Second, add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+Create a markdown file in your folder following the convention `brtobin.md`. Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
