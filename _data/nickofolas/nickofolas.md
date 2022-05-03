@@ -1,6 +1,6 @@
 ---
 name: Nick
-institution: Cornell University
+institution: KHS HS
 quote: Stay hydrated
 github_user: nickofolas
 ---
