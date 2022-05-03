@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Prasanjit Pattanaik
+institution: Kalinga Institute of Industrial Technology
+quote: Started a Journey with endless Vission.
+github_user: PrasanjitPattanaik
 ---
