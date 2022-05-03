@@ -1,6 +1,6 @@
 ---
 name: Joseph Gonzalez
 institution: Universidad Autonoma de Tamaulipas
-quote: Don't forget the semicolon.
+quote: Dont forget the semicolon.
 github_user: JosephGlz
 ---
