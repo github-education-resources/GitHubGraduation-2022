@@ -1,6 +1,6 @@
 ---
 name: Enzo Moreau
 institution: Lycée Paul Bert
-quote: The most useful thing in intelligence is to know how to control it.
+quote: Opportunity is the greatest opportunity of a lifetime.
 github_user: Elyia
 ---
