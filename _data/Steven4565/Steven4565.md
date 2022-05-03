@@ -1,6 +1,6 @@
 ---
-name: Steven
-institution: St. Louis 1 Surabaya
-quote: Where can I get more cats?
-github_user: Steven4565
+name: steven
+institution: st. louis 1 surabaya
+quote: where can I get more cats
+github_user: steven4565
 ---
