@@ -1,6 +1,6 @@
 ---
 name: Vikhyat Bhatnagar
 institution: Malla Reddy College of Engineering and Technology
-quote: Always curious to explore things.
+quote: Determination is a burning desire for success.
 github_user: vikhyat187
 ---
