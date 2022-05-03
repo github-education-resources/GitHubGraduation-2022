@@ -1,7 +1,7 @@
 ---
 name: Kryštof Havránek
 institution: Gymnázium Arabská
-quote: Na BubbleSort holku nesbalíš
-github-user: havrak
+quote: Musel jsem pracovat a moc mě to nabavilo - Strnad
+github_user: havrak
 ---
 
