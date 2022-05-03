@@ -1,6 +1,6 @@
 ---
 name: Rahil Kadakia
 institution: Dwarkadas J. Sanghvi College of Engineering
-quote: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleys
+quote: Doesn't expecting the unexpected make the unexpected expected?
 github_user: rahilkadakia
 ---
