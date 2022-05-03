@@ -1,6 +1,6 @@
 ---
 name: Arthur Pellegrini
-institution: IUT Vélizy
-quote: When you are asked to develop an application : to code or not to code ? that's the question
+institution: IUT UVSQ, Velizy
+quote: Give your best!
 github_user: arthurpellegrini
 ---
