@@ -1,6 +1,6 @@
 ---
-name: Aman Irshad
-institution: C V Raman Global University
+name: Shubham Upadhya
+institution: D.J. Sanghvi 
 quote: Set yourself free.
-github_user: amanirshad
+github_user: shubhamu78
 ---
