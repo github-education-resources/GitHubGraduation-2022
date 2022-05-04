@@ -69,7 +69,8 @@ Revisa la lista en el formato de pull request para garantizar que tu envío es v
 # Historias de Graduación 2022 👩‍🏫👨‍🏫 (opcional)
 ¿Buscas más maneras de participar en la Graduación GitHub y la posibilidad de aparecer en nuestras redes sociales?
 
-Queremos escuchar acerca de las cosas increibles que lograste durante tu año académico y sobre cómo GitHub te ayudó a lograr tus metas. Toma un momento para grabar un video o escribir un mensaje y comparte tu historia con nosotros, tus profesores, y tus compañeros de clase
+Queremos escuchar acerca de las cosas increíbles que lograste durante tu año académico y sobre cómo GitHub te ayudó a lograr tus metas. Toma un momento para grabar un video o escribir un mensaje y comparte tu historia con nosotros, tus profesores, y tus compañeros de clase
+
 
 [Cómo participar](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
