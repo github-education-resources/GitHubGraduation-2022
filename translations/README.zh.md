@@ -16,7 +16,7 @@
 
 资格标准是——
 1. 您已通过 GitHub Student Developer Pack 验证为学生。还不是 Pack 的一部分？在这里[申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
-2. 你没有参加过过去的 GitHub 毕业活动。
+2. 您没有参加过过去的 GitHub 毕业活动。
 3. 您确定为 2022 年的毕业生。
 
 # 如何加入 2022 届
@@ -53,14 +53,14 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 ---
 name: 全名或者昵称 #不超过 28 字符
 institution: 机构名称 🚩 # 不超过 58 字符
-quote: 你的名言 # 不超过 100 字符，避免使用引号 (") 以保证格式相同
-github_user: 你的 GitHub 用户名
+quote: 您的名言 # 不超过 100 字符，避免使用引号 (") 以保证格式相同
+github_user: 您的 GitHub 用户名
 ---
 ```
 
 _不要在上面的模板中使用特殊字符。_
 
-### 3. 提交你的 Pull Request
+### 3. 提交您的 Pull Request
 
 仔细检查拉取请求模板上的清单，以确保您的提交是有效的。如果一切正确，GitHub 教育团队将审核您的申请、批准并合并您的提交。否则，您将收到有关拉取请求评论部分中请求的更改的通知。
 
