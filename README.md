@@ -2,9 +2,10 @@
 
 ### Available Translations 🗣
 
-[Pt-BR](https://bit.ly/3LI8kAc)
++ [Pt-BR](https://bit.ly/3LI8kAc)
 + [Chinese](./translations/README.zh.md) 
 + [Ja](https://bit.ly/3sbGcO8)
++ [Ru](./translations/README.ru.md) 
 
 *Read the instructions in your language or contribute a translation!*
 

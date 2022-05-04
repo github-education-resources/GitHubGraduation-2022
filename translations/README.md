@@ -6,4 +6,5 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | [Portuguese](./README.pt-br.md) | @GitHub-Education                       |
 | [Chinese](./README.zh.md)       | @Xunzhuo                                |
 | [Japanese](./README.ja.md)      | [@kai0310](https://github.com/kai0310)  |
+| [Russian](./README.ru.md)       | [@lesterrry](https://github.com/lesterrry)|
 |                                 |                                         |
