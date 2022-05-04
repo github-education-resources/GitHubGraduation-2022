@@ -1,7 +1,8 @@
 # GitHub Graduation-2022
 
 ### Available Translations 🗣
-[Pt-BR](https://bit.ly/3LI8kAc) 
++ [Pt-BR](./translations/README.pt-br.md)
++ [Chinese](./translations/README.zh.md) 
 
 *Read the instructions in your language or contribute a translation!*
 
