@@ -70,7 +70,7 @@ _不要在上面的模板中使用特殊字符。_
 
 寻找更多参与 GitHub Graduation 的方式以及在我们的社交帐户中出现的可能性？
 
-我们想听听您在学年中取得的惊人成就，以及 GitHub 如何帮助您实现目标。花点时间录制视频或写信息，并与我们、您的老师和您的同学分享您的故事。
+我们想听听您在学年中取得的惊人成就，以及通过 GitHub 如何帮助您实现目标。花点时间录制视频或写信息，并与我们、您的老师和您的同学分享您的故事。
 
 [如何参加](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
