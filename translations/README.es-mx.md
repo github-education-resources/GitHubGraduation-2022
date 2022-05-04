@@ -6,7 +6,8 @@
 Este repositorio contiene el anuario para la **GitHub Graduation 2022**. Al emitir un pull request al este repositorio, puedes solicitar ser añadido a la Generación GitHub de 2022.
 
 
-Las primeras 7,500 pull requests que exitosamente se fusionen al repositorio antes del 27 de mayo recibirán una tarjeta comercial personalizada, calcomanías, y una carta por correo. 
+Los primeras 7,500 pull requests que exitosamente se fusionen al repositorio antes del 27 de mayo recibirán una tarjeta personalizada, calcomanías, y una carta por correo. 
+
 
 
 ## Aviso de privacidad 👀
