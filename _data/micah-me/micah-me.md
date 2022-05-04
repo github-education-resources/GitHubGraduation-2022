@@ -1,6 +1,6 @@
 ---
 name: Micah
 institution: Rizal Technological University
-quote: Do the things you want in life.
+quote: Just do the things you want in life and have fun.
 github_user: micah-me
 ---
