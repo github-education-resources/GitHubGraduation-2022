@@ -69,7 +69,7 @@ Copie o modelo em seu arquivo, exclua os dados e preencha com as suas informaç�
 name: NOME-COMPLETO-OU-APELIDO # Até 28 caracteres  
 institution: NOME-INSTITUIÇÃO 🚩 # Até 58 caracteres
 quote: SUA-FRASE # Até 100 caracteres, evite usar aspas(")para garantir que o formato permaneça o mesmo. 
-Github_user: SEU-NOME-DE-USUARIO-GITBHUB
+github_user: SEU-NOME-DE-USUARIO-GITBHUB
 
 ---
 ```
