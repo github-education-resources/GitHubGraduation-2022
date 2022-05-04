@@ -13,7 +13,8 @@ Considera que toda la información que añadas a este repositorio estará dispon
 
 - Si no te sientes comodo mostrando tu nombre completo, puedes usar un nombre corto o apodo.
 
-# Quién puede aplicar 📝
+# ¿Quién puede aplicar? 📝
+
 Invitamos a cualquier estudiante que se ha graduado, o planea graduarse, en 2022 a que apliquen para el anuario. Los graduados pueden ser de bootcamps, code camps, estudiantes de preparatoria, estudiantes de maestría, estudiantes de doctorado, etc.
 
 Los criterios de elección son -
