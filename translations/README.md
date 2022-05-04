@@ -5,4 +5,5 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | Language   | Authors           |
 |------------|-------------------|
 | [Portuguese](./README.pt-br.md) | @GitHub-Education |
+| [Russian](./README.ru-ru.md) | @StoreksFeed |
 |            |                   |
