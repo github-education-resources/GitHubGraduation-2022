@@ -1,6 +1,7 @@
 # GitHub Graduation-2022
 
 ### Available Translations 🗣
+
 [Pt-BR](https://bit.ly/3LI8kAc) 
 
 *Read the instructions in your language or contribute a translation!*
@@ -17,14 +18,17 @@ The first 7,500 pull request successfully merged into the repository by May 27 w
 
 
 ## Privacy Notice 👀
+
 Consider that all the information that you add to this repository will be publicly available.
 
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
 
 # Who can apply 📝
+
 We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
 The eligibility criteria are -
+
 1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. You have not participated in a past GitHub Graduation event.
 3. You identify as a graduate in the year 2022.
@@ -32,11 +36,13 @@ The eligibility criteria are -
 # How to join the Class of 2022
 
 Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
+
 1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
- ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
+   ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
 2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
 
 ## 1. Fill out the shipping form.
+
 Information submitted to [the swag shipment form](https://airtable.com/shrVMo8ItH4wjsO9f) is only used to ship trading cards for graduation. Submitting the form does not guarantee you will receive anything in the mail. Only the first 7,500 graduates to merge their Pull Request to the GitHub Yearbook will receive a shipment.
 
 ## 2. Add yourself to Yearbook 🏫
@@ -44,18 +50,23 @@ Information submitted to [the swag shipment form](https://airtable.com/shrVMo8It
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
 
 ### First, create the folder _data/YOUR-USERNAME/ 
+
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
 
 ```
 _data/MonaTheOctocat/
 ```
+
 ### Second, add your profile information
+
 Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
+
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+
 ```
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
@@ -74,6 +85,7 @@ Go through the checklist on the pull request template to guarantee your submissi
 Having trouble submitting your Pull Request? [Ask for help in the GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
 # Graduation Stories 2022 👩‍🏫👨‍🏫 (optional)
+
 Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?
 
 We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates. 
@@ -82,15 +94,17 @@ We want to hear about the amazing things you achieved during your academic year 
 
 We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖 
 Remember: you have until May 30th to submit your story! 
- 
+
 
 
 # A note on swag 🛍
+
 The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
 
 What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
 
 # Graduation Day 🎓
+
 Don't forget to watch the livestream! 
 
 - 📆 Saturday, June 11, 2022
