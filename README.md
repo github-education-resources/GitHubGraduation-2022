@@ -3,9 +3,9 @@
 ### Available Translations 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
-* [Chinese](./translations/README.zh.md)
-* [Ja](https://bit.ly/3sbGcO8)
-* [Ru](./translations/README.ru.md) 
+* [中国人](./translations/README.zh.md)
+* [日本](https://bit.ly/3sbGcO8)
+* [Русский](./translations/README.ru.md) 
 * [Indonesian](./translations/README.id-id.md)
 
 *Read the instructions in your language or contribute a translation!*
