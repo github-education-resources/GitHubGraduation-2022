@@ -62,7 +62,7 @@ _不要在上面的模板中使用特殊字符。_
 
 ### 3. 提交您的 Pull Request
 
-仔细检查拉取请求模板上的清单，以确保您的提交是有效的。如果一切正确，GitHub 教育团队将审核您的申请、批准并合并您的提交。否则，您将收到有关拉取请求评论部分中请求的更改的通知。
+仔细检查拉取请求模板上的清单，以确保您的提交是有效的。如果一切正确，GitHub 教育团队将审核您的申请、批准并合并您的提交。否则，您将收到有关拉取请求评论部分中请求修改的通知。
 
 提交 Pull Request 时遇到问题？ [向 GitHub 社区求助](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
