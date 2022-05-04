@@ -1,6 +1,6 @@
 ---
 
-name: BikramGhuku No longer than 28 characters
+name: BikramGhuku
 
 institution: DAV Model School, IIT Kharagpur🚩 # no longer than 58 characters
 
