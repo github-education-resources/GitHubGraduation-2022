@@ -3,10 +3,10 @@
 ### Available Translations 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
-* [中国人](./translations/README.zh.md)
-* [日本](https://bit.ly/3sbGcO8)
-* [Русский](./translations/README.ru.md) 
-* [Indonesian](./translations/README.id-id.md)
+* [中国人](https://bit.ly/3kE3Ezc)
+* [日本](https://bit.ly/38TCVfm)
+* [Русский](https://bit.ly/3w7d7EL) 
+* [Indonesian](https://bit.ly/3yeTRrI)
 * [Polski](./translations/README.pl.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
