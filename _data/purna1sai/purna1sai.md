@@ -1,6 +1,6 @@
 ---
 name: Purna Sai Madala
 institution: SRM University, AP
-quote: You're either a smart fella or a fart smella.
+quote: When life gives you lemons ask for oranges.
 github_user: purna1sai
 ---
