@@ -2,5 +2,5 @@
 name: Mateus Luiz
 institution: Estácio de Sá University (UNESA)
 quote: Trust God only!
-github_user: mateuspntxs
+github_user: mateuspntx
 ---
