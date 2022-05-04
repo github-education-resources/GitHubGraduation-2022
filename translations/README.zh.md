@@ -15,7 +15,7 @@
 我们邀请任何已毕业或计划在 2022 年毕业的学生申请年鉴。这包括训练营、代码营、高中毕业生、硕士毕业生、博士毕业生等。
 
 资格标准是——
-1. 您已通过 GitHub Student Developer Pack 验证为学生。还不是 Pack 的一部分？在这里[申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
+1. 您已通过 GitHub Student Developer Pack 验证为学生。还不是 Pack 的一部分？请在这里[申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
 2. 您没有参加过过去的 GitHub 毕业活动。
 3. 您确定为 2022 年的毕业生。
 
@@ -48,7 +48,7 @@ _data/MonaTheOctocat/
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
-将下一个模板复制到您的文件中，删除样板数据并用您的信息填写信息。
+将下一个模版复制到您的文件中，删除模版数据并用您的信息填写信息。
 ```
 ---
 name: 全名或者昵称 #不超过 28 字符
@@ -95,4 +95,4 @@ _不要在上面的模板中使用特殊字符。_
   - [Yahoo 日历](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
-关于 GitHub 毕业的问题？在 [GitHub 社区讨论](https://github.com/orgs/github-community/discussions/categories/github-education)中提问。
+关于 GitHub 毕业的问题？可以在 [GitHub 社区讨论](https://github.com/orgs/github-community/discussions/categories/github-education)中提问。
