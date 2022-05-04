@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1651651390955.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3630611611",
+    "id" : "75E3F1AE",
+    "lastKnownWriteTime" : 1651651452,
+    "last_content_update" : 1651651452,
+    "path" : "~/GitHubGraduation-2022/_data/phillipharmadi/phillipharmadi.md",
+    "project_path" : "_data/phillipharmadi/phillipharmadi.md",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
