@@ -1,8 +1,8 @@
 ![Main Banner](https://github.com/education/GitHubGraduation-2022/raw/main/assets/GHG_Blog_1.jpg)
 
-このリポジトリには、**GitHub Graduation 2022** の卒業アルバムが含まれています。このリポジトリにプルリクエストをおくることで、GitHubの2022年度卒業生に追加されることを申請することができます。
+このリポジトリには、**GitHub Graduation 2022** の卒業アルバムが含まれています。このリポジトリにPullRequestを送ることで、GitHubの2022年度卒業生に追加されることを申請することができます。
 
-5月27日までにリポジトリにマージされることに成功した先着7,500件のプルリクエストには、カスタムトレーディングカード、ステッカー、レターが郵送されます。
+5月27日までにリポジトリにマージされることに成功した先着7,500件のプルリクエストには、カスタムトレーディングカード、ステッカー、レターが発送されます。
 
 
 ## 個人情報保護方針 👀
@@ -13,20 +13,20 @@
 # 応募対象者 📝
 2022年に卒業した、または卒業予定の学生なら誰でも卒業アルバムに応募してください。ブートキャンプ、コーディングキャンプ、高校卒業、修士課程卒業、博士課程卒業などが含まれます。
 
-参加資格 -
-1. GitHub Student Developer Pack をすでに利用している学生 まだ利用していませんか？ [こちらから申請できます](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)
+参加資格：
+1. GitHub Student Developer Pack をすでに利用している学生 まだ利用していませんか？[こちらから申請できます](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)
 2. 過去に GitHub Graduation に参加したことがない方
 3. 2022年に卒業される方
 
 # 2022年の卒業生のクラスに参加する方法
 
-卒業生のクラスに参加し、カスタムトレーディングカードとステッカーが郵送されるまでの2つのステップをご紹介します。
+卒業生のクラスに参加し、カスタムトレーディングカードとステッカーが発送されるまでの2つのステップをご紹介します。
 1. [**発送リクエストフォーム**に記入する](https://airtable.com/shrVMo8ItH4wjsO9f)
-   ⚠️ このフォームはPullRequest（PR）を作成する前に行う必要があり、イベントに参加できることを保証するものではありません。あなたの PR がリポジトリに正常にマージされる必要があり、マージされた最初の 7,500 件の PR にのみ、カードが郵送されます。
+   ⚠️ このフォームはPullRequest（PR）を作成する前に行う必要があり、イベントに参加できることを保証するものではありません。あなたの PR がリポジトリに正常にマージされる必要があり、マージされた最初の 7,500 件の PR にのみ、カードが発送されます。
 3. あなたのプロフィール情報を **PullRequestで送り** 、卒業アルバムに登録することで、卒業イベントでハイライトされます。
 
-## 1. 発送リクエストフォームに必要事項を入寮区する
-[カード発送リクエストフォーム](https://airtable.com/shrVMo8ItH4wjsO9f) に送信された情報は、卒業記念のトレーディングカードを発送するためにのみ使用されます。フォームを送信しても、何か郵送されることを保証するものではありません。GitHub YearbookにPullRequestをマージされた先着7,500名の卒業生にのみ、発送を行います。
+## 1. 発送リクエストフォームに必要事項を入力する
+[カード発送リクエストフォーム](https://airtable.com/shrVMo8ItH4wjsO9f) に送信された情報は、卒業記念のトレーディングカードを発送するためにのみ使用されます。フォームを送信しても、何か発送されることを保証するものではありません。GitHub YearbookにPullRequestをマージされた先着7,500名の卒業生にのみ、発送を行います。
 
 ## 2. 卒業アルバムに自身を追加する 🏫
 
@@ -42,7 +42,6 @@
 _data/MonaTheOctocat/
 ```
 ### 次に、あなたのプロフィール情報を追加します
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 あなたの作成したフォルダに、 `<YOUR-USERNAME>.md` という規約に従ったマークダウンファイルを作成します。例：
 
 ```
@@ -64,12 +63,12 @@ _上記のテンプレートでは、特殊文字は使用しないでくださ�
 
 PullRequestのテンプレートのチェックリストに沿って、あなたのPullRequstが有効であることを確認してください。GitHub Education チームがPullRequstを確認し、すべてが正しければ承認・マージします。そうでない場合は、PullRequstのコメント欄で変更が必要な点を通知します。
 
-PullRequestに関して何かお困りですか？ [GitHub Community でヘルプを求めてください](https://github.com/orgs/github-community/discussions/categories/github-education)!
+PullRequestに関して何かお困りですか？ [GitHub Community でヘルプを求めてください](https://github.com/orgs/github-community/discussions/categories/github-education)！
 
 # 卒業ストーリー 2022 👩‍🏫👨‍🏫 (オプション)
 GitHub Graduationへの参加方法とSNSアカウントでの紹介の可能性をお探しですか？
 
-私たちは、あなたが1年の間に成し遂げたとても素晴らしいこと、そしてGitHubがあなたの目標達成にどのように役立ったかを聞きたいと思っています。ビデオメッセージやメッセージを書いて、あなたの学生生活でのストーリーを私たちや先生、クラスメイトと共有してください。
+私たちは、あなたが1年の間に成し遂げたとても素晴らしいこと、そしてGitHubがあなたの目標達成にどのように役立ったかを聞きたいと願っています。ビデオメッセージやメッセージを書いて、あなたの学生生活でのストーリーを私たちや先生、クラスメイトと共有してください。
 
 [参加方法](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
@@ -79,7 +78,7 @@ GitHub Graduationへの参加方法とSNSアカウントでの紹介の可能性
 
 
 # カードに関する注意点 🛍
-プルリクエストのマージに成功した先着7,500名には、GitHubのステータスを記載したカスタム開発者カードが郵送される予定です。
+プルリクエストのマージに成功した先着7,500名には、GitHubのステータスを記載したカスタム開発者カードが発送される予定です。
 
 これは何意味しているでしょうか？カスタムカードの作成には、GitHubのプロフィールに公開されている情報を使用します。そのため、GitHubのプロフィール写真と経歴が最新のものであり、カードに表示させたい内容であることを確認してください。
 
