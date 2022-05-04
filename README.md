@@ -1,7 +1,15 @@
 # GitHub Graduation-2022
 
-### [Leia este repositório em Português.](https://drive.google.com/file/d/1pbjjTfIzB3Mu3Ot98GTO72s8ZpsB_Lxb/view?usp=sharing)
+### Available Translations 🗣
+[Pt-BR](https://bit.ly/3LI8kAc) 
+
+*Read the instructions in your language or contribute a translation!*
+
+[Additional Translations](translations/README.md)
+
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
+
+
 
 This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
 
@@ -70,7 +78,7 @@ Looking for more ways to participate in GitHub Graduation and the possibility of
 
 We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates. 
 
-[How to participate](https://drive.google.com/file/d/1ozBt4ekiQuD4dSCq65S30-6V1Csw65A7/view)
+[How to participate](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
 We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖 
 Remember: you have until May 30th to submit your story! 
@@ -89,9 +97,9 @@ Don't forget to watch the livestream!
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
 - 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
 - 📎Add the event to your calender:
-  - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T200000Z%2F20220611T220000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
-  - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T22%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T20%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
-  - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T220000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T200000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
+  - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
 Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
