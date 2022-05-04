@@ -103,7 +103,7 @@ Apa artinya? Kami akan menggunakan informasi dari profil GitHub publik Anda untu
 Pastikan untuk menonton langsung kami:
 
 * 📆 11 Juni 2022
-* ⏰ Pukul 13:00 (waktu Brasilia)
+* ⏰ Pukul 23:00 (Waktu Indonesia Barat)
 * 📍 Ikuti saluran kami di **[Twitch](https://twitch.tv/githubeducation)** untuk notifikasi
 * 📎 Tambahkan acara ke kalender Anda: **[Google](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv %2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)**, **[ Outlook](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch .tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%2220GitationHub %20%F0%9F%8E%89%F0%9F%8E%8A)** atau **[Yahoo](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A %2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F% 8E%8A&v=60)**.
 
