@@ -27,7 +27,8 @@ We invite any student who has graduated, or plans to graduate, in 2022 to apply 
 The eligibility criteria are -
 1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. You have not participated in a past GitHub Graduation event.
-3. You identify as a graduate in the year 2022.
+3. You identify as a graduate in the year 2022.   
+
 
 # How to join the Class of 2022
 
