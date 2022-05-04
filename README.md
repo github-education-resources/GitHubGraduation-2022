@@ -8,9 +8,7 @@
 * [Русский](./translations/README.ru.md) 
 * [Indonesian](./translations/README.id-id.md)
 
-*Read the instructions in your language or contribute a translation!*
-
-[Additional Translations](translations/README.md)
+*Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
