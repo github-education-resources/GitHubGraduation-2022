@@ -3,7 +3,8 @@
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 
-Este repositorio contiene el anuario para la **Github Graduation 2022**. Al emitir una pull request al este repositorio, puedes solicitar ser añadido a la Generación Github de 2022.
+Este repositorio contiene el anuario para la **GitHub Graduation 2022**. Al emitir un pull request al este repositorio, puedes solicitar ser añadido a la Generación GitHub de 2022.
+
 
 Las primeras 7,500 pull requests que exitosamente se fusionen al repositorio antes del 27 de mayo recibirán una tarjeta comercial personalizada, calcomanías, y una carta por correo. 
 
