@@ -7,6 +7,7 @@
 * [日本](https://bit.ly/3sbGcO8)
 * [Русский](./translations/README.ru.md) 
 * [Indonesian](./translations/README.id-id.md)
+* [Polski](./translations/README.pl.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
