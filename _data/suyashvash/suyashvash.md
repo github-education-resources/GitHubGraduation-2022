@@ -1,6 +1,6 @@
 ---
 name: Suyash vashishtha
 institution: GOVT. R.C Khaitan Polytechnic college 
-quote: If it works dont touch it
+quote: It works on my machine tho !
 github_user: suyashvash
 ---
