@@ -1,6 +1,6 @@
 ---
 name: Celina Ough
 institution: University of Wisconsin-Madison
-quote: Have the confidence of a mediocre white man. 
+quote: Never spend 10 min doing something you can automate in 10 hours.  
 github_user: celinao
 ---
