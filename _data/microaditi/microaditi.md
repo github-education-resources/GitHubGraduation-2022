@@ -1,6 +1,6 @@
 ---
 name: Aditi Jain
 institution: Bharati Vidyapeeth College of Engineering Pune
-quote: Failing doesn’t give you a reason to give up, as long as you believe.
+quote: Failing doesn’t give you a reason to give up, as long as you believe. And what other thinks of you has nothing to do with you.
 github_user: microaditi
 ---
