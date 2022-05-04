@@ -27,7 +27,7 @@ Kriteria kelayakannya adalah -
 
 Berikut adalah dua langkah untuk bergabung ke wisuda dan menerima kartu perdagangan khusus dan stiker Anda melalui pos.
  1. [Isi **formulir pengiriman**](https://airtable.com/shrVMo8ItH4wjsO9f)
-  ️ ⚠️ formulir perlu di isi sebelum membuat Pull Request (PR) Anda dan tidak menjamin partisipasi dalam acara tersebut.  PR Anda harus berhasil digabungkan ke dalam repositori dan hanya 7.500 PR pertama yang digabungkan yang akan menerima kartu melalui pos.
+⚠️ formulir perlu di isi sebelum membuat Pull Request (PR) Anda dan tidak menjamin partisipasi dalam acara tersebut.  PR Anda harus berhasil digabungkan ke dalam repositori dan hanya 7.500 PR pertama yang digabungkan yang akan menerima kartu melalui pos.
  2. **Kirim pull request** dengan informasi profil Anda untuk bergabung dengan Buku Tahunan dan disorot dalam acara kelulusan.
 
 ## 1. Isi formulir pengiriman.
@@ -44,7 +44,7 @@ Fork repositori ini, buat folder baru di dalam folder `_data`, dan beri nama den
 _data/MonaTheOctocat/
 ```
 ### Kedua, tambahkan informasi profil anda
-Buat file markdown di folder Anda dengan mengikuti konvensi `<NAMA PENGGUNA ANDA>.md`. Contohnya.
+Buat file markdown di folder Anda dengan mengikuti konvensi `<YOUR-USERNAME>.md`. Contohnya.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
