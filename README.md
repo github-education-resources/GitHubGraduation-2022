@@ -1,11 +1,14 @@
 # GitHub Graduation-2022
 
 ### Available Translations 🗣
-[Pt-BR](https://bit.ly/3LI8kAc) 
 
-*Read the instructions in your language or contribute a translation!*
+* [Pt-BR](https://bit.ly/3LI8kAc)
+* [中国人](https://bit.ly/3kE3Ezc)
+* [日本](https://bit.ly/38TCVfm)
+* [Русский](https://bit.ly/3w7d7EL) 
+* [Indonesian](https://bit.ly/3yeTRrI)
 
-[Additional Translations](translations/README.md)
+*Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
