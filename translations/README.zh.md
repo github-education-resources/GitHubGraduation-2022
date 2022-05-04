@@ -32,7 +32,7 @@
 
 ##  二、加入年鉴 🏫
 
-在本指南中替换 `<YOUR-USERNAME>` 为您的 GitHub 用户名。请注意 `<YOUR-USERNAME>` 是**区分大小写**的。例如，如果您的用户名是 MonaTheOctocat，在提交拉取请求时使用其他名称 monatheoctocat 或 monaTheoctocat 将引发错误，请确保您在文件夹名称和文件名中使用与您的用户名完全相同的大小写。
+在本指南中替换 `<YOUR-USERNAME>` 为您的 GitHub 用户名。请注意 `<YOUR-USERNAME>` 是**区分大小写**的。例如，如果您的用户名是 MonaTheOctocat，在提交 Pull Request 时使用其他名称 monatheoctocat 或 monaTheoctocat 将引发错误，请确保您在文件夹名称和文件名中使用与您的用户名完全相同的大小写。
 
 ### 1. 首先，创建文件夹名为 _data/YOUR-USERNAME/
 
