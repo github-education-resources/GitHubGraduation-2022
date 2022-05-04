@@ -13,7 +13,8 @@ Los primeras 7,500 pull requests que exitosamente se fusionen al repositorio ant
 ## Aviso de privacidad 👀
 Considera que toda la información que añadas a este repositorio estará disponible de forma pública.
 
-- Si no te sientes comodo mostrando tu nombre completo, puedes usar un nombre corto o apodo.
+- Si no te sientes cómodo o cómoda mostrando tu nombre completo, puedes usar un nombre corto o apodo.
+
 
 # ¿Quién puede aplicar? 📝
 
