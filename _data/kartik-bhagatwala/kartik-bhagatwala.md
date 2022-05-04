@@ -1,6 +1,6 @@
 ---
 name: Kartik Bhagatwala
 institution: UC Irvine
-quote: `NULL`
+quote: None
 github_user: kartik-bhagatwala
 ---
