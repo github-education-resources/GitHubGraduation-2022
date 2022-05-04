@@ -1,6 +1,6 @@
 ---
-name: Marcus Lo # No longer than 28 characters
-institution: University of New South Wales 🚩 # no longer than 58 characters
-quote: $ git commitment issues # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: Marcus Lo
+institution: University of New South Wales
+quote: $ git commitment issues
 github_user: m-lo
 ---
