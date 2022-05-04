@@ -1,4 +1,4 @@
-![Main Banner](../assets/GHG_Blog_1.jpg)
+![主页](../assets/GHG_Blog_1.jpg)
 
 此仓库包含了 GitHub 2022 届的毕业年鉴。通过向此仓库发起 Pull Request，您可以请求添加到 2022 届的 GitHub 毕业班级中。
 
