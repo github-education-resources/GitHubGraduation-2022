@@ -3,8 +3,8 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 
 | Language                        | Authors                                 |
 |---------------------------------|-----------------------------------------|
-| [Portuguese](./README.pt-br.md) | @mlarasusan @jakeliny                   |
-| [Chinese](./README.zh.md)       | @Xunzhuo @StarOnTheSky                  |
-| [Japanese](./README.ja.md)      | @kai0310                                |
-| [Russian](./README.ru.md)       | @lesterrry                              |
-| [Indonesian](./translations/README.id-id.md)| @andhra21231 @Faris0520     | 
+| [Portuguese](./README.pt-br.md) | [@mlarasusan](https://github.com/mlarasusan) [@jakeliny](https://github.com/jakeliny)                   |
+| [Chinese](./README.zh.md)       | [@Xunzhuo](https://github.com/Xunzhuo) [@StarOnTheSky](https://github.com/StarOnTheSky)                  |
+| [Japanese](./README.ja.md)      | [@kai0310](https://github.com/kai0310)                                |
+| [Russian](./README.ru.md)       | [@lesterrry](https://github.com/lesterrry)                              |
+| [Indonesian](./README.id-id.md) | [@andhra21231](https://github.com/andhra21231) [@Faris0520](https://github.com/Faris0520)     | 
