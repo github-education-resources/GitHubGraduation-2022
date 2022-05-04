@@ -1,4 +1,3 @@
- 
 ---
 name: Shrit Shah
 institution: LDRP Institute of Technology and Research
