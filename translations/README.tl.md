@@ -1,17 +1,3 @@
-# GitHub Graduation-2022
-
-### Available Translations 🗣
-
-* [Pt-BR](https://bit.ly/3LI8kAc)
-* [中国人](https://bit.ly/3kE3Ezc)
-* [日本](https://bit.ly/38TCVfm)
-* [Русский](https://bit.ly/3w7d7EL) 
-* [Indonesian](https://bit.ly/3yeTRrI)
-* [Español](./translations/README.es-mx.md)
-* [Polski](./translations/README.pl.md)
-
-*Read the instructions in your language or [contribute a translation](translations/README.md)!*
-
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 
@@ -60,11 +46,11 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 ```
 Kopyahin ang susunod na template sa iyong file, tanggalin ang boilerplate data at punan ang impormasyon sa iyo.
 ```
----
+--- 
 name: BOUNG-PANGALAN-O-PALAYAW # hindi hihigit sa 28 character
 institution: PANGALAN-NG-INSTITUTION 🚩 # hindi hihigit sa 58 character
-quote: AND-IYONG-SENIOR-QUOTE # hindi hihigit sa 100 character, iwasang gumamit ng mga quotes(") upang matiyak na ang format ay nananatiling pareho.
-github_user: AND-IYONG-GITHUB-USERNAME
+quote: ANG-IYONG-SENIOR-QUOTE # hindi hihigit sa 100 character, iwasang gumamit ng mga quotes(") upang matiyak na ang format ay nananatiling pareho.
+github_user: ANG-IYONG-GITHUB-USERNAME 
 ---
 ```
 
