@@ -1,4 +1,6 @@
-name: Eduardo Alexandre L Silva
-institution: Universidade Salgado de Oliveira - Universo
-quote: Feito, nem sempre é melhor que perfeito!
+---
+name: Eduardo Alexandre L S
+institution: University Salgado de Oliveira 
+quote: Feito, enm sempre é melhor que perfeito!
 github_user: eduardotecnologo
+---
