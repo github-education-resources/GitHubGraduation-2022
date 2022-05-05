@@ -1,15 +1,15 @@
-# GitHub Graduation-2022
+# GitHub Mezuniyet Etkinliği-2022
 
-### Yapılmış Çeviriler 🗣
+### Mevcut Çeviriler 🗣
 
-* [Pt-BR](https://bit.ly/3LI8kAc)
+* [Portekizce](https://bit.ly/3LI8kAc)
 * [Çince](https://bit.ly/3kE3Ezc)
 * [Japonca](https://bit.ly/38TCVfm)
-* [Русский](https://bit.ly/3w7d7EL)
+* [Rusça](https://bit.ly/3w7d7EL)
 * [Korece](https://bit.ly/3MS4owN)
-* [Indonesian](https://bit.ly/3yeTRrI)
+* [Endonezya dili](https://bit.ly/3yeTRrI)
 * [İspanyolca](https://bit.ly/3wqpwUz)
-* [Polski](https://bit.ly/38c411k)
+* [Lehçe](https://bit.ly/38c411k)
 
 *Yönergeleri kendi dilinde oku veya [çeviri yaparak katkıda bulun](translations/README.md)!*
 
@@ -78,32 +78,33 @@ Başvurunun geçerli olduğunu garantilemek için pull request şablonundaki kon
 Pull request yollarken sorun mu yaşıyorsun? [GitHub Community'de yardım al](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
 # 2022 Mezuniyet Hikayeleri 👩‍🏫👨‍🏫 (isteğe bağlı)
-Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?
+GitHub Mezuniyet Etkinliği'nde ve sosyal medya hesabımızda yer almanın daha fazla yollarını mı arıyorsun?  
 
 We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates. 
 
-[How to participate](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
+Bu akademik senende başardığın inanılmaz şeyleri ve GitHub'ın hedeflerine ulaşmanda nasıl yardımı olduğunu duymak isteriz. Sınıf arkadaşların, öğretmenlerin ve bizlerle hikayeni paylaşmak için vaktini ayırıp bir video kaydet veya mesaj yaz.  
 
-We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖 
-Remember: you have until May 30th to submit your story! 
+[Nasıl katılınır](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
+ 
+Söylemek istediklerini duymayı çok isteriz ve topluluğumuz bir parçası olduğun için minnettarız 💖  
+Unutma: hikayeni paylaşmak için son tarih 30 Mayıs! 
  
 
 
-# A note on swag 🛍
-The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
+# Hediyeler hakkında bir not 🛍
+Başarıyla birleştirilen ilk 7500 PR, GitHub durumunu içeren ve kişiye özel holografik geliştirici değiş tokuş kartını posta yoluyla teslim alacak.
 
-What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
+Bu ne demek oluyor? Herkese açık GitHub profil bilgilerini kartı yaratmak için kullanacağız. Kartın seni en iyi biçimde yansıtması için GitHub profil resminin ile biyografinin güncel olmasına ve kartta görünmesini istediğin şeyler olduğuna dikkat et!
 
-# Graduation Day 🎓
-Don't forget to watch the livestream! 
+# Mezuniyet Günü 🎓
+Canlı yayını izlemeyi unutma! 
 
-- 📆 Saturday, June 11, 2022
+- 📆 11 Haziran 2022, Cumartesi
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
-- 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
-- 📎Add the event to your calender:
+- 📍 [GitHub Education Twitch Kanalı](https://twitch.tv/githubeducation)'nı bildirimleri almak için takip et.
+- 📎 Etkinliği takvimine ekle:
   - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
-
-Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+GitHub Mezuniyet Etkinliği hakkında soruların mı var? [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education)'da sorabilirsin.
