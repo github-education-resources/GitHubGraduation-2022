@@ -13,13 +13,13 @@ Pertimbangkan bahwa semua informasi yang Anda tambahkan ke repositori ini akan t
 - Jika Anda merasa tidak nyaman dengan menampilkan nama lengkap Anda, Anda dapat menyertakan nama pendek atau nama panggilan saja.
 
 
-## Siapa yang bisa melamar 📝
+## Siapa yang bisa ikut 📝
 
 Setiap siswa yang telah lulus atau berencana untuk lulus pada tahun 2022 diundang untuk mendaftar ke buku tahunan kami. Ini termasuk bootcamp, kamp kode, siswa sekolah menengah, master, mahasiswa doktoral, dll. Kriteria yang digunakan untuk seleksi siswa adalah:
 
 
 
-1. Anda adalah siswa terverifikasi dan telah bergabung GitHub Developer Student Pack. Belum bergabung? **[Lamar Disini](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)**
+1. Anda adalah siswa terverifikasi dan telah bergabung GitHub Developer Student Pack. Belum bergabung? **[Daftar Disini](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)**
 2. Anda belum pernah menghadiri wisuda GitHub di tahun-tahun sebelumnya.
 3. Anda mengidentifikasi sebagai lulusan tahun 2022.
 
