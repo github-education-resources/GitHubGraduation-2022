@@ -1,11 +1,17 @@
 # GitHub Graduation-2022
 
 ### Available Translations 🗣
-[Pt-BR](https://bit.ly/3LI8kAc) 
 
-*Read the instructions in your language or contribute a translation!*
+* [Pt-BR](https://bit.ly/3LI8kAc)
+* [中国人](https://bit.ly/3kE3Ezc)
+* [日本](https://bit.ly/38TCVfm)
+* [Русский](https://bit.ly/3w7d7EL)
+* [Korean](./translations/README.ko-kr.md)
+* [Indonesian](https://bit.ly/3yeTRrI)
+* [Español](./translations/README.es-mx.md)
+* [Polski](./translations/README.pl.md)
 
-[Additional Translations](translations/README.md)
+*Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
@@ -30,7 +36,6 @@ The eligibility criteria are -
 3. You identify as a graduate in the year 2022.
 
 # How to join the Class of 2022
-
 Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
 1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
  ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
@@ -40,8 +45,7 @@ Here are two steps to join graduation and receive your custom trading card and s
 Information submitted to [the swag shipment form](https://airtable.com/shrVMo8ItH4wjsO9f) is only used to ship trading cards for graduation. Submitting the form does not guarantee you will receive anything in the mail. Only the first 7,500 graduates to merge their Pull Request to the GitHub Yearbook will receive a shipment.
 
 ## 2. Add yourself to Yearbook 🏫
-
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
 
 ### First, create the folder _data/YOUR-USERNAME/ 
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
@@ -68,7 +72,6 @@ github_user: YOUR-GITHUB-USERNAME
 _Do not use special characters in the template above._
 
 ### Third, submit your Pull Request
-
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
 
 Having trouble submitting your Pull Request? [Ask for help in the GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
