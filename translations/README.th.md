@@ -30,68 +30,70 @@ Pull request 7,500 อันแรกที่ได้ merge เข้า repos
 ## 1. กรอกฟอร์มสำหรับที่อยู่
 ข้อมูลที่คุณกรอกใน [ฟอร์มสำหรับที่อยู่](https://airtable.com/shrVMo8ItH4wjsO9f) จะถูกใช้สำหรับการส่งการ์ดเท่านั้น การกรอกฟอร์มไม่ได้รับประกันสิทธิ์ในการได้รับของ และมีเพียง 7,500 คนแรกที่สามารถ merge Pull Request เข้าไปที่หนังสือรุ่น GitHub เท่านั้นที่จะได้รับของ
 
-## 2. Add yourself to Yearbook 🏫
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
-
 ## 2. เพิ่มตัวเองเข้าไปในหนังสือรุ่น 🏫
-แทนที่ `<YOUR-USERNAME>` ด้วยชื่อผู้ใช้ใน GitHub ของคุณในตัวอย่างนี้. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
+แทนที่ `<YOUR-USERNAME>` ด้วยชื่อผู้ใช้ใน GitHub ของคุณในตัวอย่างนี้. โปรดทราบว่า `<YOUR-USERNAME>` เป็น **Case Sensitive** เช่น ถ้าชื่อผู้ใช้ของคุณคือ `MonaTheOctocat` หากคุณพิมพ์ผิดเป็น `monatheoctocat` or `monaTheoctocat` จะทำให้เกิด error ตอนส่ง Pull Request โปรดตรวจสอบให้แน่ใจว่าคุณใช้ชื่อผู้ใช้ด้วยตัวพิมพ์ใหญ่หรือเล็กที่ถูกต้องทั้งในชื่อโฟลเดอร์และชื่อไฟล์
 
-### First, create the folder _data/YOUR-USERNAME/ 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+### ขั้นแรก สร้างโฟลเดอร์ _data/YOUR-USERNAME/ 
+Fork repository นี้, สร้างโฟลเดอร์ใหม่ไว้ข้างในโฟลเดอร์ `_data` ด้วยชื่อเดียวกับชื่อผู้ใช้ของคุณ ในรูปแบบนี้ `_data/<YOUR-USERNAME>/` เช่น
 
 ```
 _data/MonaTheOctocat/
 ```
-### Second, add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+### ขั้นตอนที่สอง ระบุข้อมูลโปรไฟล์ของคุณ
+สร้างไฟล์ markdown ในโฟลเดอร์ของคุณด้วยรูปแบบ `<YOUR-USERNAME>.md` เช่น
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+คัดลอก template ด้านล่าง และแทนที่ข้อมูลใน template ด้วยข้อมูลของคุณเอง
 ```
 ---
-name: FULLNAME-OR-NICKNAME # No longer than 28 characters
-institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: FULLNAME-OR-NICKNAME # ความยาวไม่เกิน 28 ตัวอักษร
+institution: INSTITUTION-NAME 🚩 # ความยาวไม่เกิน 58 ตัวอักษร
+quote: YOUR-SENIOR-QUOTE # ความยาวไม่เกิน 100 ตักอักษร และควรหลีกเลี่ยง (") เพื่อให้รูปแบบเป็นไปในทางเดียวกัน
 github_user: YOUR-GITHUB-USERNAME
 ---
 ```
 
-_Do not use special characters in the template above._
+_ห้ามใช้ตัวอักษรพิเศษใน template ด้านบนนี้_
 
-### Third, submit your Pull Request
+### ขั้นตอนที่สาม ส่ง Pull Request ของคุณ
 Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
 
-Having trouble submitting your Pull Request? [Ask for help in the GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
+เช็คในเช็คลิสต์ใน pull request template เพื่อให้แน่ใจว่า pull request ของคุณถูกต้องและครบถ้วน หากทุกอย่างถูกต้อง ทางทีม GitHub Education จะเช็ค pull request ของคุณ และ merge หรือคุณจะได้รับการแจ้งเตือนหากต้องการการแก้ไขทาง comment ใน pull request ของคุณ
 
-# Graduation Stories 2022 👩‍🏫👨‍🏫 (optional)
-Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?
+หากพบปัญหาในการส่ง Pull Request ของคุณ คุณสามารถ [ขอความช่วยเหลือจาก GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
-We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates. 
+# เรื่องราวการจบการศึกษาของปี 2022 👩‍🏫👨‍🏫 (ไม่บังคับ)
 
-[How to participate](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
+ ต้องการที่จะมีส่วนร่วมในการจบการศึกษาของ GitHub มากกว่านี้ และโอกาสที่จะได้อยู่บนหน้า social ของเราใช่ไหม
 
-We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖 
-Remember: you have until May 30th to submit your story! 
- 
+เราอยากจะฟังเรื่องราวอันแสนน่าทึ่งที่คุณเจอระหว่างปีการศึกษา และ GitHub ช่วยคุณให้ประสบความสำเร็จได้อย่างไร อัดวิดิโอสั้น ๆ หรือเขียนข้อความเพื่อแบ่งปันเรื่องราวของคุณกับเรา อาจารย์ของคุณ หรือเพื่อน ๆ ของคุณ
 
+[วิธีการเข้าร่วม](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
-# A note on swag 🛍
+เราจะรอฟังเรื่องราวของคุณ และเรายินดีเป็นอย่างยิ่งที่มีคุณเป็นส่วนหนึ่งของ community ของเรา 💖  
+อย่าลืม: คุณมีเวลาถึงวันที่ 30 พฤษภาคมเพื่อส่งเรื่องราวของคุณ!
+
+# เกี่ยวกับ swag 🛍
 The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
 
 What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
 
-# Graduation Day 🎓
-Don't forget to watch the livestream! 
+PR 7,500 PR แรกที่ได้รับการ merge จะได้รับการ์ดที่ระลึก holographic developer แบบ custom พร้อมข้อมูล GitHub ทางไปรษณีย์
 
-- 📆 Saturday, June 11, 2022
+นั่นแปลว่า เราจะใช้ข้อมูลโปรไฟล์ GitHub ของคุณในการทำการ์ดที่ระลึกนี้ และเพื่อให้การ์ดที่ระลึกสะท้อนตัวของคุณได้มากที่สุด โปรดทำให้แน่ใจว่าคุณได้อัพเดทรูปโปรไฟล์และสถานะบน GitHub ของคุณให้ล่าสุด และเป็นสิ่งที่คุณต้องการให้อยู่บนการ์ดที่ระลึก
+
+# วันจบการศึกษา 🎓
+อย่าลืมรับชมการถ่ายทอดสด! 
+
+- 📆 วันเสาร์ที่ 11 พฤษภาคม ปี 2022
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
-- 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
-- 📎Add the event to your calender:
+- 📍 ติดตาม [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) เพื่อได้รับการแจ้งเดือน
+- 📎 เพิ่มกิจกรรมเข้าไปในปฏิทิน:
   - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
-Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+หากมีคำถามเกี่ยวกับกิจกรรมการจบการศึกษาของ GitHub คุณสามารถถามได้ที่ [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education)
