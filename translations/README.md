@@ -11,3 +11,4 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | [Russian](./README.ru.md)       | [@lesterrry](https://github.com/lesterrry)                              |
 | [Indonesian](./README.id-id.md) | [@andhra21231](https://github.com/andhra21231) [@Faris0520](https://github.com/Faris0520)     | 
 | [Polish](./README.pl.md)        | [@Nevalicjus](https://github.com/Nevalicjus)                             | 
+| [Thai](./README.th.md)        | [@pknn](https://github.com/pknn)                             | 
