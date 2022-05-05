@@ -1,6 +1,6 @@
 ---
-name: HexRabbit
+name: zhengyima
 institution: National Chiao Tung University
 quote: ZZ for save and quit.
-github_user: HexRabbit
+github_user: zhengyima
 ---
