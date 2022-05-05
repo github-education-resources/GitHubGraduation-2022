@@ -11,6 +11,7 @@
 * [Español](./translations/README.es-mx.md)
 * [Polski](./translations/README.pl.md)
 * [French](./translations/README.fr.md)
+* [Hindi](./translations/README.hi.md) 
 
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
