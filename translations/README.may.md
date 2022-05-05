@@ -1,18 +1,5 @@
 # Graduasi GitHub-2022
 
-### Terjemahan Tersedia 🗣
-
-- [Pt-BR](https://bit.ly/3LI8kAc)
-- [中国人](https://bit.ly/3kE3Ezc)
-- [日本](https://bit.ly/38TCVfm)
-- [Русский](https://bit.ly/3w7d7EL)
-- [Bahasa Indonesia](https://bit.ly/3yeTRrI)
-- [Español](./translations/README.es-mx.md)
-- [Polski](./translations/README.pl.md)
-- [Malay](./translations/README.may.md)
-
-_Baca arahan dalam bahasa anda atau [sumbang terjemahan](terjemahan/README.md)!_
-
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 Repositori ini mengandungi buku tahunan untuk **GitHub Graduation 2022**. Dengan mengeluarkan permintaan tarik ke repositori ini, anda boleh meminta untuk ditambahkan ke Kelas GitHub 2022.
