@@ -1,6 +1,6 @@
 ---
 name: Parinphat Wasinchaikulpat
-institution: Chulalongkorn University 🚩
+institution: Chulalongkorn University
 quote: Quality over quantity
 github_user: parinphatw
 ---
