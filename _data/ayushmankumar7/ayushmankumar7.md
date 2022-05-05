@@ -1,0 +1,6 @@
+---
+name: AYUSHMAN KUMAR
+institution: B.P PODDAR INSTITUTE OF MANAGEMENT AND TECHNOLOGY
+quote: THERE'S NOTHING YOU CAN'T DO. BELIEVE IN YOURSELF.
+github_user: ayushmankumar7
+---
