@@ -10,6 +10,7 @@
 * [Indonesian](https://bit.ly/3yeTRrI)
 * [Español](https://bit.ly/3wqpwUz)
 * [Polski](https://bit.ly/38c411k)
+* [Türkçe](https://bit.ly/3w8XrRb)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
