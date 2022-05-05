@@ -7,6 +7,7 @@
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL) 
 * [Indonesian](https://bit.ly/3yeTRrI)
+* [Spanish](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.es-es.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
