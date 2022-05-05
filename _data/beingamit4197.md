@@ -1,6 +1,6 @@
 ---
 name: Amit Rawat
-institution: Chaudhary Charan Singh University, Meerut Uttar Pradesh 🚩
+institution: Chaudhary Charan Singh University, Meerut Uttar Pradesh
 quote: Your future is only as good as the work you put into it.
-github_user: BEINGAMIT4197
+github_user: beingamit4197
 ---
