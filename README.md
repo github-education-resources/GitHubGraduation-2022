@@ -6,7 +6,7 @@
 * [中国人](https://bit.ly/3kE3Ezc)
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL)
-* [Korean](./translations/README.ko-kr.md)
+* [Korean](https://bit.ly/3MS4owN)
 * [Indonesian](https://bit.ly/3yeTRrI)
 * [Español](./translations/README.es-mx.md)
 * [Polski](./translations/README.pl.md)
