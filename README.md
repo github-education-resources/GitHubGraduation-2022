@@ -8,9 +8,11 @@
 * [Русский](https://bit.ly/3w7d7EL)
 * [Korean](https://bit.ly/3MS4owN)
 * [Indonesian](https://bit.ly/3yeTRrI)
+* [Türkçe](./translations/README.tr.md)
 * [Español](https://bit.ly/3wqpwUz)
 * [Polski](https://bit.ly/38c411k)
-* [Türkçe](./translations/README.tr.md)
+* [French](./translations/README.fr.md)
+* [Hindi](./translations/README.hi.md) 
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
