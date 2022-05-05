@@ -1,7 +1,7 @@
 ![Main Banner](https://github.com/education/GitHubGraduation-2022/raw/main/assets/GHG_Blog_1.jpg)
 
 
-Repositori ini berisi Buku Tahunan Wisuda GitHub 2022. Dengan membuat pull request, Anda meminta untuk ditambahkan ke kelas GitHub tahun ini.
+Repositori ini berisi Buku Tahunan GitHub Graduation 2022. Dengan membuat pull request, Anda meminta untuk ditambahkan ke kelas GitHub tahun ini.
 
 7.500 pull request pertama yang berhasil ditambahkan ke repositori sebelum 27 Mei akan menerima kartu yang dipersonalisasi melalui pos.
 
@@ -50,16 +50,16 @@ Ganti `<NAMA-PENGGUNA-ANDA>` dengan nama pengguna GitHub Anda.
 
 #### Pertama, buat folder _data/NAMA-PENGGUNA-ANDA/
 
-Salin repositori ini (fork), buat folder baru di dalam folder `_data ` dan masukkan nama pengguna Anda. Ini akan terlihat seperti berikut: `_data/<NAMA PENGGUNA ANDA>/`.
+Salin repositori ini (fork), buat folder baru di dalam folder `_data ` dan masukkan nama pengguna Anda. Ini akan terlihat seperti berikut: `_data/<NAMA-PENGGUNA-ANDA>/`.
 
 Contoh: `_data/MonaTheOctocat/`
 
 
 #### Kemudian tambahkan informasi profil Anda
 
-Buat file penurunan harga di folder Anda dengan mengikuti contoh ini: `<NAMA PENGGUNA ANDA>.md`.
+Buat file markdown di folder Anda dengan mengikuti contoh ini: `<NAMA-PENGGUNA-ANDA>.md`.
 
-Mantan. `_data/MonaTheOctocat/MonaTheOctocat.md`
+Contoh: `_data/MonaTheOctocat/MonaTheOctocat.md`
 
 Salin template ke file Anda, hapus data dan isi dengan informasi Anda.
 
@@ -75,7 +75,7 @@ github_user: USERNAME-GITHUB
 ```
 
 
-_Jangan gunakan karakter khusus dari template di atas._
+_Jangan gunakan karakter khusus pada template di atas._
 
 #### Terakhir, kirim pull request Anda
 
@@ -85,6 +85,8 @@ Anda memiliki permasalahan saat mengirim Pull Request? [Tanyakan di Komunitas Gi
 
 
 ## Cerita Wisuda 2022 👩‍🏫👨‍🏫 (Opsional)
+
+Mencari lebih banyak cara untuk berpartisipasi dalam GitHub Graduation dan kemungkinan ditampilkan di akun media sosial kami?
 
 Kami akan senang mendengar tentang hal-hal luar biasa yang telah Anda capai selama tahun akademik Anda dan bagaimana GitHub telah membantu Anda dalam perjalanan itu. Luangkan waktu beberapa menit untuk merekam video atau menulis pesan untuk dibagikan kepada kami, guru, dan kolega Anda.
 
