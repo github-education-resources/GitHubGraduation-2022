@@ -10,6 +10,8 @@
 * [Indonesian](https://bit.ly/3yeTRrI)
 * [Español](./translations/README.es-mx.md)
 * [Polski](./translations/README.pl.md)
+* [French](./translations/README.fr.md)
+
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
