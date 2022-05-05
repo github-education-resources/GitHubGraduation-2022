@@ -1,7 +1,7 @@
 ---
-name: Umar Haruna Abdullahi 
+name: Umar Abdullahi 
 
-institution: Gombe State University 🚩
+institution: Gombe State University
 
 quote: Testing can only prove the presence of bugs, not their absence.
 
