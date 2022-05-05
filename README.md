@@ -9,6 +9,7 @@
 * [Indonesian](https://bit.ly/3yeTRrI)
 * [Español](./translations/README.es-mx.md)
 * [Polski](./translations/README.pl.md)
+* [Filipino](./translations/README.tl.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
