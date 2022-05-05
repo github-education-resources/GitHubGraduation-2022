@@ -1,6 +1,6 @@
 ---
 name: Rajat Tiwari
-institution: Bipin Tripathi Kumoan Institute of Technology 
+institution: Bipin Tripathi Kumaon Institute of Technology 
 quote: I write code.
 github_user: rajattiwari01
 ---
