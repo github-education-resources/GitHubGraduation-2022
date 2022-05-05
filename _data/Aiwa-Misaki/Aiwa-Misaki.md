@@ -1,6 +1,6 @@
 —
 name: DuckZhu 
 institution: Northeastern University, China
-quote: Embrace myself. 
+quote: Embrace full of myself. 
 github_user: Aiwa-Misaki
 —
