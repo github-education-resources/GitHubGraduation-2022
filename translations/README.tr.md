@@ -1,18 +1,5 @@
 # GitHub Mezuniyet Etkinliği-2022
 
-### Mevcut Çeviriler 🗣
-
-* [Portekizce](https://bit.ly/3LI8kAc)
-* [Çince](https://bit.ly/3kE3Ezc)
-* [Japonca](https://bit.ly/38TCVfm)
-* [Rusça](https://bit.ly/3w7d7EL)
-* [Korece](https://bit.ly/3MS4owN)
-* [Endonezya dili](https://bit.ly/3yeTRrI)
-* [İspanyolca](https://bit.ly/3wqpwUz)
-* [Lehçe](https://bit.ly/38c411k)
-
-*Yönergeleri kendi dilinde oku veya [çeviri yaparak katkıda bulun](translations/README.md)!*
-
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 
