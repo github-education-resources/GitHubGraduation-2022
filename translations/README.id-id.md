@@ -1,3 +1,5 @@
+# GitHub Graduation 2022
+
 ![Main Banner](https://github.com/education/GitHubGraduation-2022/raw/main/assets/GHG_Blog_1.jpg)
 
 
