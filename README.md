@@ -15,6 +15,8 @@
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
+
+
 This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
 
 The first 7,500 pull request successfully merged into the repository by May 27 will receive custom trading card, stickers, and letter in the mail. 
