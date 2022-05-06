@@ -95,7 +95,7 @@ Apakah maksud ini? Kami akan menggunakan maklumat profil GitHub awam anda untuk 
 Jangan lupa untuk menonton siaran langsung!
 
 - 📆 Sabtu, 11 Jun 2022
-- ⏰ 9:00 pagi PT | 16:00 GMT | 21:30 IST
+- ⏰ 24:00 GMT+8
 - 📍 Ikuti [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) untuk mendapatkan pemberitahuan.
 - 📎Tambahkan acara pada kalendar anda:
   - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
