@@ -1,6 +1,6 @@
 ---
 name: Akshan Sameullah
 institution: Thomas Jefferson High School For Science and Technology
-quote: Sometimes the worst of things happens to the best of people, and the best of things happens to the worst.
+quote: Life is more about signing up on time than it is about grinding.
 github_user: Wild266
 ---
