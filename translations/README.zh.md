@@ -1,6 +1,6 @@
 # GitHub 2022届毕业典礼
 
-![Banner](/assets/GHG_Blog_1.jpg)
+![顶部展示图片](/assets/GHG_Blog_1.jpg)
 
 
 
