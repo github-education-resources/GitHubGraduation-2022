@@ -1,6 +1,6 @@
 ---
-name: Tharunreddyramigani# No longer than 28 characters
-institution: Sathyabama University 🚩 # no longer than 58 characters
-quote: Believe in Your Self # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: Tharunreddyramigani 
+institution: Sathyabama University
+quote: Believe in Your Self
 github_user: R-TharunReddy
 ---
