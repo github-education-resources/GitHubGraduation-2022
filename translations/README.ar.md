@@ -53,3 +53,26 @@
 
 
 `_data/MonaTheOctocat/`
+
+إضافة المعلومات
+
+أنشء ملف وسميه:
+
+`<YOUR-USERNAME>.md`
+
+على سبيل المثال:
+
+`_data/MonaTheOctocat/MonaTheOctocat.md`
+
+إنسخ هذا إلى الملف, أزل المعلومات الوهمية وأضف المعلومات الخاصة بك.
+
+```
+---
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
+institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+github_user: YOUR-GITHUB-USERNAME
+---
+```
+
+_يرجى عدم إستخدام أحرف خاصة مثل الرموز `@`_
