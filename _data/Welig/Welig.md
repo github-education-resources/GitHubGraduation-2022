@@ -1,0 +1,6 @@
+---
+name: Ricky Memije-Hernandez
+institution: Southern Careers Institute
+quote: Passion with persistency will lead to success.
+github_user: 31rick31
+---
