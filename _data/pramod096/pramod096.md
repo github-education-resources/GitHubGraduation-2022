@@ -1,0 +1,6 @@
+---
+name: PRAMOD REDDY GONEGARI
+institution: NORTHWEST MISSOURI STATE UNIVERSITY
+quote: COMPUTER SCIENCE GRADUATE
+github_user: pramod096
+---
