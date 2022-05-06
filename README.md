@@ -13,6 +13,7 @@
 * [Polski](https://bit.ly/38c411k)
 * [French](./translations/README.fr.md)
 * [Hindi](./translations/README.hi.md) 
+* [Nepali](./translations/README.np.md) 
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
