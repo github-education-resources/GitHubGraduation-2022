@@ -6,10 +6,13 @@
 * [中国人](https://bit.ly/3kE3Ezc)
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL)
-* [Korean](./translations/README.ko-kr.md)
+* [Korean](https://bit.ly/3MS4owN)
 * [Indonesian](https://bit.ly/3yeTRrI)
-* [Español](./translations/README.es-mx.md)
-* [Polski](./translations/README.pl.md)
+* [Türkçe](./translations/README.tr.md)
+* [Español](https://bit.ly/3wqpwUz)
+* [Polski](https://bit.ly/38c411k)
+* [French](./translations/README.fr.md)
+* [Hindi](./translations/README.hi.md) 
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
