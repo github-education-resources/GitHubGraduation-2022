@@ -12,7 +12,8 @@
 * [Español](https://bit.ly/3wqpwUz)
 * [Polski](https://bit.ly/38c411k)
 * [French](./translations/README.fr.md)
-* [Hindi](./translations/README.hi.md) 
+* [Hindi](./translations/README.hi.md)
+* [German](./translations/README.de.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
