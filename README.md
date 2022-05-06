@@ -11,12 +11,12 @@
 * [Español (España)](./translations/README.es-es.md)
 * [Español (México)](./translations/README.es-mx.md)
 * [Polski](./translations/README.pl.md)
+* [Filipino](./translations/README.tl.md)
 * [Türkçe](./translations/README.tr.md)
 * [Polski](https://bit.ly/38c411k)
 * [French](./translations/README.fr.md)
 * [Hindi](./translations/README.hi.md) 
 * [ไทย](./translations/README.th.md)
-
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
