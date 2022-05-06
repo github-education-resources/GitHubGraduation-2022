@@ -1,4 +1,7 @@
 name: subraium
-institution: Datawhale
+
+institution: Datawhal
+
 quote: less is more
+
 github_user: Subranium
