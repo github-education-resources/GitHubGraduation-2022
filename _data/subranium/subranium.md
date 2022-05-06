@@ -1,6 +1,6 @@
 name: subraium
 
-institution: Datawhal
+institution: Datawhale
 
 quote: less is more
 
