@@ -14,6 +14,7 @@
 * [French](./translations/README.fr.md)
 * [Hindi](./translations/README.hi.md) 
 * [ไทย](./translations/README.th.md)
+* [Bengali](./translations/README.bn.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
