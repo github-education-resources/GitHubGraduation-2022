@@ -1,7 +1,7 @@
 ---
-name: Maurilio Batista da Silva Filho 
+name: Maurilio Batista da S Filho 
 institution: Line on Code 🚩
-quote: O mundo sempre sera melhor e tudo fosse open-source. 
+quote: O mundo sempre sera melhor se tudo fosse open-source. 
 github_user: mauriliofilho
 
 ---
