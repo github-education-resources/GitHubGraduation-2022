@@ -1,6 +1,6 @@
 ---
 name: Cruiz Kusman
-institution: University of Illinois - Carbondale
+institution: Southern Illinois University - Carbondale
 quote: Reinvent the wheel when you wanna know how the wheel works
 github_user: CruizK
 ---
