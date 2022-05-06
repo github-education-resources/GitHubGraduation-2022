@@ -1,6 +1,6 @@
 ---
 name: Souvik Mondal
 institution: Banaras Hindu University
-quote: Concistency is the key.
+quote: Do what you like.
 github_user: AzT3Risk
 ---
