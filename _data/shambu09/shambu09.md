@@ -1,6 +1,6 @@
 ---
 name: Shambu Valasang
 institution: KLE Technological University
-quote: Don’t feel stupid if you don’t like what everyone else pretends to love.
+quote: Time is everything we have and don't
 github_user: shambu09
 ---
