@@ -3,7 +3,7 @@
 ### Available Translations 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
-* [中国人](https://bit.ly/3kE3Ezc)
+* [中文](https://bit.ly/3kE3Ezc)
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL)
 * [Korean](https://bit.ly/3MS4owN)
@@ -13,6 +13,7 @@
 * [Polski](https://bit.ly/38c411k)
 * [French](./translations/README.fr.md)
 * [Hindi](./translations/README.hi.md) 
+* [ไทย](./translations/README.th.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
