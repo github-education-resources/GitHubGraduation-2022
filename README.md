@@ -17,7 +17,7 @@
 * [French](./translations/README.fr.md)
 * [Hindi](./translations/README.hi.md) 
 * [ไทย](./translations/README.th.md)
-* [Arabic](./README.ar.md)
+* [Arabic](./translations/README.ar.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
