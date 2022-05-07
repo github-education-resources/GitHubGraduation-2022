@@ -1,0 +1,6 @@
+---
+name: AMRTH ASHOK SHENAVA 
+institution: KENT STATE UNIVERSITY 🚩 
+quote: BE CRAZY AND BE WEIRD. GO AGAINST THE CROWD, BE YOURSELF AND CHANGE THE WORLD.
+github_user: amritshenava98
+---
