@@ -22,11 +22,11 @@
 # 如何加入 2022 届
 
 这是加入毕业并通过邮件接收您的定制礼物卡和贴纸的两个步骤：
-1. [填写 **运输表格**](https://airtable.com/shrVMo8ItH4wjsO9f)
+1. [填写 **物流运输表格**](https://airtable.com/shrVMo8ItH4wjsO9f)
  ⚠️ 该表格需要在创建您的 Pull Request (PR) 之前完成，但其不保证参与活动。您的 PR 必须成功合并到仓库中，并且只有前 7,500 个合并的 PR 会收到邮寄的卡片。
 2. 提交一个包含您的个人资料信息的 Pull Request 以加入年鉴并在毕业活动中突出显示。
 
-## 一、填写运输表格
+## 一、填写物流运输表格
 
 向[礼物运输表](https://airtable.com/shrVMo8ItH4wjsO9f) 提交的信息仅用来运输毕业卡片。提交表格并不能保证您会收到邮件中的任何内容。只有前 7,500 名将他们的 Pull Request 合并到 GitHub 年鉴的毕业生才会收到货物。
 
@@ -52,8 +52,8 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 ```
 ---
 name: 全名或者昵称 #不超过 28 字符
-institution: 机构名称 🚩 # 不超过 58 字符
-quote: 您的名言 # 不超过 100 字符，避免使用引号 (") 以保证格式相同
+institution: 院校名称 🚩 # 不超过 58 字符
+quote: 您的座右铭 # 不超过 100 字符，避免使用引号 (") 以保证格式相同
 github_user: 您的 GitHub 用户名
 ---
 ```
@@ -87,7 +87,7 @@ _不要在上面的模板中使用特殊字符。_
 不要忘记观看直播！
 
 - 📆 2022 年 6 月 11 日星期六
-- ⏰ 太平洋时间上午 9:00 | 格林威治标准时间 16:00 | 21:30 IST
+- ⏰ 太平洋时间上午 9:00 | 格林威治标准时间 16:00 | 印度标准时间 21:30
 - 📍 关注 GitHub 教育 [Twitch 频道](https://twitch.tv/githubeducation)以获取通知。
 - 📎 将事件添加到您的日历：
   - [Google 日历](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
