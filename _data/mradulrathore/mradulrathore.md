@@ -1,0 +1,6 @@
+---
+name: MRADUL RATHORE
+institution: SHRI GOVINDRAM SEKSARIA INSTITUTE OF TECHNOLOGY AND SCIENCE, INDORE
+quote: FUTURE IS HERE
+github_user: mradulrathore
+---
