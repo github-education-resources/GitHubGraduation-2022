@@ -1,6 +1,6 @@
 ---
 name: Clayton Araujo
-institution: Vidya Vikas Mandal's Shree Damodar College of Commerce & Economic 🚩
+institution: VVM's Shree Damodar College of Commerce 🚩
 quote: “All things good to know are difficult to learn.”
 github_user: Claytonx210
 ---
