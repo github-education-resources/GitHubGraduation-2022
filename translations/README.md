@@ -4,7 +4,8 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | Language                        | Authors                                 |
 |---------------------------------|-----------------------------------------|
 | [Portuguese](https://bit.ly/3LI8kAc) | [@mlarasusan](https://github.com/mlarasusan) [@jakeliny](https://github.com/jakeliny)                   |
-| [Chinese](https://bit.ly/3kE3Ezc)       | [@Xunzhuo](https://github.com/Xunzhuo) [@StarOnTheSky](https://github.com/StarOnTheSky)                  |
+| [Chinese](https://bit.ly/3kE3Ezc)       | [@Xunzhuo](https://github.com/Xunzhuo)                  |
+| [Chinese(Simplified)](./README.zh-CN.md) | @StarOnTheSky |
 | [Japanese](https://bit.ly/38TCVfm)      | [@kai0310](https://github.com/kai0310)                                |
 | [Russian](https://bit.ly/3w7d7EL)       | [@lesterrry](https://github.com/lesterrry)                              |
 | [Korean](https://bit.ly/3MS4owN)     | [@Laeng](https://github.com/Laeng)                              |
