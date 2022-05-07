@@ -15,7 +15,8 @@
 * [Türkçe](./translations/README.tr.md)
 * [Polski](https://bit.ly/38c411k)
 * [French](./translations/README.fr.md)
-* [Hindi](./translations/README.hi.md) 
+* [Hindi](./translations/README.hi.md)
+* [German](./translations/README.de.md)
 * [ไทย](./translations/README.th.md)
 * [Arabic](./translations/README.ar.md)
 
