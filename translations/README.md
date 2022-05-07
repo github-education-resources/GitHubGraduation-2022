@@ -15,3 +15,4 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | [French](./README.fr.md)        | [@richarddushime](https://github.com/richarddushime)                     |
 | [Hindi](./README.hi.md)        | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)                     
 | [Thai](./README.th.md)          | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                             | 
+| [Arabic](./README.ar.md)          | [@OmarDev100](https://github.com/OmarDev100)                             | 
