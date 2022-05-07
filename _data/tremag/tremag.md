@@ -1,6 +1,6 @@
 ---
-name: Gio # No longer than 28 characters
-institution: Rensselaer Polytechnic Institute 🚩 # no longer than 58 characters
-quote: bachelor's in Google-fu - acquired :) # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: Gio
+institution: Rensselaer Polytechnic Institute
+quote: bachelor's in Google-fu - acquired :)
 github_user: tremag
 ---
