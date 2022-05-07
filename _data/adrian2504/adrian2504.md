@@ -1,7 +1,7 @@
-Name: Adrian Dsouza
+name: Adrian Dsouza
 
-Institution: Rajiv Gandhi Institute of Technology (Computer Engineering)
+institution: Rajiv Gandhi Institute of Technology (Computer Engineering)
 
-Quote: THERE IS NO DREAM EVER TOO BIG AND NO DREAMER EVER TOO SMALL!!!! 😃
+quote: THERE IS NO DREAM EVER TOO BIG AND NO DREAMER EVER TOO SMALL!!!! 😃
 
-Github_user: adrian2504
+github_user: adrian2504
