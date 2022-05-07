@@ -1,4 +1,6 @@
+---
 name: Shubham Chandra
 institution: BIT MESRA
-quote: First, solve the problem. Then, write the code
-github_user: Shubham-dotcom
+quote: First, solve the problem. Then, write the Algorithm.
+github_user: Shubham-com
+---
