@@ -13,6 +13,7 @@ Open a Pull Request or ping the GitHub Education team on social media (@GitHubEd
 | [Polish](https://bit.ly/38c411k)        | [@Nevalicjus](https://github.com/Nevalicjus)                             | 
 | [Turkish](./README.tr.md)| [@fybx](https://github.com/fybx) |                          | 
 | [French](./README.fr.md)        | [@richarddushime](https://github.com/richarddushime)                     |
+| [Nepali](./README.np.md)        | [@prabincankod](https://github.com/prabincankod)
 | [German](./README.de.md)        | [@benni347](https://github.com/benni347)                     |
 | [Hindi](./README.hi.md)        | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)                     
 | [Thai](./README.th.md)          | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                             | 
