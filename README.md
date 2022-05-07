@@ -17,6 +17,7 @@
 * [French](./translations/README.fr.md)
 * [Nepali](./translations/README.np.md) 
 * [Hindi](./translations/README.hi.md)
+* [Punjabi](./translations/README.pun.md)
 * [German](./translations/README.de.md)
 * [ไทย](./translations/README.th.md)
 * [Arabic](./translations/README.ar.md)
