@@ -22,6 +22,7 @@
 * [ไทย](./translations/README.th.md)
 * [Arabic](./translations/README.ar.md)
 * [Malay](./translations/README.may.md)
+* [Bengali](./translations/README.Be.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
