@@ -1,4 +1,4 @@
-﻿---
+---
 name: Vivek Ranjan Singh
 institution: Lovely professional university
 quote: Dream Big,Hustle Hard
