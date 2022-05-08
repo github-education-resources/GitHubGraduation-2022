@@ -1,6 +1,6 @@
 ---
 name: Fayaz Sajan
-institution: Sri Venkateshwara College of Engineering, Bangalore
+institution: SVCE, Bangalore
 quote: Be something out of Nothing.
 github_user: fayazsajan
 ---
