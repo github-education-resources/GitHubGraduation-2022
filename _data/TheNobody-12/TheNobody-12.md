@@ -1,6 +1,6 @@
 ---
-name: SARTHAK-KAPALIYA 
-institution: Pandit-Deendayal-Energy-University 🚩 
-quote: TO-INFINITY_AND_BEYOND 
-github_user: TheNobody12
+name: SARTHAK KAPALIYA 
+institution: Pandit Deendayal Energy University 🚩 
+quote: TO INFINITY AND BEYOND 
+github_user: TheNobody-12
 ---
