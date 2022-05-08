@@ -17,7 +17,7 @@
  Invitamos a cualquier estudiante que se ha graduado, o planea graduarse, en 2022 a que apliquen para el anuario. Los graduados pueden ser de bootcamps, code camps, estudiantes de preparatoria, estudiantes de maestría, estudiantes de doctorado, etc.
 
  Los criterios de elección son -
- 1. Has sido verificado como un estudiante con el GitHub Student Developer Pack. ¿Todavía no eres parte del Pack? [Applica aquí](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
+ 1. Has sido verificado como un estudiante con el GitHub Student Developer Pack. ¿Todavía no eres parte del Pack? [Solicita aquí](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
  2. No has participado en un evento previo de GitHub Graduation.
  3. Te identificas como un graduado en el año 2022
 
@@ -35,8 +35,8 @@
 
  Reemplaza `<TU-NOMBRE-DE-USUARIO>` con tu nombre de usuario de GitHub en esta guía. Por favor toma en cuenta que `<TU-NOMBRE-DE-USUARIO>` distingue entre mayúsculas y minúsculas. Por ejemplo, si tu nombre de usuario es `MonaTheOctocat`, escribirlo como `monatheoctocat` o `monaTheoctocat` va a producir un error al subir la Pull Request. Asegúrate de usar las mayúsculas y minúsculas tal cuál como están en tu nombre de usuario, tanto en el nombre del folder como en el nombre del archivo.
 
- ### Primero, crea el folder _data/TU-NOMBRE-DE-USUARIO/
- Haz un Fork de este repositorio, crea un nuevo folder dentro de la carpeta `_data` y nombralo como tu nombre de usuario. Debería verse como `_data/<TU-NOMBRE-DE-USUARIO>/`. Por ejemplo.
+ ### Primero, crea la carpeta _data/TU-NOMBRE-DE-USUARIO/
+ Haz un Fork de este repositorio, crea una nueva carpeta dentro de la carpeta `_data` y nombralo como tu nombre de usuario. Debería verse como `_data/<TU-NOMBRE-DE-USUARIO>/`. Por ejemplo.
 
  ```
  _data/MonaTheOctocat/
@@ -69,7 +69,7 @@
  # Historias de Graduación 2022 👩‍🏫👨‍🏫 (opcional)
  ¿Buscas más maneras de participar en la Graduación GitHub y la posibilidad de aparecer en nuestras redes sociales?
 
- Queremos escuchar acerca de las cosas increibles que lograste durante tu año académico y sobre cómo GitHub te ayudó a lograr tus metas. Toma un momento para grabar un video o escribir un mensaje y comparte tu historia con nosotros, tus profesores, y tus compañeros de clase
+ Queremos escuchar acerca de las cosas increíbles que lograste durante tu año académico y sobre cómo GitHub te ayudó a lograr tus metas. Toma un momento para grabar un video o escribir un mensaje y comparte tu historia con nosotros, tus profesores, y tus compañeros de clase
 
  [Cómo participar](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
@@ -78,7 +78,7 @@
 
 
  # Una nota sobre el swag 🛍
- Los primeros 7,500 PRs que exitosamente se fusionen recibiran una tarjeta de desarrollador de desarrollador holográfica personalizada con tus estadísticas de GitHub por correo.
+ Los primeros 7,500 PRs que se fusionen exitosamente recibiran una tarjeta de desarrollador holográfica personalizada con tus estadísticas de GitHub por correo.
 
  ¿Qué significa esto? Vamos a utilizar tu perfil público de GitHub para crear la tarjeta de desarrollador. Para asegurar que tu tarjeta te represente de la mejor forma, por favor asegúrate que tu foto de perfil de GitHub y tu biografía estén actualizadas con lo que te gustaría que se vea en tu tarjeta.
 
