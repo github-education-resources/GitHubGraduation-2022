@@ -1,6 +1,6 @@
 ---
 name: Rupom
 institution: Varendra University
-quote: The way to get started is to quit talking and begin doing. -Walt Disney
+quote: Money, Money, Money, Money- Money, Money, Money, Money- Ching Ching, Bling Bling
 github_user: cosmic-js
 ---
