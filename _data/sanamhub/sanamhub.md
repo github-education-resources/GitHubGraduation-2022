@@ -1,6 +1,6 @@
 ---
 name: Sanam Sagar Pakuwal
-institution: Lincoln University College
-quote: Love to learn, learn to earn.
+institution: Balmiki Lincoln College Pvt. Ltd.
+quote: Learn something new daily, spread something awesome for the world
 github_user: sanamhub
 ---
