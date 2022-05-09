@@ -1,0 +1,20 @@
+{
+  "name": "GitHub Graduation",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.11.0",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "markdown-it": "^12.0.6",
+    "markdown-it-metadata-block": "^1.0.2",
+    "octokit": "^1.0.3",
+    "yaml": "^1.10.2"
+  }
+}
