@@ -66,7 +66,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note t
 Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
 
 ```
-_data/MonaTheOctocat/
+_data/MoncefKa/
 ```
 
 ### Second, add your profile information
@@ -74,7 +74,7 @@ _data/MonaTheOctocat/
 Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 
 ```
-_data/MonaTheOctocat/MonaTheOctocat.md
+_data/MonaTheOctocat/AboutMe.md
 ```
 
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
