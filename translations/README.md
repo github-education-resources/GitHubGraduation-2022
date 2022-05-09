@@ -20,3 +20,4 @@
 | [Thai](./README.th.md)                   | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                                    | 
 | [Arabic](./README.ar.md)                 | [@Omar8345](https://github.com/Omar8345) [@OmarDev100](https://github.com/OmarDev100)                | 
 | [Malay](./README.may.md)                 | [@adekoerniawan](https://github.com/adekoerniawan)                                                   |
+| [Bangla](./README.bn_bd.md)             | [@ajpalok](https://github.com/ajpalok)                                   |
