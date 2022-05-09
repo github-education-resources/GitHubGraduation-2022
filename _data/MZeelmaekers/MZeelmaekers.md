@@ -2,5 +2,5 @@
 name: Maxim Zeelmaekers
 institution: Thomasmore kempen
 quote: My bugs are your problem
-github_user: Mzeelmaekers
+github_user: MZeelmaekers
 ---
