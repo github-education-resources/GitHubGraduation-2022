@@ -1,5 +1,5 @@
 ---
 name: Nisha Baraskar.
-institution: Career College Bhopal.
+institution: Barkatullah University.
 quote: Life is all about lessons and learnings.
 github_user: nishabaraskar
