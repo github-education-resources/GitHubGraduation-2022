@@ -1,6 +1,6 @@
 ---
 name: Rick Heddema
 institution: Bornego College
-quote: Two things are infinite; the universe and human stupidity; and I'm not sure about the universe.
+quote: The best thing about a boolean is even if you are wrong, you are only off by a bit.
 github_user: AwesomeCore1
 ---
