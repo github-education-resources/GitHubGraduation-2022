@@ -1,6 +1,6 @@
 ---
-name: DANIEL BERNAL HERRERA 
-institution: UNIVERSIDAD DE LA COSTA CUC 
-quote: MY CODE IS THE DRILL THAT PIERCES THE SKIES
-github_user: DUSKNIOR
+name: Daniel Bernal Herrera 
+institution: Universidad de la Costa CUC
+quote: My code is the drill that pierces the skies
+github_user: Dusknior
 ---
