@@ -1,6 +1,6 @@
 ---
 name: Sangeeta Gupta
-institution: LNCT
+institution: LNCT 🚩
 quote: Just stay calm
 github_user: crrossx
 ---
