@@ -1,6 +1,5 @@
-```
+
 name : hyunjung
-institution: Looking for a job
+institution: Coding Academy
 quote : WORK HARD PLAY HARD
 github_user: hyunjung-choi
-```
