@@ -1,0 +1,6 @@
+---
+name: YASH KORAT
+institution: RK UNIVERSITY
+quote: EDUCATION IS THE BEST WAY TO GET NEW SKILLS AND MAKE BETTER YOUR LIFE.
+github_user: ykorat
+---
