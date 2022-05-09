@@ -1,6 +1,6 @@
 ---
-name: Manish Kumar Singh
+name: Hardik Singh
 institution: Dayananda Sagar College Of Engineering
-quote: If you follow your dreams, you are capable of anything
-github_user: manish-10
+quote: Carpe diem
+github_user: Hardik29
 ---
