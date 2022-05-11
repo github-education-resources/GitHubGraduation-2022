@@ -1,6 +1,6 @@
 ---
 name: Dipan Nanda
-institution: University of Leeds
+institution: Q
 quote: Just don't worry about it
 github_user: themagicalmammal
 ---
