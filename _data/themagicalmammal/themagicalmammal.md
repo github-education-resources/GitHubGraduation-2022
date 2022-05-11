@@ -1,5 +1,5 @@
 ---
-name: Dipan Nanda
+name: Dipan Nandana
 institution: University of Leeds
 quote: Just don't worry about it.
 github_user: themagicalmammal
