@@ -1,6 +1,6 @@
 ---
 name: Tarpan Das
 institution: JIS College of Engineering
-quote: Still learning!
+quote: Always learning.
 github_user: tarpandas
 ---
