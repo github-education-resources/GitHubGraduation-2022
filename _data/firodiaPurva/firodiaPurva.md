@@ -1,6 +1,6 @@
 ---
 name: PURVA FIRODIA
-institution: PES MCOE 🚩 # no longer than 58 characters
-quote: You are a Hustler I love you :)
+institution: PES MCOE 🚩 
+quote: You are a Hustler keep Hustling
 github_user: firodiaPurva
 ---
