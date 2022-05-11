@@ -1,6 +1,6 @@
 ---
 name: Saurabh Sanap
 institution: Savitribai Phule Pune University
-quote: I write a piece of code that solves a Problem
+quote: I write a piece of code that solves a Problem in Real Life
 github_user: sonooo
 ---
