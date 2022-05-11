@@ -1,6 +1,6 @@
 ---
 name: Taufeeq Riyaz
-institution: Astrobot
+institution: Oxford Independent PU College
 quote: Never stop learning! :)
 github_user: TaufeeqRiyaz
 ---
