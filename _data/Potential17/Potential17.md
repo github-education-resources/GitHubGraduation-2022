@@ -1,6 +1,6 @@
 ---
 name: Shashwat Pandey
-institution: INSTITUTION-NAME 🚩 Sambalpur University
-quote: YOUR-SENIOR-QUOTE On the way
+institution: 🚩 Sambalpur University
+quote: On the way
 github_user: Potential17
 ---
