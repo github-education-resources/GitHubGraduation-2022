@@ -1,6 +1,6 @@
 ---
 name: Abhinav Singh
 institution: G. H. Raisoni College of Engineering and Management
-quote: I am a cloud computing and devops enthusiast. I look forward to make this world a better place with the help of the Technology.
+quote: I am a Cloud Computing and DevOps Enthusiast and even a Technical Geek.
 github_user: cloud-devops-enthusiast
 ---
