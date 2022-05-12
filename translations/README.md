@@ -13,7 +13,7 @@
 | [Polish](https://bit.ly/38c411k)         | [@Nevalicjus](https://github.com/Nevalicjus)                                                         | 
 | [Turkish](./README.tr.md)                | [@fybx](https://github.com/fybx)                                                                     |                                                        
 | [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime)                                                 |
-| [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod)                                                     |
+| [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod) [@theranjitraut](https://github.com/theranjitraut)                                                     |
 | [German](./README.de.md)                 | [@benni347](https://github.com/benni347)                                                             |
 | [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |                    
 | [Punjabi]()                              | [@kalrayatin](https://github.com/kalrayatin)                                                         |
