@@ -1,6 +1,6 @@
 ---
 name: Dipan Nanda
 institution: University of Leeds
-quote: Simplicity is deceptively complicated.
+quote: Just don't worry about it.
 github_user: themagicalmammal
 ---
