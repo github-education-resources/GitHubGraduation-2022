@@ -1,6 +1,6 @@
 ---
 name: Nabin Munda
-institution: Radhakrishna Institute of Technology and Engineering, Khordha, Odisha
-quote: Belive In Yourself
+institution: Radhakrishna Institute of Technology and Engineering
+quote: Believe In Yourself.
 github_user: Nabin-407
 ---
