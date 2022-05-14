@@ -1,29 +1,14 @@
-# GitHub Zakończenie Roku-2022
-
-### Dostępne Tłumaczenia 🗣
-
-* [Pt-BR](https://bit.ly/3LI8kAc)
-* [中国人](https://bit.ly/3kE3Ezc)
-* [日本](https://bit.ly/38TCVfm)
-* [Русский](https://bit.ly/3w7d7EL) 
-* [Indonesian](https://bit.ly/3yeTRrI)
-* [Polski](./translations/README.pl.md)
-
-*Przeczytaj instrukcje w swoim języku lub [przyczyń się do tłumaczenia](translations/README.md)!*
-
+# Zakończenie Roku GitHub-2022
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
-
-
 
 To repozytorium zawiera rocznik dla **Zakończenia Roku GitHub 2022*. Otwierając pull request do tego repozytorium możesz poprosić o dodanie do Klasy 2022 GitHuba.
 
 Pierwsze 7500 udanych pull request'ów włączonych do tego repozytorium przed 27 maja otrzyma pocztą własną kartę kolekcjonerską, naklejki i list.
 
-
 ## Uwaga dotycząca Prywatności 👀 
 Pamiętaj, że wszystkie informacje, które dodasz do tego repozytorium są publicznie dostępne.
 
-- Jeśli nie czujesz sie komfortowo z udostępnianiem swojego pełnego imienia i nazwiska, możesz zamiast tego użyć jego skróconej wersji lub nicku.
+- Jeśli nie czujesz się komfortowo z udostępnianiem swojego pełnego imienia i nazwiska, możesz zamiast tego użyć jego skróconej wersji lub nicku.
 
 # Kto może się zgłosić 📝
 Zapraszamy każdego ucznia, który ukończył lub ukończy naukę w 2022 roku do zgłoszenia się do tego rocznika. Do grupy tej wliczają się uczestnicy bootcampów, kursów programowania, absolwenci liceów, studiów magisterskich, studiów doktoranckich itp.   
@@ -70,7 +55,7 @@ github_user: TWOJA-NAZWA-GITHUB
 _Nie używaj znaków specjalnych w szablonie powyżej._
 
 ### Po trzecie złóż swój Pull Request
-Przejdź przez listę kontrolną w szablonie pull requestu by zagwarantować, że twoje zgłoszenie jest poprawne. Jeśli wszystko jest będzie poprawne, zespół GitHub Education oceni twój wniosek, zatwierdzi i włączy twoje zgłoszenie. W przeciwnym wypadku zostaniesz powiadomiony o wymaganych zmianach w sekcji komentarzy.
+Przejdź przez listę kontrolną w szablonie pull requestu by zagwarantować, że twoje zgłoszenie jest poprawne. Jeśli wszystko będzie poprawne, zespół GitHub Education oceni twój wniosek, zatwierdzi i włączy twoje zgłoszenie. W przeciwnym wypadku zostaniesz powiadomiony o wymaganych zmianach w sekcji komentarzy.
 
 Masz problem z otworzeniem twojego Pull Requestu? [Poproś o pomoc w GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
