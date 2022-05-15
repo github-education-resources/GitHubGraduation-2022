@@ -1,6 +1,6 @@
 ---
 name: Aditya giri
-institution: Dav borl public school
+institution: Iit bombay
 quote: Try untill it works
 github_user: ironbuilder
 ---
