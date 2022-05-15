@@ -1,6 +1,6 @@
 ---
-name: Sparsh sharma
+name: Sparsh
 institution: dronacharya pg college
-quote: 'im a developer
-github_user: spasharma
+quote: 'im a developer'
+github_user:spasharma
 ---
