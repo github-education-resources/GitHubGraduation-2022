@@ -1,6 +1,6 @@
 ---
-name: Mickael Courtiade
-institution: Ecole supérieure de génie informatique (ESGI) 
-quote: Pwn, sleep and repeat
-github_user: 0xN0x
+name: Pranjali Singh
+institution: Galgotias University
+quote: contribute in tech and communites 
+github_user: pran15J
 ---
