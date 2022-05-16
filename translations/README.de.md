@@ -15,93 +15,91 @@
 * [Hindi](./translations/README.hi.md)
 * [German](./translations/README.de.md)
 
-*Lese die Anweisung in deiner Sprache oder [füge ein Übersetung bei](translations/README.md)!*
+*Lies die Anweisung in deiner Sprache oder [füge ein Übersetzung hinzu](translations/README.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 
 
-Dieses Repository enthält das Jahrbuch für **GitHub Graduation 2022**. Indem Sie eine Pull-Anfrage an dieses Repository stellen, können Sie beantragen, in die GitHub-Klasse von 2022 aufgenommen zu werden.
+Dieses Repository enthält das Jahrbuch für **GitHub Graduation 2022**. Indem Du einen Pull-Request an dieses Repository stellst, kannst Du beantragen, in die GitHub-Klasse von 2022 aufgenommen zu werden.
 
-Die ersten 7,500 pull request wo erfolgreich zusammengeführt werdern in diesem Repository bis zum 27. Mai werden eine benutzerdefinierte Karte, Sticker und einen Brief bei Post.
+Die ersten 7,500 Pull Requests, die bis zum 27. Mai erfolgreich zusammengeführt werden, erhalten eine benutzerdefinierte Karte, Sticker und einen Brief per Post.
 
 
 ## Privatsphäre Hinweis 👀
-Erwägen Sie das All die Information, wo Sie zu diesem Repository beifügen öffentlich sein wird.
+Sei Dir bewusst, dass all die Informationen, die Du zu diesem Repository hinzufügst, öffentlich sein werden.
 
-- Wen es dir nicht komfortable ist deinen ganzen Namen anzeigst, kannst du auch einen Kurznamen oder Spitzname verwenden.
+- Wenn Du nicht möchtest, dass Deinen ganzer Name angezeigt wird, kannst Du auch einen Kurz- oder Spitznamen verwenden.
 
 
 # Wer kann sich anmelden 📝
-Wir laden alle Studenten ein wo 2022 graduieren, oder Planen zu graduieren, für das Jahrbuch zu bewerben. Dass beinhaltet bootcamps, Code-Camps, Abiturienten, Masterabsolventen, Doktoranden usw.
+Wir laden alle Studenten ein, die 2022 graduieren oder planen zu graduieren, sich für das Jahrbuch zu bewerben. Das beinhaltet auch Bootcamps, Code-Camps, Abiturienten, Masterabsolventen, Doktoranden usw.
 
 Die Bewerbungskriterien sind -
-1. Du bist ein verifizierter Student mit dem GitHub Student Developer Pack. Noch nicht Teil des Packs? [Hier bewerben](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
-2. Sie haben bei keinem bisherigen GitHub Abschluss Event teilgenommen.
-3. Sie identifizieren sich als Absolvent des Jahres 2022.
+1. Du bist ein verifizierter Student mit dem GitHub Student Developer Pack. Du hast das Pack noch nicht? [Hier bewerben](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
+2. Du hast bei keinem bisherigen GitHub Abschluss Event teilgenommen.
+3. Du identifizierst dich als Absolvent des Jahres 2022.
 
-# So werden Sie Mitglied der Klasse 2022
-Hier sind die zwei Schritte wo Sie erledigen müssen um Ihre benutzerdefinierte Karte Sticker mit der Post.
-Here are two steps to join graduation and receive your custom trading card and stickers in the mail.
-1. [Füllen Sie das **Versandformular** aus ](https://airtable.com/shrVMo8ItH4wjsO9f)
- ⚠️ es muss erledigt sein bevor sie einen Pull Request (PR) öffnen und es Garantiert nicht die Teilnahme am Event. Dein PR muss erfolgreich gemergte werden und nur die ersten 7,500 gemergten PRs werden Karten in der Post erhalten.
-2. **Reichen sie Ihren Pull Request ein** mit deinen Profil Informationen um das Jahrbuch beizutreten und in der Abschlussveranstaltung hervorgehoben werden.
+# So wirst Du Mitglied der Klasse 2022
+Hier sind die zwei Schritte, die Du erledigen musst, um Deine benutzerdefinierte Karte und die Sticker mit der Post zu erhalten.
+1. [Fülle das **Versandformular** aus ](https://airtable.com/shrVMo8ItH4wjsO9f)
+ ⚠️ Es muss erledigt sein, bevor Du einen Pull Request (PR) öffnest und es garantiert nicht die Teilnahme am Event. Dein PR muss erfolgreich gemergt werden und nur die ersten 7,500 gemergten PRs werden Karten per Post erhalten.
+2. **Reiche Deinen Pull Request ein** mit Deinen Profil Informationen um dem Jahrbuch beizutreten und in der Abschlussveranstaltung hervorgehoben zu werden.
 
-## 1. Füllen Sie das Versandformular aus.
-Informationen übermittelt zu [das Beutelsendungsformular](https://airtable.com/shrVMo8ItH4wjsO9f) ist nur benutzt um Sammelkarten für die Graduation zu versenden. Einrichung des Formulars garantiert nicht, dass Sie etwas mit der Post erhalten. Nur die ersten 7,500 Absolventen wo deren Pull Request gemergte werden in das GitHub Yearbook werden eine Sendung erhalten.
+## 1. Fülle das Versandformular aus.
+Informationen, die über das [das Versandformular](https://airtable.com/shrVMo8ItH4wjsO9f) übermittelt werden, werden nur benutzt, um Sammelkarten für die Graduation zu versenden. Das Ausfüllen des Formulars garantiert nicht, dass Du etwas mit der Post erhältst. Nur die ersten 7,500 Absolventen, deren Pull Request in das GitHub Yearbook gemergt werden, werden eine Sendung erhalten.
 
 ## 2. Füge dich dem Jahrbuch bei 🏫
-Ersetzte `<DEIN-NUTZERNAME>` mit deinem GitHub Nutzernamen in diesem Leitfaden. Bitte beachten Sie, dass die `<DEIN-NUTZERNAME>` hier **Fallbezogen**. Zum Beispiel, wenn dein Nutzername `MonaTheOctocat` ist, etwas anderes als es zu benutzen wie `monatheoctocat` oder `monaTheoctocat` wird einen Fehler geben während dem Übertragen vom Pull Request, Vergewissern Sie sich, dass Sie sowohl im Ordnernamen als auch im Dateinamen genau dieselbe Groß- und Kleinschreibung wie Ihr Benutzername verwenden.
+Ersetze `<DEIN-NUTZERNAME>` mit deinem GitHub Nutzernamen in diesem Leitfaden. Bitte beachte, dass die Groß- und Kleinschreibung `<DEIN-NUTZERNAME>` hier **beachtet werden muss**. Wenn Dein Nutzername beispielsweise `MonaTheOctocat` ist, kannst Du nicht `monatheoctocat` oder `monaTheoctocat` verwenden, da es ansonsten einen Fehler geben wird. Vergewissere dich, dass Du sowohl im Ordnernamen als auch im Dateinamen genau dieselbe Groß- und Kleinschreibung wie in Deinem Benutzernamen verwendest.
 
-### Erstens erstelle den Order _data/DEIN-NUTZERNAME/
-Fork dieses Repository, erstelle einen neuen Ordner in dem `_data/` Ordner und benennen Sie es mit Ihrem Benutzernamen. Es sollte wie folgt aussehen `_data/<DEIN-NUTZERNAME>/`. Z.B.
+### Erstens: Erstelle den Order _data/DEIN-NUTZERNAME/
+Forke dieses Repository, erstelle einen neuen Ordner im `_data/` Ordner und benenne ihn mit Deinem Benutzernamen. Es sollte wie folgt aussehen `_data/<DEIN-NUTZERNAME>/`. Z.B.
 ```
 _data/MonaTheOctocat/
 ```
 
-### Zweitens, füge deine Profil Informationen bei
-Erstele eine markdown Datei in deinem Ordner mit der folgenden
-Second, add your profile information Konvention `<DEIN-NUTZERNAME>.md`. Z.B
+### Zweitens: Füge Deine Profil Informationen bei
+Erstelle eine Markdown Datei in deinem Ordner mit dem folgenden Dateinamen `<DEIN-NUTZERNAME>.md`. Z.B
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
-Kopiere die folgende Vorlage und füge sie deiner Datei bei, entferne den Standardtextbaustein und füge deine Informationen bei.
+Kopiere die folgende Vorlage, füge sie deiner Datei bei, entferne die Standardtextbausteine und füge Deine Informationen bei.
 ```
 ---
 name: VOLLNAME-ODER-SPITZNAME # Nicht länger als 28 Zeichen
 institution: EINRICHTUNG-NAME 🚩 #  Nicht länger als 58 Zeichen
-quote: IHR-SENIOR-QUOTE #  Nicht länger als 100 Zeichen, vermeide das benutzen von Anführungszeichen(") um zu gewährleisten, dass das Format gleich bleibt.
+quote: IHR-SENIOR-QUOTE #  Nicht länger als 100 Zeichen und vermeide Anführungszeichen("), um zu gewährleisten, dass das Format gleich bleibt.
 github_user: DEIN-GITHUB-USERNAME
 ---
 ```
 
-_Benutz keine Sonderzeichen in dem Standardtextbaustein oben._
+_Benutze keine Sonderzeichen in dem Standardtextbaustein oben._
 
 
-### Drittens, übermitel dein Pull Request
-Gehen Sie die Checkliste in der Pull-Request-Vorlage durch, um sicherzustellen, dass Ihr Antrag gültig ist. Das GitHub Education Team wird Ihren Antrag prüfen, genehmigen und zusammenführen, wenn alles korrekt ist. Andernfalls werden Sie über die geforderten Änderungen im Kommentarbereich der Pull-Anfrage benachrichtigt.
+### Drittens: Übermittle Dein Pull Request
+Gehe die Checkliste in der Pull-Request-Vorlage durch, um sicherzustellen, dass Dein PR gültig ist. Das GitHub Education Team wird den PR prüfen, akzeptieren und mergen, wenn alles korrekt ist. Andernfalls wirst Du über die geforderten Änderungen im Kommentarbereich des PRs benachrichtigt.
 
-Probleme beim Einreichen Ihres Pull Request? [Frag für Hilfe in der GitHub Gemeinschaft](https://github.com/orgs/github-community/discussions/categories/github-education)!
+Probleme beim Einreichen Deines Pull Request? [Frag für Hilfe in der GitHub Gemeinschaft](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
 # Geschichten zum Schulabschluss 2022 👩‍🏫👨‍🏫 (optional)
-Suchen Sie nach weiteren Möglichkeiten, an der GitHub Graduation teilzunehmen, und nach der Möglichkeit, auf unserem Social Account vorgestellt zu werden?
+Suchst Du nach weiteren Möglichkeiten an der GitHub Graduation teilzunehmen und nach der Möglichkeit auf unserem Social Account vorgestellt zu werden?
 
-Wir möchten von den erstaunlichen Dingen hören, die Sie während Ihres akademischen Jahres erreicht haben und wie GitHub Ihnen geholfen hat, Ihre Ziele zu erreichen. Nehmen Sie sich einen Moment Zeit, um ein Video aufzunehmen oder eine Nachricht zu schreiben und Ihre Geschichte mit uns, Ihren Lehrern und Mitschülern zu teilen.
+Wir möchten von den erstaunlichen Dingen hören, die Du während Deines akademischen Jahres erreicht hast und wie GitHub Dir geholfen hat, Deine Ziele zu erreichen. Nimm Dir einen Moment Zeit, um ein Video aufzunehmen oder eine Nachricht zu schreiben und Deine Geschichte mit uns, Deinen Lehrern und Mitschülern zu teilen.
 
 [Wie kann man Teilnehmen](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
-Wir freuen uns darauf, zu hören, was Sie zu sagen haben, und wir sind dankbar, Sie als Teil unserer Gemeinschaft zu haben 💖
-Denken Sie daran: Sie haben bis zum 30. Mai Zeit, Ihre Geschichte einzureichen!
+Wir freuen uns darauf, zu hören, was Du zu sagen hast, und wir sind dankbar, Dich als Teil unserer Gemeinschaft zu haben 💖
+Denke daran: Du hast bis zum 30. Mai Zeit, Deine Geschichte einzureichen!
  
 
 
-# Ein Hinweis auf Beutegut 🛍
+# Ein Hinweis auf Swag 🛍
 Die ersten 7.500 erfolgreich zusammengeführten PRs erhalten per Post eine individuelle holografische Entwickler-Sammelkarte mit ihrem GitHub-Status.
 
-Was bedeutet das? Wir verwenden Ihre öffentlichen GitHub-Profilinformationen, um eine Sammelkarte zu erstellen. Um sicherzustellen, dass Ihre Sammelkarte Sie bestmöglich widerspiegelt, vergewissern Sie sich bitte, dass Ihr GitHub-Profilbild und Ihr Lebenslauf auf dem neuesten Stand sind und den Angaben entsprechen, die Sie auf der Karte sehen möchten.
+Was bedeutet das? Wir verwenden Deine öffentlichen GitHub-Profilinformationen, um eine Sammelkarte zu erstellen. Um sicherzustellen, dass Dich Deine Sammelkarte bestmöglich widerspiegelt, vergewissere Dich bitte, dass Dein GitHub-Profilbild und Dein Lebenslauf auf dem neuesten Stand sind und den Angaben entsprechen, die Du auf der Karte sehen möchten.
 
 # Tag der Graduierung 🎓
-Vergessen Sie nicht, sich den Livestream anzusehen!
+Vergiss nicht, Dir den Livestream anzusehen!
 
 - 📆 Samstag, 11. Juni.2022
 - ⏰ 9:00 PT | 16:00 GMT | 21:30 IST
@@ -112,4 +110,4 @@ Vergessen Sie nicht, sich den Livestream anzusehen!
   - [Yahoo Kalander](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
-Fragen zur GitHub Graduation? Fragen Sie im [GitHub-Gemeinschaftsdiskussionen](https://github.com/orgs/github-community/discussions/categories/github-education).
+Fragen zur GitHub Graduation? Fragen Sie im [GitHub-Education-Forum](https://github.com/orgs/github-community/discussions/categories/github-education).
