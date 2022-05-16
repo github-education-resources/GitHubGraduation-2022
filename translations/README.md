@@ -10,9 +10,9 @@
 | [Indonesian](https://bit.ly/3yeTRrI)     | [@andhra21231](https://github.com/andhra21231) [@Faris0520](https://github.com/Faris0520)            | 
 | [Spanish MX](https://bit.ly/3wqpwUz)     | [@otelo2](https://github.com/otelo2) [@J-cordz](https://github.com/J-cordz)                          |
 | [Polish](https://bit.ly/38c411k)         | [@Nevalicjus](https://github.com/Nevalicjus)                                                         | 
-| [Turkish](./README.tr.md)                | [@fybx](https://github.com/fybx)                                                                     |                                                        
+| [Turkish](./README.tr.md)                | [@fybx](https://github.com/fybx)                                                                     |                    
 | [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime)                                                 |
-| [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod)                                                     |
+| [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod) [@theranjitraut](https://github.com/theranjitraut)  |
 | [German](./README.de.md)                 | [@benni347](https://github.com/benni347)                                                             |
 | [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |                    
 | [Punjabi]()                              | [@kalrayatin](https://github.com/kalrayatin)                                                         |
