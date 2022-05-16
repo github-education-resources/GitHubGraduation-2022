@@ -1,4 +1,6 @@
-name: Aditya giri 
-institution: Indian institute of technology, Kharakpur
-quote: I can do it!
+---
+name: Aditya giri
+institution: Iit kharakpur
+quote: You can do it!
 github_user: Adityag943
+---
