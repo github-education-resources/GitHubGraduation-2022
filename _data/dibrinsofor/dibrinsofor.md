@@ -1,6 +1,6 @@
 ---
 name: Dibri Nsofor 
 institution: Gregory University, Uturu 🚩
-quote: startup idea -> take a complex problem and create a simple solution. wagmi
+quote: i don't run tests before I submit a pull request. you know why? I BELIEVE IN MYSELF
 github_user: dibrinsofor
 ---
