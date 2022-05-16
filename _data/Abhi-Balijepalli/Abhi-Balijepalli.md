@@ -1,6 +1,6 @@
 ---
 name: Abhi Balijepalli
 institution: Oregon State University
-quote: Better to be pissed off than pissed on
+quote: If you are tired learn to rest, not to quit
 github_user: Abhi-Balijepalli
 ---
