@@ -3,8 +3,7 @@
 | Language                        | Authors                                 |
 |---------------------------------|-----------------------------------------|
 | [Portuguese](https://bit.ly/3LI8kAc)     | [@mlarasusan](https://github.com/mlarasusan) [@jakeliny](https://github.com/jakeliny)                |
-| [Chinese](https://bit.ly/3kE3Ezc)        | [@Xunzhuo](https://github.com/Xunzhuo)                                                               |
-| [Chinese(Simplified)](./README.zh-CN.md) | @StarOnTheSky                                                                                        |
+| [Chinese](https://bit.ly/3kE3Ezc)        | [@Xunzhuo](https://github.com/Xunzhuo) [@iXeor](https://github.com/iXeor) [@StarOnTheSky](https://github.com/StarOnTheSky)|
 | [Japanese](https://bit.ly/38TCVfm)       | [@kai0310](https://github.com/kai0310)                                                               |
 | [Russian](https://bit.ly/3w7d7EL)        | [@lesterrry](https://github.com/lesterrry)                                                           |
 | [Korean](https://bit.ly/3MS4owN)         | [@Laeng](https://github.com/Laeng)                                                                   |
