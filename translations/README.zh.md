@@ -16,7 +16,7 @@
 我们欢迎任何不管是已经在2022年毕业的了，还是即将在2022年内毕业的学生来申请加入年鉴。无论您是训练营的营员、还是代码集训团的练习生 、或者是高中毕业生、硕士毕业生甚至是博士毕业生。诸如此类，都可以参加。
 
 满足以下条件即可申请加入 -
-1. 您已经申请Github学生开发套装并通过学生认证。还没有申请学生套装？[点击这里申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
+1. 您已经申请GitHub学生开发套装并通过学生认证。还没有申请学生套装？[点击这里申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
 2. 您之前没有参加过Github毕业典礼活动。
 3. 您在2022年内毕业。
 
@@ -94,4 +94,4 @@ _不要在上面的模板里使用特殊字符！！！_
   - [雅虎日历](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 
-对Github毕业典礼有疑问？ 详询 [GitHub社区讨论组](https://github.com/orgs/github-community/discussions/categories/github-education).
+对GitHub毕业典礼有疑问？ 详询 [GitHub社区讨论组](https://github.com/orgs/github-community/discussions/categories/github-education).
