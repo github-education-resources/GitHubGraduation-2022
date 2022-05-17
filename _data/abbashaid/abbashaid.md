@@ -1,6 +1,6 @@
 ---
-name: Syed Muhammad Abbas Haider
+name: Abbas Haider
 institution: Habib University 🚩
-quote: Bas Allah Malik Hain
+quote: It's not about knowing more, but to know how to learn more
 github_user: abbashaid
 ---
