@@ -3,7 +3,6 @@
 ### Available Translations 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
-* [zh-CN](translations/README.zh-CN.md)
 * [中文](https://bit.ly/3kE3Ezc)
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL)
