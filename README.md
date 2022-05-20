@@ -60,7 +60,7 @@ Here are two steps to join graduation and receive your custom trading card and s
 Information submitted to [the swag shipment form](https://airtable.com/shrVMo8ItH4wjsO9f) is only used to ship trading cards for graduation. Submitting the form does not guarantee you will receive anything in the mail. Only the first 7,500 graduates to merge their Pull Request to the GitHub Yearbook will receive a shipment.
 
 ## 2. Add yourself to Yearbook 🏫
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
+Replace `AnandaMontoly` with your GitHub username in this guide. Please note that the `AnandaMontoly` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
 
 ### First, create the folder \_data/YOUR-USERNAME/
 
