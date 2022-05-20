@@ -11,7 +11,7 @@
 | [Spanish MX](https://bit.ly/3wqpwUz)     | [@otelo2](https://github.com/otelo2) [@J-cordz](https://github.com/J-cordz)                          |
 | [Polish](https://bit.ly/38c411k)         | [@Nevalicjus](https://github.com/Nevalicjus)                                                         | 
 | [Turkish](./README.tr.md)                | [@fybx](https://github.com/fybx)                                                                     |                    
-| [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime)                                                 |
+| [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime) [@thomasbnt](https://github.com/thomasbnt)                                                 |
 | [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod) [@theranjitraut](https://github.com/theranjitraut)  |
 | [German](./README.de.md)                 | [@benni347](https://github.com/benni347)                                                             |
 | [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |                    
