@@ -51,9 +51,9 @@ Forkez ce référentiel, créez un nouveau dossier dans le `_data` dossier et no
 _data/MonaDeOctocat/
 ```
 
-### Second, add your profile information
+### Ensuite, ajoutez les informations de votre profil
 
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+Créez un fichier markdown dans votre dossier en suivant la convention suivante `<YOUR-USERNAME>.md`. Exemple :
 
 ```
 _data/MonaDeOctocat/MonaDeOctocat.md
@@ -63,9 +63,9 @@ Copiez le modèle suivant dans votre fichier, supprimez les données passe-parto
 
 ```
 ---
-nom : NOM COMPLET-OU ALORS-SURNOM # Pas plus de 28 caractères
+name: NOM COMPLET-OU ALORS-SURNOM # Pas plus de 28 caractères
 institution: NOM DE L'INSTITUTION 🚩 # pas plus de 58 caractères
-Devis: VOTRE-DEVIS-SENIOR # pas plus de 100 caractères, évitez d'utiliser des guillemets (") pour garantir que le format reste le même.
+quote: VOTRE-CITATION-SENIOR # pas plus de 100 caractères, évitez d'utiliser des guillemets (") pour garantir que le format reste le même.
 github_user: VOTRE-NOM-D'UTILISATEUR-GITHUB
 ---
 ```
