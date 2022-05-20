@@ -1,6 +1,6 @@
 ---
 name: Talles Siqueira Ceolin
 institution: Universidade Federal de Santa Maria
-quote: where am I?
+quote: I swear it was working on my computer
 github_user: TallesSC
 ---
