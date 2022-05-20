@@ -1,4 +1,4 @@
-# GitHub گریجویشن 2022
+## گریجویشن 2022 GitHub 
 
 
 ### دستیاب تراجم🗣
@@ -21,64 +21,68 @@
 * [German](./translations/README.de.md)
 * [ไทย](./translations/README.th.md)
 * [Arabic](./translations/README.ar.md)
+* [Urdu](./translations/README.ur.md)
 * [Malay](./translations/README.may.md)
 * [Bangla](./translations/README.bn_bd.md)
 * [Somali](./translations/README.so.md)
 
-*اپنی زبان میں ہدایات پڑھیں یا [ترجمہ میں تعاون کریں] (translations/README.md)!  *
+اپنی زبان میں ہدایات پڑھیں یا [ترجمہ میں تعاون کریں](translations/README.md)!
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 اس ذخیرہ میں ** GitHub گریجویشن 2022 ** کی سالانہ کتاب شامل ہے .اس ریپوزٹری کو پل کی درخواست جاری کرکے، آپ 2022 کی GitHub کلاس میں شامل ہونے کی درخواست کر سکتے ہیں۔
-The first 7,500 pull request successfully merged into the repository by May 27 will receive custom trading card, stickers, and letter in the mail.
+27 مئی تک ریپوزٹری میں کامیابی کے ساتھ ضم ہونے والی پہلی 7,500 پل کی درخواست کو میل میں حسب ضرورت ٹریڈنگ کارڈ، اسٹیکرز اور خط موصول ہوں گے۔
 
-## Privacy Notice 👀
+## رازداری کی اطلاع 👀
 
-Consider that all the information that you add to this repository will be publicly available.
+غور کریں کہ وہ تمام معلومات جو آپ اس ریپوزٹری میں شامل کرتے ہیں عوامی طور پر دستیاب ہوں گی۔
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
+- اگر آپ اپنا پورا نام ظاہر کرنے میں راحت محسوس نہیں کرتے ہیں، تو آپ اس کے بجائے مختصر نام یا عرفی نام شامل کر سکتے ہیں۔
 
-# Who can apply 📝
+# کون درخواست دے سکتا ہے📝
 
-We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
-The eligibility criteria are -
+ہم کسی بھی ایسے طالب علم کو  جس نے سال 2022 میں گریجویشن کیا ہو یا گریجویٹ ہونے والاہو ،سالانہ کتاب میں درخواست دینے کے لیےمدعو کرتے ہیں۔اس میں بوٹ کیمپس، کوڈ کیمپس، ہائی اسکول گریجویٹس، ماسٹرز گریجویٹس، پی ایچ ڈی گریجویٹس وغیرہ شامل ہیں۔
 
-1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
-2. You have not participated in a past GitHub Graduation event.
-3. You identify as a graduate in the year 2022.
+اہلیت کے معیار یہ ہیں -
 
-# How to join the Class of 2022
-Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
+1.GitHub Student Developer Pack  (https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)کے ساتھ آپ کی بطور طالب علم تصدیق ہوچکی ہے۔.ابھی تک پیک کا حصہ نہیں؟ [یہاں اپلائی کریں۔]
+2. آپ نے گزشتہ GitHub گریجویشن ایونٹ میں شرکت نہیں کی ہے۔
+3. آپ سال 2022 میں گریجویٹ کے طور پر شناخت کرتے ہیں۔
 
-1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
-   ⚠️ the form needs to be done before creating your Pull Request (PR) and does not guarantee participation in the event. Your PR must successfully merge into the repository and only the first 7,500 merged PRs will receive cards in the mail.
-2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
+# 2022 کی کلاس میں شامل ہونے کا طریقہ
+گریجویشن میں شامل ہونے اور بذریعہ ڈاک  اپنا ٹریڈنگ کارڈ اور اسٹیکرز وصول کرنے کے لیے یہ دو مراحل ہیں.
+1. [ **shipping form**  پُر کریں](https://airtable.com/shrVMo8ItH4wjsO9f)
+   ⚠️ فارم کو آپ کی پل کی درخواست (PR) آپ کے PR کو ریپوزٹری میں کامیابی کے ساتھ ضم *Merge*ہونا چاہیے اور صرف پہلے 7,500 ضم شدہ PR کو بذریعہ ڈاک  کارڈ موصول ہوں گے۔بنانے سے پہلے پُر کرنے کی ضرورت ہےاور یہ ایونٹ میں شرکت کی ضمانت نہیں دیتا 
+2.سالانہ کتاب میں شامل ہونے اور گریجویشن ایونٹ میں نمایاں ہونے کے لیے اپنی پروفائل کی معلومات کے ساتھ**request pull** کریں
 
-## 1. Fill out the shipping form.
+## 1. شپنگ فارم کو پُر کریں
 
-Information submitted to [the swag shipment form](https://airtable.com/shrVMo8ItH4wjsO9f) is only used to ship trading cards for graduation. Submitting the form does not guarantee you will receive anything in the mail. Only the first 7,500 graduates to merge their Pull Request to the GitHub Yearbook will receive a shipment.
+[swag shipping form](https://airtable.com/shrVMo8ItH4wjsO9f) پر جمع کرائی گئی معلومات کو صرف گریجویشن کے لیے ٹریڈنگ کارڈ  بھیجنے کے لیے استعمال کیا جاتا ہے۔ فارم جمع کرانا اس بات کی ضمانت نہیں دیتا کہ آپ کو میل میں کچھ بھی موصول ہوگا۔ صرف پہلے 7,500 گریجویٹس کو اپنی pull request کو GitHub سالانہ کتاب میں ضم*merge* کرنے پر کھیپ ملے گی۔
 
-## 2. Add yourself to Yearbook 🏫
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note that the `<YOUR-USERNAME>` here is **Case Sensitive**. For Example, if your username is `MonaTheOctocat`, using anything other than it like `monatheoctocat` or `monaTheoctocat` will throw an error while submitting the Pull Request, make sure you're using the exact same case as your username in both the folder name and file name.
 
-### First, create the folder \_data/YOUR-USERNAME/
+## 2. خود کو سالانہ کتاب میں شامل کریں۔ 🏫
 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+اس گائیڈ میں دیئے گئے `<YOUR-USERNAME>` کو اپنے GitHub صارف نام سے تبدیل کریں۔.براہ کرم نوٹ کریں کہ `<YOUR-USERNAME>` یہاں **Case Sensitive** ہے۔. مثال کے طور پر، اگر آپ کا صارف نام `MonaTheOctocat` ہے، تو اس کے علاوہ کوئی بھی چیز جیسے `monatheoctocat` یا `monaTheoctocat` استعمال کرنے سے Pull Request جمع کرواتے وقت error آئے گا، اس بات کو یقینی بنائیں کہ آپ فولڈر  اور فائل کے نام کے لیے بالکل وہی case استعمال کر رہے ہیں جس میں آپ کا صارف نام ہے۔
+
+### اول، فولڈر بنائیں \_data/YOUR-USERNAME/
+
+
+
+اس ریپوزٹری کو Forkکریں، `_data` فولڈر کے اندر ایک نیا فولڈر بنائیں، اور اس کا نام بھی بالکل وہی رکھیں جو آپ کا صارف نام ہے۔ اسے کچھ اس طرح نظر آنا چاہئے `_data/<YOUR-USERNAME>/`۔ Ex
 
 ```
 _data/MonaTheOctocat/
 ```
 
-### Second, add your profile information
+### دوم، اپنی پروفائل کی معلومات شامل کریں۔
 
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+کنونشن `<YOUR-USERNAME>.md` کے مطابق اپنے فولڈر میں ایک markdown فائل بنائیں۔ Ex.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
 ```
 
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
-
+نیچے دیا گیا Template اپنی فائل میں کاپی کریں، boilerplate ڈیٹا کو حذف کریں اور اس کی جگہ  اپنی معلومات لکھیں۔
 ```
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
@@ -88,40 +92,45 @@ github_user: YOUR-GITHUB-USERNAME
 ---
 ```
 
-_Do not use special characters in the template above._
+_اوپر دیئے گئے Template میں خصوصی حروف کا استعمال نہ کریں۔._
 
-### Third, submit your Pull Request
-Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
+### سوم، pull request بھیجیں
+Pull request template کی چیک لسٹ کو مدنظر رکھیں تاکہ آپ کی جمع آوری درست ہو۔.اگر سب کچھ درست ہے تو GitHub ایجوکیشن ٹیم آپ کی درخواست کا جائزہ لے گی، آپ کی جمع آوری کو منظور اور ضم merge کر دے گی۔ بصورت دیگر، آپ کو pull request کمنٹ سیکشن میں درخواست کردہ تبدیلیوں کے بارے میں مطلع کیا جائے گا۔
 
-Having trouble submitting your Pull Request? [Ask for help in the GitHub Community](https://github.com/orgs/github-community/discussions/categories/github-education)!
+اپنی pull request جمع کرانے میں دشواری ہو رہی ہے؟[GitHub کمیونٹی میں مدد طلب کریں۔
+](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
-# Graduation Stories 2022 👩‍🏫👨‍🏫 (optional)
+# گریجویشن کی کہانیاں 2022 👩‍🏫👨‍🏫 (اختیاری)
 
-Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?
+GitHub گریجویشن میں حصہ لینے کے مزید طریقے اور ہمارے سوشل اکاؤنٹ پر نمایاں ہونے کا امکان تلاش کر رہے ہیں؟
+ہم ان شاندار چیزوں کے بارے میں سننا چاہتے ہیں جو آپ نے اپنے تعلیمی سال کے دوران حاصل کیں اور کس طرح GitHub نے آپ کو اپنے اہداف کی تکمیل میں مدد کی۔ ایک ویڈیو ریکارڈ کرنے یا پیغام لکھنے کے لیے کچھ وقت نکالیں اور اپنی کہانی ہمارے ساتھ، اپنے اساتذہ اور اپنے ہم جماعت کے ساتھ شیئر کریں۔
 
-We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates.
+[حصہ لینے کا طریقہ](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
+ہم آپ کو سننے کے منتظر ہیں کہ آپ کیا کہنا چاہتے ہیں، اور ہم شکر گزار ہیں آپ ہماری کمیونٹی کا حصہ ہیں💖
 
-[How to participate](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
+یاد رکھیں: آپ کے پاس اپنی کہانی جمع کرانے کے لیے 30 مئی تک کا وقت ہے!
 
-We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖
-Remember: you have until May 30th to submit your story!
+# swag پر ایک نوٹ 🛍
 
-# A note on swag 🛍
 
-The first 7,500 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail.
+پہلے 7,500 کامیابی سے ضم ہونے والے PR کو بذریعہ ڈاک ان کے GitHub اسٹیٹس کے ساتھ ایک ہولوگرافک ڈویلپر ٹریڈنگ کارڈ ملے گا۔
 
-What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
+اس کا کیا مطلب ہے؟ ہم ٹریڈنگ کارڈ بنانے کے لئے آپ کی عوامی GitHub پروفائل معلومات کا استعمال کریں گے۔ یہ یقینی بنانے کے لئے کہ آپ کا ٹریڈنگ کارڈ آپ کی بہترین عکاسی کرتا ہے، براہ کرم اس بات کو یقینی بنائیں کہ آپ کی GitHub پروفائل تصویر اور بائیو اپ ٹو ڈیٹ ہیں اور آپ کارڈ پر کیا دکھانا چاہتے ہیں۔
 
-# Graduation Day 🎓
+# گریجویشن ڈے 🎓
 
-Don't forget to watch the livestream!
 
-- 📆 Saturday, June 11, 2022
+براہِ راست نشریات دیکھنا نہ بھولیں!
+
+- 📆 ہفتہ، 11 جون، 2022
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
-- 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
-- 📎Add the event to your calender:
+- 📍 اطلاعات کے لیے [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) کو فالو کریں
+- 📎ایونٹ کو اپنے کیلنڈر میں شامل کریں:
   - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
   - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
-Questions about GitHub Graduation? Ask in the [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education).
+
+GitHub گریجویشن کے بارے میں سوالات [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education) میں پوچھیں
+
+
