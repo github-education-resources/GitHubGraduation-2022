@@ -98,14 +98,14 @@ Having trouble submitting your Pull Request? [Ask for help in the GitHub Communi
 
 # Graduation Stories 2022 👩‍🏫👨‍🏫 (optional)
 
-Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?
+Looking for more ways to participate in GitHub Graduation and the possibility of being featured on our social account?.
 
 We want to hear about the amazing things you achieved during your academic year and how GitHub helped you to accomplish your goals. Take a moment to record a video or write a message and share your story with us, your teachers, and your classmates.
 
 [How to participate](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
 
 We are looking forward to hearing what you have to say, and we are grateful to have you as part of our community 💖
-Remember: you have until May 30th to submit your story!
+Remember: you have until May 30th to submit your story!.
 
 # A note on swag 🛍
 
