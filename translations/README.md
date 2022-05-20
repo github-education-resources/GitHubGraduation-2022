@@ -17,7 +17,8 @@
 | [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |                    
 | [Punjabi]()                              | [@kalrayatin](https://github.com/kalrayatin)                                                         |
 | [Thai](./README.th.md)                   | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                                    | 
-| [Arabic](./README.ar.md)                 | [@Omar8345](https://github.com/Omar8345) [@OmarDev100](https://github.com/OmarDev100)                | 
+| [Arabic](./README.ar.md)                 | [@Omar8345](https://github.com/Omar8345) [@OmarDev100](https://github.com/OmarDev100)                |
+| [Urdu](./README.ur.md)                 | [@AounNaqvi173](https://github.com/AounNaqvi173)               | 
 | [Malay](./README.may.md)                 | [@adekoerniawan](https://github.com/adekoerniawan)                                                   |
 | [Bangla](./README.bn_bd.md)             | [@ajpalok](https://github.com/ajpalok)                                   |
 | [Somali](./README.so.md)             | [@abdorizak](https://github.com/abdorizak)                                   |
