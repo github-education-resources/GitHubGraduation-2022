@@ -20,7 +20,6 @@
 * [German](./translations/README.de.md)
 * [ไทย](./translations/README.th.md)
 * [Arabic](./translations/README.ar.md)
-* [Urdu](./translations/README.ur.md)
 * [Malay](./translations/README.may.md)
 * [Bangla](./translations/README.bn_bd.md)
 * [Somali](./translations/README.so.md)
