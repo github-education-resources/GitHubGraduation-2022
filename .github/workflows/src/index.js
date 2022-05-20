@@ -176,7 +176,7 @@ Feel free to re-request a review from me and I'll come back and take a look!
     `
   } else {
     // All checks pass
-    feedBackMessage = "Your Pull Request looks good! Thanks for your graduation submission. Next, one of our reviews will come by to check your PR meets the Code of Conduct. You don’t need to do anything but wait. Once they've completed their review, they'll leave another comment asking for changes or merging your Pull Request."
+    feedBackMessage = "Your Pull Request looks good! Thanks for your graduation submission. Next, one of our reviewers will come by to check your PR meets the Code of Conduct. You don’t need to do anything but wait. Once they've completed their review, they'll leave another comment asking for changes or merge your Pull Request."
     try {
       // await octokit.mergePR()
       await octokit.addReviewLabel()
