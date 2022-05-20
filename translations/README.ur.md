@@ -1,4 +1,4 @@
-## گریجویشن 2022 GitHub 
+## گریجویشن GitHub 2022
 
 
 ### دستیاب تراجم🗣
@@ -29,8 +29,8 @@
 اپنی زبان میں ہدایات پڑھیں یا [ترجمہ میں تعاون کریں](translations/README.md)!
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
-اس ذخیرہ میں ** GitHub گریجویشن 2022 ** کی سالانہ کتاب شامل ہے .اس ریپوزٹری کو پل کی درخواست جاری کرکے، آپ 2022 کی GitHub کلاس میں شامل ہونے کی درخواست کر سکتے ہیں۔
-27 مئی تک ریپوزٹری میں کامیابی کے ساتھ ضم ہونے والی پہلی 7,500 پل کی درخواست کو میل میں حسب ضرورت ٹریڈنگ کارڈ، اسٹیکرز اور خط موصول ہوں گے۔
+اس ریپوزٹری میں ** GitHub گریجویشن 2022 ** کی سالانہ کتاب شامل ہے .اس ریپوزٹری کو *pull request* جاری کرکے، آپ 2022 کی GitHub کلاس میں شامل ہونے کی درخواست کر سکتے ہیں۔
+27 مئی تک ریپوزٹری میں کامیابی کے ساتھ ضم *merge*ہونے والی پہلی 7,500 *pull request* کو بذریعہ ڈاک ٹریڈنگ کارڈ، اسٹیکرز اور خط موصول ہوں گے۔
 
 ## رازداری کی اطلاع 👀
 
@@ -44,21 +44,22 @@
 ہم کسی بھی ایسے طالب علم کو  جس نے سال 2022 میں گریجویشن کیا ہو یا گریجویٹ ہونے والاہو ،سالانہ کتاب میں درخواست دینے کے لیےمدعو کرتے ہیں۔اس میں بوٹ کیمپس، کوڈ کیمپس، ہائی اسکول گریجویٹس، ماسٹرز گریجویٹس، پی ایچ ڈی گریجویٹس وغیرہ شامل ہیں۔
 
 اہلیت کے معیار یہ ہیں -
+1. GitHub Student Developer Pack کے ساتھ آپ کی بطور طالب علم تصدیق ہوچکی ہے۔.ابھی تک پیک کا حصہ نہیں؟ [یہاں اپلائی کریں۔](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)
 
-1.GitHub Student Developer Pack  (https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)کے ساتھ آپ کی بطور طالب علم تصدیق ہوچکی ہے۔.ابھی تک پیک کا حصہ نہیں؟ [یہاں اپلائی کریں۔]
 2. آپ نے گزشتہ GitHub گریجویشن ایونٹ میں شرکت نہیں کی ہے۔
+
 3. آپ سال 2022 میں گریجویٹ کے طور پر شناخت کرتے ہیں۔
 
 # 2022 کی کلاس میں شامل ہونے کا طریقہ
 گریجویشن میں شامل ہونے اور بذریعہ ڈاک  اپنا ٹریڈنگ کارڈ اور اسٹیکرز وصول کرنے کے لیے یہ دو مراحل ہیں.
-1. [ **shipping form**  پُر کریں](https://airtable.com/shrVMo8ItH4wjsO9f)
-   ⚠️ فارم کو آپ کی پل کی درخواست (PR) آپ کے PR کو ریپوزٹری میں کامیابی کے ساتھ ضم *Merge*ہونا چاہیے اور صرف پہلے 7,500 ضم شدہ PR کو بذریعہ ڈاک  کارڈ موصول ہوں گے۔بنانے سے پہلے پُر کرنے کی ضرورت ہےاور یہ ایونٹ میں شرکت کی ضمانت نہیں دیتا 
-2.سالانہ کتاب میں شامل ہونے اور گریجویشن ایونٹ میں نمایاں ہونے کے لیے اپنی پروفائل کی معلومات کے ساتھ**request pull** کریں
+1. [**شپنگ فارم** پُر کریں](https://airtable.com/shrVMo8ItH4wjsO9f)
+⚠️ آپ کو (PR) کرنے سے پہلے فارم کو مکمل کرنے کی ضرورت ہے اور یہ ایونٹ میں شرکت کی ضمانت نہیں دیتا ہے۔ آپ کی PR کو ریپوزٹری میں کامیابی کے ساتھ ضمmerge ہونا چاہیے اور صرف پہلے 7,500 ضم شدہ PR کو  بذریعہ ڈاک کارڈ موصول ہوں گے۔
+
+2.سالانہ کتاب میں شامل ہونے اور گریجویشن ایونٹ میں نمایاں ہونے کے لیے اپنی پروفائل کی معلومات کے ساتھ **pull request** کریں
 
 ## 1. شپنگ فارم کو پُر کریں
 
-[swag shipping form](https://airtable.com/shrVMo8ItH4wjsO9f) پر جمع کرائی گئی معلومات کو صرف گریجویشن کے لیے ٹریڈنگ کارڈ  بھیجنے کے لیے استعمال کیا جاتا ہے۔ فارم جمع کرانا اس بات کی ضمانت نہیں دیتا کہ آپ کو میل میں کچھ بھی موصول ہوگا۔ صرف پہلے 7,500 گریجویٹس کو اپنی pull request کو GitHub سالانہ کتاب میں ضم*merge* کرنے پر کھیپ ملے گی۔
-
+[swag شپمنٹ فارم](https://airtable.com/shrVMo8ItH4wjsO9f) پر جمع کرائی گئی معلومات کو صرف گریجویشن کے لیے ٹریڈنگ کارڈ  بھیجنے کے لیے استعمال کیا جاتا ہے۔ فارم جمع کرانا اس بات کی ضمانت نہیں دیتا کہ آپ کو میل میں کچھ بھی موصول ہوگا۔ صرف پہلے 7,500 گریجویٹس کو اپنی پل کی درخواست کو GitHub Yearbook میں ضم کرنےپر کھیپ ملے گی۔
 
 ## 2. خود کو سالانہ کتاب میں شامل کریں۔ 🏫
 
@@ -68,7 +69,7 @@
 
 
 
-اس ریپوزٹری کو Forkکریں، `_data` فولڈر کے اندر ایک نیا فولڈر بنائیں، اور اس کا نام بھی بالکل وہی رکھیں جو آپ کا صارف نام ہے۔ اسے کچھ اس طرح نظر آنا چاہئے `_data/<YOUR-USERNAME>/`۔ Ex
+اس ریپوزٹری کو Forkکریں، `data_` فولڈر کے اندر ایک نیا فولڈر بنائیں، اور اس کا نام بھی بالکل وہی رکھیں جو آپ کا صارف نام ہے۔ اسے کچھ اس طرح نظر آنا چاہئے `_data/<YOUR-USERNAME>/`
 
 ```
 _data/MonaTheOctocat/
@@ -76,7 +77,7 @@ _data/MonaTheOctocat/
 
 ### دوم، اپنی پروفائل کی معلومات شامل کریں۔
 
-کنونشن `<YOUR-USERNAME>.md` کے مطابق اپنے فولڈر میں ایک markdown فائل بنائیں۔ Ex.
+کنونشن `<YOUR-USERNAME>.md` کے مطابق اپنے فولڈر میں ایک markdown فائل بنائیں.
 
 ```
 _data/MonaTheOctocat/MonaTheOctocat.md
@@ -95,14 +96,14 @@ github_user: YOUR-GITHUB-USERNAME
 _اوپر دیئے گئے Template میں خصوصی حروف کا استعمال نہ کریں۔._
 
 ### سوم، pull request بھیجیں
-Pull request template کی چیک لسٹ کو مدنظر رکھیں تاکہ آپ کی جمع آوری درست ہو۔.اگر سب کچھ درست ہے تو GitHub ایجوکیشن ٹیم آپ کی درخواست کا جائزہ لے گی، آپ کی جمع آوری کو منظور اور ضم merge کر دے گی۔ بصورت دیگر، آپ کو pull request کمنٹ سیکشن میں درخواست کردہ تبدیلیوں کے بارے میں مطلع کیا جائے گا۔
+پل ریکوئسٹ ٹیمپلیٹ (Pull request template)کی چیک لسٹ کو مدنظر رکھیں تاکہ آپ کی جمع آوری درست ہو۔ اگر سب کچھ درست ہے تو GitHub ایجوکیشن ٹیم آپ کی درخواست کا جائزہ لے گی، آپ کی جمع آوری کو منظور اور ضم کر دے گی۔ بصورت دیگر، آپ کو پل ریکوئسٹ کمنٹ سیکشن میں درخواست کردہ تبدیلیوں کے بارے میں مطلع کیا جائے گا۔
 
 اپنی pull request جمع کرانے میں دشواری ہو رہی ہے؟[GitHub کمیونٹی میں مدد طلب کریں۔
 ](https://github.com/orgs/github-community/discussions/categories/github-education)!
 
 # گریجویشن کی کہانیاں 2022 👩‍🏫👨‍🏫 (اختیاری)
 
-GitHub گریجویشن میں حصہ لینے کے مزید طریقے اور ہمارے سوشل اکاؤنٹ پر نمایاں ہونے کا امکان تلاش کر رہے ہیں؟
+کیا GitHub گریجویشن میں حصہ لینے کے مزید طریقے اور ہمارے سوشل اکاؤنٹ پر نمایاں ہونے کے امکانات تلاش کر رہے ہیں؟
 ہم ان شاندار چیزوں کے بارے میں سننا چاہتے ہیں جو آپ نے اپنے تعلیمی سال کے دوران حاصل کیں اور کس طرح GitHub نے آپ کو اپنے اہداف کی تکمیل میں مدد کی۔ ایک ویڈیو ریکارڈ کرنے یا پیغام لکھنے کے لیے کچھ وقت نکالیں اور اپنی کہانی ہمارے ساتھ، اپنے اساتذہ اور اپنے ہم جماعت کے ساتھ شیئر کریں۔
 
 [حصہ لینے کا طریقہ](https://drive.google.com/file/d/1AcgUKLXx6WIC5s4eanzOfj8EsiYHARrt/view?usp=sharing)
@@ -110,7 +111,7 @@ GitHub گریجویشن میں حصہ لینے کے مزید طریقے اور �
 
 یاد رکھیں: آپ کے پاس اپنی کہانی جمع کرانے کے لیے 30 مئی تک کا وقت ہے!
 
-# swag پر ایک نوٹ 🛍
+# سویگ(swag)پر ایک نوٹ 🛍
 
 
 پہلے 7,500 کامیابی سے ضم ہونے والے PR کو بذریعہ ڈاک ان کے GitHub اسٹیٹس کے ساتھ ایک ہولوگرافک ڈویلپر ٹریڈنگ کارڈ ملے گا۔
@@ -126,11 +127,9 @@ GitHub گریجویشن میں حصہ لینے کے مزید طریقے اور �
 - ⏰ 9:00am PT | 16:00 GMT | 21:30 IST
 - 📍 اطلاعات کے لیے [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) کو فالو کریں
 - 📎ایونٹ کو اپنے کیلنڈر میں شامل کریں:
-  - [Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
-  - [Outlook Calendar](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
-  - [Yahoo Calendar](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
+  - [گوگل کیلنڈر](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [آؤٹ لک کیلنڈر](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)
+  - [یاہو کیلنڈر](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
-
-GitHub گریجویشن کے بارے میں سوالات [GitHub Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education) میں پوچھیں
-
+مزید GitHubگریجویشن کے بارے میں سوالات؟ [GitHub کمیونٹی ڈسکشنز](https://github.com/orgs/github-community/discussions/categories/github-education) میں پوچھیں۔
 
