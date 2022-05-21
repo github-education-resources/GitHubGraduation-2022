@@ -1,6 +1,6 @@
 ---
-name: MENARUL-ALAM
-institution: STONY-BROOK-UNIVERSITY
+name: Menarul Alam
+institution: Stony Brook University
 quote: YOLO
 github_user: menarulalam
 ---
