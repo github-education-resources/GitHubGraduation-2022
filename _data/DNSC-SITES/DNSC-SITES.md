@@ -1,0 +1,6 @@
+---
+name: JOHN ALBERT Q. BALANSAG
+institution: DAVAO DEL NORTE STATE COLLEGE
+quote: LIVE A LIFE WORTH LIVING
+github_user: DNSC-SITES
+---
