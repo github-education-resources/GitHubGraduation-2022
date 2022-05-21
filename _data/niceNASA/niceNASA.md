@@ -1,6 +1,6 @@
 ---
 name: Li Neo
-institution: NJFU
+institution: Nanjing Forestry University
 quote: The road is long, I will go up and down to seek.
 github_user: niceNASA
 ---
