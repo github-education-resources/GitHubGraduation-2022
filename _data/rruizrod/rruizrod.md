@@ -1,4 +1,3 @@
-
 ---
 name: Ricardo A. Ruiz
 institution: University Of Central Florida
