@@ -1,4 +1,6 @@
+---
 name: Magno Carvalho dos Santos
-institution: Centro de Inovação VincIT - UNICIV
-quote: Mais um passo no caminho de conquistar o mundo
+institution: UNICIV
+quote: Meta final é conquistar o mundo =D
 github_user: magnocarvalho
+---
