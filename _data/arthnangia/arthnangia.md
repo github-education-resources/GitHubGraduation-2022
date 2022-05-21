@@ -2,5 +2,5 @@
 name: ARTH NANGIA
 institution: JIMS GREATER NOIDA 🚩 
 quote: IT TAKES COURAGE AND CONFIDENCE TO BRING OUT AN ACTION, AN ACTION TO CONQUER FEAR
-github_user: ARTHNANGIA
+github_user: arthnangia
 ---
