@@ -1,6 +1,6 @@
 ---
 name: Jonas
-institution: MCG DD
+institution: Marie-Curie-Gymnasium Dallgow-Döberitz
 quote: we made it
 github_user: Tintenpatron
 ---
