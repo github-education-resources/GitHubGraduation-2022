@@ -1,0 +1,6 @@
+---
+name: ABHINAV GARG
+institution: GRAPHIC ERA HILL UNIVERSITY, DEHRADUN
+quote: I HAVE ZEAL TO WORK. I CAN DO THE BEST.
+github_user: AABHINAAV
+---
