@@ -1,6 +1,6 @@
 ---
-name:Akhilsv
+name: Akhilsv
 institution: PES Institute of Technology and Management
-quote: Focus on goals
+quote: Focus on goals.
 github_user: Akhilsv
 ---
