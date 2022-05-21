@@ -1,4 +1,6 @@
-name: Vineetha Karakavalasa
-institution: Teegala krishna reddy engineering college 
-quote: I try not to be float blast(Ariane 5) 
-github_user: vineetha-1 
+---
+name: vinee 
+institution: teegala krishna reddy engineering college
+quote: i try not to be a float blaster
+github_user: vineetha-1
+---
