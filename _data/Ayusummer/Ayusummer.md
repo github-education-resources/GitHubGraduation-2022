@@ -1,6 +1,6 @@
 ---
 name: 233
-institution: JSU 🚩
+institution: Jiangsu University 🚩
 quote: never stop learning
 github_user: Ayusummer
 ---
