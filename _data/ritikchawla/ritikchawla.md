@@ -1,6 +1,6 @@
 ---
 name: Ritik Chawla
-institution: Dr. Akhilesh Das Gupta Institute of Technology and Management
+institution: ADGITM, GGSIPU, Delhi
 quote: Stay Hungry. Stay Foolish.
 github_user: ritikchawla
 ---
