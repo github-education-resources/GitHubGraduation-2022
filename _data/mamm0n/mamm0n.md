@@ -1,6 +1,6 @@
 ---
-name: Oğulcan Topsakal 
-institution: Gazi Üniversitesi 🚩 # no longer than 58 characters
+name: Ogulcan Topsakal 
+institution: Gazi Universitesi 🚩
 quote: Our true mentor in life is science.
 github_user: mamm0n
 ---
