@@ -74,7 +74,7 @@ github_user: SEU-NOME-DE-USUARIO-GITBHUB
 ```
 
 
-_Não use caracteres especiais do modelo acima._
+_Não use caracteres especiais no modelo acima._
 
 #### E por último, envie o seu pull request
 
