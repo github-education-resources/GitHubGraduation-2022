@@ -1,6 +1,6 @@
 ---
 name: Jonathan Ho
 institution: Santa Clara University
-quote: Yeah, sex is cool, but have you ever been the first to solve an intellectual challenge or puzzle?
+quote: I'm addicted to those eureka moments, where everything just clicks after wracking my brain all day.
 github_user: csn3rd
 ---
