@@ -1,6 +1,6 @@
 ---
 name: Dishay Mehta
 institution: Indian Institute of Technology, Kanpur
-quote: Always be curious and keen to learn
+quote: Change is the only constant in life
 github_user: Dishay952
 ---
