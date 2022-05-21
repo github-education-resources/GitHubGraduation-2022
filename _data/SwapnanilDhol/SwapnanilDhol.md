@@ -1,6 +1,6 @@
 ---
- name: Swapnanil Dhol
- institution: SRM IST
- quote: The key to success is consistency
- github_user: SwapnanilDhol
- ---
+name: Swapnanil Dhol
+institution: SRM IST, KTR
+quote: Consistency is the key to success.
+github_user: SwapnanilDhol
+---
