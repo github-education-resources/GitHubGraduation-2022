@@ -2,5 +2,5 @@
  name: Swapnanil Dhol
  institution: SRM IST
  quote: The key to success is consistency
- github_user: swapnanildhol
+ github_user: SwapnanilDhol
  ---
