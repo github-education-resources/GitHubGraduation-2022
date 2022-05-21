@@ -1,0 +1,6 @@
+---
+name: SANDEEP PANWAR
+institution: LAKSHMI NARAIN COLLEGE OF TECHNOLOGY
+quote: EVERY MOMENT IS A FRESH BEGINNING
+github_user: Sandeep-Panwar
+---
