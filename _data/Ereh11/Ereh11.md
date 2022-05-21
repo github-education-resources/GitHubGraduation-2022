@@ -2,6 +2,6 @@
 ---
 name: Hany Abdou Saad
 institution: Luxor university
-quote: I find that the harder I work, the more luck I seem to have.
+quote: Belief in yourself
 github_user: Ereh11
 ---
