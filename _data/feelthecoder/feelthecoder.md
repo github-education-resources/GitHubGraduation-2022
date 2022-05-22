@@ -1,8 +1,12 @@
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am [Vikas Kumar](http://www.feelthecoder.com)
 
-| Name        |             Institution            |                        Quote                       | Github User  |
-| :---        |               :----:               |                        :---:                       |     ---:     |
-| Vikas Kumar | Rajkiya Engineering College Bijnor | Never let your computer know that you are in hurry | feelthecoder |
+
+---
+name: Vikas Kumar 
+institution: Rajkiya Engineering College Bijnor 
+quote: Never let your computer know that you are in hurryon. 
+github_user: feelthecoder
+---  
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=feelthecoder)
