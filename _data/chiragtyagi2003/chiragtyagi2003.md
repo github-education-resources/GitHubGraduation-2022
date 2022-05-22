@@ -1,0 +1,6 @@
+---
+name: CHIRAG TYAGI 
+institution: JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY, NOIDA-62
+quote: SLOW AND STEADY WINS THE RACE
+github_user: chiragtyagi2003
+---

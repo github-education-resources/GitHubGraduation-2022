@@ -69,7 +69,7 @@ Copie o modelo em seu arquivo, exclua os dados e preencha com as suas informaç�
 name: NOME-COMPLETO-OU-APELIDO # Até 28 caracteres  
 institution: NOME-INSTITUIÇÃO 🚩 # Até 58 caracteres
 quote: SUA-FRASE # Até 100 caracteres, evite usar aspas(")para garantir que o formato permaneça o mesmo. 
-Github_user: SEU-NOME-DE-USUARIO-GITBHUB
+github_user: SEU-NOME-DE-USUARIO-GITBHUB
 
 ---
 ```
@@ -105,6 +105,6 @@ Não deixe de assistir a nossa live:
 * 📆 11 de Junho de 2022 
 * ⏰ Às 13:00 (horário de Brasília)  
 * 📍Siga o nosso canal no **[Twitch](https://twitch.tv/githubeducation)** para notificações 
-* 📎 Adicione o evento em seu calendário: **[Google](https://calendar.google.com/calendar/u/0/r/eventedit?dates=20220611T200000Z/20220611T220000Z&details&location=https://www.twitch.tv/githubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A+GitHub+Graduation+2022+%F0%9F%8E%89%F0%9F%8E%8A)**, **[Outlook](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T22%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T20%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)** ou **[Yahoo](https://calendar.yahoo.com/?desc=&dur=&et=20220611T220000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T200000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)**. 
+* 📎 Adicione o evento em seu calendário: **[Google](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20220611T160000Z%2F20220611T180000Z&details=&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&text=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)**, **[Outlook](https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=&enddt=2022-06-11T18%3A00%3A00%2B00%3A00&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-06-11T16%3A00%3A00%2B00%3A00&subject=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A)** ou **[Yahoo](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)**. 
 
 Você tem alguma dúvida sobre a formatura do GitHub? Pergunte no nosso fórum **[Community Discussions](https://github.com/orgs/github-community/discussions/categories/github-education)**.

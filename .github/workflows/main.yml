@@ -31,7 +31,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: .github/workflows/src/node_modules
-          key: ${{ runner.os }}-v2-${{ hashFiles('.github/workflows/src/package.json') }}
+          key: ${{ runner.os }}-${{ secrets.CACHE_VERSION }}-${{ hashFiles('.github/workflows/src/package.json') }}
       - name: Setup npm
         run: npm install -g npm
       - name: Install dependencies
