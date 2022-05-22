@@ -1,6 +1,6 @@
 ---
 name: Saif Aqqad
 institution: Applied Science University
-quote: There's no failure if you learn something new - Weeeeeeeeeeツ
+quote: You didn't fail if you learned something new
 github_user: SaifAqqad
 ---
