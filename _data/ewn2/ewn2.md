@@ -1,6 +1,6 @@
 ---
 name: Erwin Uppal
 institution: Western Governor's University 🚩
-quote: Apni halat ka khud ehsas nahin hai mujh ko, main ne auron se suna hai ki pareshan huun main
+quote: I thought I was fine but everyone keeps asking me what's wrong
 github_user: ewn2
 ---
