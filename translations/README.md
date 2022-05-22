@@ -21,3 +21,4 @@
 | [Malay](./README.may.md)                 | [@adekoerniawan](https://github.com/adekoerniawan)                                                   |
 | [Bangla](./README.bn_bd.md)             | [@ajpalok](https://github.com/ajpalok)                                   |
 | [Somali](./README.so.md)             | [@abdorizak](https://github.com/abdorizak)                                   |
+| [Gujarati](./README.gu.md)             | [@20IT062](https://github.com/20IT062)                                   |
