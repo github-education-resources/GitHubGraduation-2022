@@ -23,6 +23,7 @@
 * [Malay](./translations/README.may.md)
 * [Bangla](./translations/README.bn_bd.md)
 * [Somali](./translations/README.so.md)
+* [Gujarati](./translations/README.gu.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
