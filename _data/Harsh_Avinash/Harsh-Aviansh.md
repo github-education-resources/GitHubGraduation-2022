@@ -1,4 +1,6 @@
-name: Harsh Avinash
-institution: Vellore Institute Of Technology Vellore (VIT) 
-quote: Something always Never Makes Sense
-github_user: Harsh-Avinash
+---
+Name: Harsh Avinash
+Institution: Vellore Institute of Technology Vellore (VIT) 
+Quote: Somethings always never makes sense
+Github_username: Harsh-Avinash
+---
