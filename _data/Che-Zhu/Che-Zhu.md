@@ -1,6 +1,6 @@
 ---
 name: Che Zhu
 institution: University of Adelaide
-quote: If you want to grow as a conscious human being, you must learn to embrace truth and relinquish falsehood.
+quote: There are no safe investments, but we invest anyway.
 github_user: Che-Zhu
 ---
