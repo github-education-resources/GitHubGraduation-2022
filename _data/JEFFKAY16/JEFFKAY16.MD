@@ -1,6 +1,6 @@
 ---
-name: Jeff Kayombo # No longer than 28 characters
-institution: Microverse School 🚩 # no longer than 58 characters
-quote: Always Be Learning. # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: Jeff Kayombo
+institution: Microverse Software School
+quote: Always Be Learning
 github_user: JEFFKAY16
 ---
