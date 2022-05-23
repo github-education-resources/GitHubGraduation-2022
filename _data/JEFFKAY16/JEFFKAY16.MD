@@ -1,6 +1,6 @@
 ---
-name: Jeff Kayombo
-institution: Microverse.org
-quote: It always seems impossible until it's done
+name: JEFF-KAYOMBO
+institution: MICROVERSE-ORG
+quote: BE-LEARNING
 github_user: JEFFKAY16
 ---
