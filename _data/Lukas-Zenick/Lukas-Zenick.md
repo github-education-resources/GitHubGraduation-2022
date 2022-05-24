@@ -1,6 +1,6 @@
 ---
 name: Lukas Zenick
 institution: Richardson High School
-quote: Aw shit, here we go again
+quote: Burp Suite
 github_user: Lukas-Zenick
 ---
