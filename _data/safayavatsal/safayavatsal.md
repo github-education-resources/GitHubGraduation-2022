@@ -1,6 +1,6 @@
 ---
 name: Vatsal Safaya
 institution: L. D. College of Engineering
-quote: Never try to please everyone, follow your dreams and that's all that matters.
+quote: Enjoy you life and kill the comfort zone
 github_user: safayavatsal
 ---
