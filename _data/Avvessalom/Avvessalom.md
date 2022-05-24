@@ -1,6 +1,6 @@
 ---
 name: Eugene Lazurin
 institution: ITMO University
-quote: While it works, it is better not to touch
+quote: If it works, don't touch it
 github_user: Avvessalom
 ---
