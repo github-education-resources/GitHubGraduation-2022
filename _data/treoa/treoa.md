@@ -1,4 +1,6 @@
+---
 name: Treo Roygbiv
 institution: Nazarbayev University
-quote: Mathein estin pathein
+quote: mathein estin pathein
 github_user: treoa
+---
