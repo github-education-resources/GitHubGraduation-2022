@@ -1,10 +1,7 @@
 ---
-
-name: Praveen Sahu
-
+name: Praveen Sahu 
 institution: Chaitanya Engineering College
-
-quote: Believe in yourself
-
+quote: Believe in Yourself.
 github_user: praveenakamrshadow
+---
 
