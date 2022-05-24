@@ -1,6 +1,6 @@
 ---
 name: Eugene Lazurin
 institution: ITMO University
-quote: If it works, don't touch it
+quote: I edit text files for a living
 github_user: Avvessalom
 ---
