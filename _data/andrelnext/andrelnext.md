@@ -1,4 +1,6 @@
+---
 name: Andre Braga
-institution: PUCPR
-quote: pleno
+institution: Pontifícia Universidade Católica do Paraná (PUCPR) 
+quote: react is life
 github_user: andre|next
+---
