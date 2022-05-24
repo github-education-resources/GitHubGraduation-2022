@@ -2,5 +2,5 @@
 name: Jorge Benjumea
 institution: Colegio Torrevilano
 quote: Examinadlo todo y quedaos con lo bueno
-github_user: intron014
+github_user: Intron014
 ---
