@@ -1,6 +1,6 @@
 ---
 name: Tushar Saini
 institution: IIT Mandi
-quote:  Sometimes it is the people no one can imagine anything of who do the things no one can imagine. - Alan Turing
+quote:  Those who can imagine anything, can create the impossible. - Alan Turing
 github_user: tushar-saini
 ---
