@@ -1,4 +1,3 @@
-
 ---
 name: Michael Borczuk
 institution: Stuyvesant High School
