@@ -2,5 +2,5 @@
 name: SYED-MUHAMMAD-ALI-RIZVI 
 institution: HABIB-UNIVERSITY 
 quote: FOLLOW-YOUR-HEART
-github_user: ALI-RIZVI-1
+github_user: Ali-Rizvi-1
 ---
