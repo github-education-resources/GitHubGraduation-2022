@@ -1,6 +1,6 @@
 ---
 name: Aman Kumar Chagti
 institution: CHITKARA UNIVERSITY, INDIA 
-quote: Success means nothing if it isn't hard to get. 
+quote: Yesterday was history tomorrow is a mystery today is god's gift that s why we call it the present.. 
 github_user: amankumarchagti
 ---
