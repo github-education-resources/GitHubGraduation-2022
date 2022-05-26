@@ -1,5 +1,8 @@
-| name           | institution                           | quote                        | github_user   |
-| -------------- | ------------------------------------- | ---------------------------- | ------------- |
-| ShaoQiang Chen | Xiamen University Tan Kah Kee College | Where you go, where you are. | Creator-codes |
+---
 
+name: ShaoQiang Chen
+institution: Xiamen University Tan Kah Kee College
+quote: Where you go, where you are.
+github_user: Creator-codes
 
+---
