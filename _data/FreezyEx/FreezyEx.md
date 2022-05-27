@@ -4,7 +4,7 @@ name: FreezyEx
 
 institution: Università di Roma La Sapienza
 
-quote: Not a student, not a nerd, just a fucking curious
+quote: If you want something done right, do it yourself
 
 github_user: FreezyEx
 
