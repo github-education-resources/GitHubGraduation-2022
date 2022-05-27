@@ -1,6 +1,6 @@
 ---
-name: Clement Peter
+name: carlos_dev
 institution: Landmark University
 quote: Always be open-minded and optimistic
-github_user: carlos_dev
+github_user: Clement Peter
 ---
