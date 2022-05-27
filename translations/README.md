@@ -14,7 +14,8 @@
 | [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime)                                                 |
 | [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod) [@theranjitraut](https://github.com/theranjitraut)  |
 | [German](./README.de.md)                 | [@benni347](https://github.com/benni347)                                                             |
-| [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |                    
+| [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  |   
+| [Marathi](./README.mr.md)                | [@shreyask21](https://github.com/shreyask21)                                                         |                  
 | [Punjabi]()                              | [@kalrayatin](https://github.com/kalrayatin)                                                         |
 | [Thai](./README.th.md)                   | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                                    | 
 | [Arabic](./README.ar.md)                 | [@Omar8345](https://github.com/Omar8345) [@OmarDev100](https://github.com/OmarDev100)                | 

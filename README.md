@@ -16,6 +16,7 @@
 * [French](./translations/README.fr.md)
 * [Nepali](./translations/README.np.md) 
 * [Hindi](./translations/README.hi.md)
+* [मराठी (Marathi)](./translations/README.mr.md)
 * [Punjabi](./translations/README.pun.md)
 * [German](./translations/README.de.md)
 * [ไทย](./translations/README.th.md)
