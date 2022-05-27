@@ -1,6 +1,6 @@
 ---
 name: Lion Kirchler
 institution: Technologische Fachoberschule - Max Valier - Bozen 
-quote: It's always better to cum in the sink than to sink in the cum -Isaac Newton
+quote: To understand the Universe, you must understand the language in which it's written, Scratch
 github_user: Nis5l
 ---
