@@ -1,6 +1,6 @@
 ---
 name: Dipan Nanda
 institution: University of Leeds
-quote: Some bull
+quote: Simplicity is deceptively complicated
 github_user: themagicalmammal
 ---
