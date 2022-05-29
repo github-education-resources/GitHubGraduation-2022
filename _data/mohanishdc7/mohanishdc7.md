@@ -1,6 +1,6 @@
 ---
 name: Mohanish Chavan
 institution: Indian Institute of Technology Madras 🚩 # no longer than 58 characters
-quote: Anything can be accomplished, but not only if you want to do it , but also if you are longing for it’s accomplishment
+quote: Success is following the pattern of life one enjoys most
 github_user: mohanishdc7
 ---
