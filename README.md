@@ -2,6 +2,7 @@
 
 ### Available Translations 🗣
 
+* [Armenian](./translations/README.am.md)
 * [Pt-BR](https://bit.ly/3LI8kAc)
 * [中文](https://bit.ly/3kE3Ezc)
 * [日本語](https://bit.ly/38TCVfm)
