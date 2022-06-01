@@ -124,9 +124,9 @@ class Octo {
     })
   }
 
-  async addReviewLabel() {
-    return await this.addLabel(MERGE_LABEL)
-  }
+  // async addReviewLabel() {
+  //   return await this.addLabel(MERGE_LABEL)
+  // }
 
   async addClosedLabel() {
     return await this.addLabel(CLOSED_LABEL)
