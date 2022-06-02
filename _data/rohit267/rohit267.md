@@ -1,0 +1,6 @@
+---
+name: ROHIT MAHTO
+institution: RAMGARH ENGINEERING COLLEGE
+quote: OPPORTUNITIES DONT HAPPEN, YOU CREATE THEM.
+github_user: rohit267
+---
