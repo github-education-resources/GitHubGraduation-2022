@@ -64,3 +64,8 @@ jobs:
           EDUCATION_WEB_KEY: ${{ secrets.EDUCATION_WEB_KEY }}
           EDUCATION_WEB_SECRET: ${{ secrets.EDUCATION_WEB_SECRET }}
           EDUCATION_WEB_API: ${{ secrets.EDUCATION_WEB_API }}
+
+      - name: Close Pull Request
+        uses: superbrothers/close-pull-request@v3.0.0
+        comment: "Thank you for your submission. Unfortunately entries for graduation 2022 have closed at this time."
+
