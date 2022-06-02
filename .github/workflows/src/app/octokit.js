@@ -107,13 +107,13 @@ class Octo {
     return data
   }
 
-  async mergePR() {
-    return await this.octokit.request('PUT /repos/{owner}/{repo}/pulls/{pull_number}/merge', {
-      owner: actionEvent.pullRepoOwner,
-      repo: actionEvent.pullRepo.name,
-      pull_number: actionEvent.pullNumber
-    });
-  }
+  // async mergePR() {
+  //   return await this.octokit.request('PUT /repos/{owner}/{repo}/pulls/{pull_number}/merge', {
+  //     owner: actionEvent.pullRepoOwner,
+  //     repo: actionEvent.pullRepo.name,
+  //     pull_number: actionEvent.pullNumber
+  //   });
+  // }
 
   async closePR() {
     return await this.octokit.request('PATCH /repos/{owner}/{repo}/pulls/{pull_number}', {
