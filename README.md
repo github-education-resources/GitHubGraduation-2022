@@ -3,6 +3,7 @@
 ### Available Translations 🗣
 
 * [Arabic](./translations/README.ar.md)
+* [Armenian](./translations/README.am.md)
 * [Bangla](./translations/README.bn_bd.md)
 * [中文](https://bit.ly/3kE3Ezc)
 * [Español (España)](./translations/README.es-es.md)
