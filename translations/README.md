@@ -15,7 +15,7 @@
 | [Malay](./README.may.md)                 | [@adekoerniawan](https://github.com/adekoerniawan)                                                   | 
 | [Nepali](./README.np.md)                 | [@prabincankod](https://github.com/prabincankod) [@theranjitraut](https://github.com/theranjitraut)  | 
 | [Polish](https://bit.ly/38c411k)         | [@Nevalicjus](https://github.com/Nevalicjus)                                                         | 
-| [Portuguese](https://bit.ly/3LI8kAc)     | [@mlarasusan](https://github.com/mlarasusan) [@jakeliny](https://github.com/jakeliny)                | 
+| [Portuguese](https://bit.ly/3LI8kAc)     | [@mlarasusan](https://github.com/mlarasusan) [@jakeliny](https://github.com/jakeliny) [@viniciusifsp](https://github.com/viniciusifsp)                | 
 | [Punjabi]()                              | [@kalrayatin](https://github.com/kalrayatin)                                                         | 
 | [Russian](https://bit.ly/3w7d7EL)        | [@lesterrry](https://github.com/lesterrry)                                                           | 
 | [Somali](./README.so.md)                 | [@abdorizak](https://github.com/abdorizak)                                                           | 
