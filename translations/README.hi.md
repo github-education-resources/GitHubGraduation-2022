@@ -45,9 +45,9 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 अगले टेम्पलेट को अपनी फ़ाइल में कॉपी करें, दिए गए डेटा को हटा दें और इसमें अपनी जानकारी भरें।
 ```
 ---
-name: FULLNAME-OR-NICKNAME # No longer than 28 characters
-institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+name: FULLNAME-OR-NICKNAME # 28 वर्णों से अधिक नहीं
+institution: INSTITUTION-NAME 🚩 # 58 वर्णों से अधिक नहीं
+quote: YOUR-SENIOR-QUOTE # 100 वर्णों से अधिक नहीं, प्रारूप के समान रहने की गारंटी के लिए उद्धरण (") का उपयोग करने से बचें।
 github_user: YOUR-GITHUB-USERNAME
 ---
 ```
