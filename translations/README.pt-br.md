@@ -70,12 +70,11 @@ name: NOME-COMPLETO-OU-APELIDO # Até 28 caracteres
 institution: NOME-INSTITUIÇÃO 🚩 # Até 58 caracteres
 quote: SUA-FRASE # Até 100 caracteres, evite usar aspas(")para garantir que o formato permaneça o mesmo. 
 github_user: SEU-NOME-DE-USUARIO-GITBHUB
-
 ---
 ```
 
 
-_Não use caracteres especiais do modelo acima._
+_Não use caracteres especiais no modelo acima._
 
 #### E por último, envie o seu pull request
 
