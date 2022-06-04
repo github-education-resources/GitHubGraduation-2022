@@ -27,6 +27,7 @@
 * [ไทย](./translations/README.th.md)
 * [Türkçe](./translations/README.tr.md)
 * [Urdu](./translations/README.ur.md)
+* [Gujarati](./translations/README.gu.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
