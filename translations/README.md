@@ -4,7 +4,7 @@
 |---------------------------------|-----------------------------------------|
 | [Arabic](./README.ar.md)                 | [@Omar8345](https://github.com/Omar8345) [@OmarDev100](https://github.com/OmarDev100)                | 
 | [Bangla](./README.bn_bd.md)              | [@ajpalok](https://github.com/ajpalok)                                                               | 
-| [Chinese](https://bit.ly/3kE3Ezc)        | [@Xunzhuo](https://github.com/Xunzhuo) [@iXeor](https://github.com/iXeor) [@StarOnTheSky](https://github.com/StarOnTheSky) | 
+| [Chinese](https://bit.ly/3kE3Ezc)        | [@Xunzhuo](https://github.com/Xunzhuo) [@iXeor](https://github.com/iXeor) [@StarOnTheSky](https://github.com/StarOnTheSky) [@ZweiRm](https://github.com/ZweiRm)| 
 | [French](./README.fr.md)                 | [@richarddushime](https://github.com/richarddushime)                                                 | 
 | [German](./README.de.md)                 | [@benni347](https://github.com/benni347)                                                             | 
 | [Hindi](./README.hi.md)                  | [@akshatnigam](https://github.com/akshatnigam) [@Saket-Upadhyay](https://github.com/Saket-Upadhyay)  | 
