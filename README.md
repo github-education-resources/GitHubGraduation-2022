@@ -19,6 +19,7 @@
 * [Nepali](./translations/README.np.md) 
 * [Polski](https://bit.ly/38c411k)
 * [Portuguese (Brazil)](https://bit.ly/3LI8kAc)
+* [मराठी (Marathi)](./translations/README.mr.md)
 * [Punjabi](./translations/README.pun.md)
 * [Русский](https://bit.ly/3w7d7EL)
 * [Somali](./translations/README.so.md)
@@ -27,6 +28,13 @@
 * [Urdu](./translations/README.ur.md)
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
+
+## May 30, 2022
+And that’s a wrap on the GitHub 2022 Yearbook ✨✅
+
+Submissions to the repository are closed as of 12:00pm PT. Yearbook will be live on Wednesday June 8. Check back here for updates!
+
+If you believe there has been a mistake with reviews, please let us know in [an Issue](https://github.com/education/GitHubGraduation-2022/issues). All Issues will be responded to before the event on June 11. Don’t forget to [save the date](#graduation-day-🎓) and follow us on [Twitch](https://www.twitch.tv/githubeducation) for notifications! See you on stage at graduation 👋
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
