@@ -23,3 +23,4 @@
 | [Thai](./README.th.md)                   | [@pknn](https://github.com/pknn) [@phwt](https://github.com/phwt)                                    | 
 | [Turkish](./README.tr.md)                | [@fybx](https://github.com/fybx)                                                                     | 
 | [Urdu](./README.ar.md)                   | [@AounNaqvi173](https://github.com/AounNaqvi173)                                                     | 
+| [Gujarati](./README.gu.md)               | [@20IT062](https://github.com/20IT062)                                                               | 
