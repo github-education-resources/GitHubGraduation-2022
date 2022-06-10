@@ -15,12 +15,12 @@
 # 谁可以申请加入 📝
 我们欢迎任何不管是已经在2022年毕业的了，还是即将在2022年内毕业的学生来申请加入年鉴。无论您是训练营的营员、还是代码集训团的练习生 、或者是高中毕业生、硕士毕业生甚至是博士毕业生。诸如此类，都可以参加。
 
-满足以下条件即可申请加入 -
-1. 您已经申请GitHub学生开发套装并通过学生认证。还没有申请学生套装？[点击这里申请](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation)。
-2. 您之前没有参加过Github毕业典礼活动。
-3. 您在2022年内毕业。
+这是加入毕业并通过邮件接收您的定制礼物卡和贴纸的两个步骤：
+1. [填写 **物流运输表格**](https://airtable.com/shrVMo8ItH4wjsO9f)
+ ⚠️ 该表格需要在创建您的 Pull Request (PR) 之前完成，但其不保证参与活动。您的 PR 必须成功合并到仓库中，并且只有前 7,500 个合并的 PR 会收到邮寄的卡片。
+2. 提交一个包含您的个人资料信息的 Pull Request 以加入年鉴并在毕业活动中突出显示。
 
-# 如何加入2022届大班级
+## 一、填写物流运输表格
 
 这两步会指导您加入毕业典礼并在邮箱里收到属于您的定制小卡片和贴纸：
 1. [填写 **运单**](https://airtable.com/shrVMo8ItH4wjsO9f)
@@ -51,10 +51,10 @@ _data/MonaTheOctocat/MonaTheOctocat.md
 拷贝下面的模板到您的文件里，删除模板信息并填上您自己的。
 ```
 ---
-name: FULLNAME-OR-NICKNAME # 长度不要超过28个英文字符
-institution: INSTITUTION-NAME 🚩 # 长度不要超过58个英文字符
-quote: YOUR-SENIOR-QUOTE # 长度不要超过100个英文字符，避免使用引号(")以保证格式保持不变。
-github_user: YOUR-GITHUB-USERNAME
+name: 全名或者昵称 #不超过 28 字符
+institution: 院校名称 🚩 # 不超过 58 字符
+quote: 您的座右铭 # 不超过 100 字符，避免使用引号 (") 以保证格式相同
+github_user: 您的 GitHub 用户名
 ---
 ```
 
