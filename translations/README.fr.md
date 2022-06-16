@@ -23,7 +23,7 @@ Nous invitons tout étudiant qui a obtenu son diplôme ou prévoit d'obtenir son
 
 Les critères d'éligibilité sont -
 
-1. Vous avez été vérifié en tant qu'étudiant avec le GitHub Student Developer Pack. Vous ne faites pas encore partie du Pack ? [Appliquer ici](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
+1. Vous avez été vérifié en tant qu'étudiant avec le GitHub Student Developer Pack. Vous ne faites pas encore partie du Pack ? [Candidater ici](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. Vous n'avez pas participé à un événement GitHub Graduation passé.
 3. Vous vous identifiez comme diplômé en 2022.
 
@@ -37,15 +37,15 @@ Voici deux étapes pour rejoindre l'obtention du diplôme et recevoir votre cart
 
 ## 1. Remplissez le formulaire d'expédition.
 
-Informations soumises à [le formulaire d'envoi de swag](https://airtable.com/shrVMo8ItH4wjsO9f) n'est utilisé que pour expédier des cartes à collectionner pour l'obtention du diplôme. L'envoi du formulaire ne garantit pas que vous recevrez quoi que ce soit par la poste. Seuls les 7 500 premiers diplômés à fusionner leur demande d extraction avec le GitHub Yearbook recevront un envoi.
+Informations soumises à [le formulaire d'envoi de swag](https://airtable.com/shrVMo8ItH4wjsO9f) n'est utilisé que pour expédier des cartes à collectionner pour l'obtention du diplôme. L'envoi du formulaire ne garantit pas que vous recevrez quoi que ce soit par la poste. Seuls les 7 500 premiers diplômés à fusionner leur demande d'extraction avec le GitHub Yearbook recevront un envoi.
 
 ## 2. Ajoutez-vous à l'Annuaire 🏫
 
-Remplacer `<VOTRE NOM D'UTILISATEUR>` avec votre nom d'utilisateur GitHub dans ce guide. Veuillez noter que `<VOTRE NOM D'UTILISATEUR>` Voici **Sensible aux majuscules et minuscules**. Par example, si votre nom d'utilisateur est `MonaDeOctocat`, en utilisant autre chose que ça comme `monadeoctocat` ou alors `monaDEoctocat` génèrera une erreur lors de la soumission de la demande d'extraction, assurez-vous que vous utilisez exactement la même casse que votre nom d'utilisateur dans le nom du dossier et le nom du fichier.
+Remplacer `<VOTRE NOM D'UTILISATEUR>` avec votre nom d'utilisateur GitHub dans ce guide. Veuillez noter que `<VOTRE NOM D'UTILISATEUR>` est **Sensible aux majuscules et minuscules**. Par exemple, si votre nom d'utilisateur est `MonaDeOctocat`, en utilisant autre chose que ça comme `monadeoctocat` ou alors `monaDEoctocat` génèrera une erreur lors de la soumission de la demande d'extraction, assurez-vous que vous utilisez exactement la même casse que votre nom d'utilisateur dans le nom du dossier et le nom du fichier.
 
 ### Tout d'abord, créez le dossier \_data/VOTRE NOM D'UTILISATEUR/
 
-Forkez ce référentiel, créez un nouveau dossier dans le `_data` dossier et nommez-le avec votre nom d'utilisateur. Ça devrait ressembler a quelque chose comme ca `_data/<VOTRE NOM D'UTILISATEUR>/`. Ex.
+Forkez ce référentiel, créez un nouveau dossier dans le `_data` dossier et nommez-le avec votre nom d'utilisateur. Ça devrait ressembler à quelque chose comme ça `_data/<VOTRE NOM D'UTILISATEUR>/`. Ex.
 
 ```
 _data/MonaDeOctocat/
@@ -93,7 +93,7 @@ N'oubliez pas : vous avez jusqu'au 30 mai pour soumettre votre histoire !
 
 Les 7 500 premiers PR fusionnés avec succès recevront par courrier une carte à collectionner de développeur holographique personnalisée avec leur statut GitHub.
 
-Qu'est-ce que ça veut dire? Nous utiliserons les informations de votre profil GitHub public pour créer une carte à collectionner. Pour vous assurer que votre carte à collectionner vous reflète au mieux, assurez-vous que votre photo de profil et votre biographie GitHub sont à jour et que vous souhaitez afficher sur la carte.
+Qu'est-ce que ça veut dire? Nous utiliserons les informations de votre profil GitHub public pour créer une carte à collectionner. Pour vous assurer que votre carte à collectionner vous reflète au mieux, assurez-vous que votre photo de profil et votre biographie GitHub sont à jour et que vous souhaitez les afficher sur la carte.
 
 # Jour de l'obtention du diplôme 🎓
 
