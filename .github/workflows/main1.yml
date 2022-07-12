@@ -1,0 +1,16 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Close Pull Request
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: superbrothers/close-pull-request@v3
+      with:
+        # Optional. Post a issue comment just before closing a pull request.
+        comment: "Thank you for your submission. Unfortunately entries for graduation 2022 have closed at this time."
