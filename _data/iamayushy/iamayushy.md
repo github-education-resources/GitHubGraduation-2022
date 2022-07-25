@@ -1,0 +1,6 @@
+---
+name: AYUSH YADAV
+institution: RAMNIRANJAN JHUNJHUNWALA COLLEGE
+quote: YOUR CODE HAS POTENTIAL TO CHANGE THE WORLD 
+github_user: iamayushy
+---

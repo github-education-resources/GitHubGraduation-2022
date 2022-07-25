@@ -1,0 +1,6 @@
+---
+name: ADITYA SHINDE
+institution: ARMY INSTITUTE OF TECHNOLOGY
+quote: THE TIME IS ALWAYS RIGHT TO DO WHAT IS RIGHT
+github_user: Aditya207git
+---
