@@ -19,7 +19,7 @@ Considera que toda la información que añadas a este repositorio estará dispon
 Invitamos a cualquier estudiante que se ha graduado, o planea graduarse, en 2022 a que apliquen para el anuario. Los graduados pueden ser de bootcamps, code camps, estudiantes de preparatoria, estudiantes de maestría, estudiantes de doctorado, etc.
 
 Los criterios de elección son -
-1. Haber sido verificado como un estudiante con el GitHub Student Developer Pack. ¿Todavía no eres parte del Pack? [Applica aquí](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
+1. Haber sido verificado como un estudiante con el GitHub Student Developer Pack. ¿Todavía no eres parte del Pack? [Aplica aquí](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
 2. No haber participado en un evento previo de GitHub Graduation (Graduación GitHub).
 3. Identificarse como un graduado en el año 2022.
 
