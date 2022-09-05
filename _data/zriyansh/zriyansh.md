@@ -1,0 +1,6 @@
+---
+name: PRIYANSH KHODIYAR
+institution: VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY
+quote: HOPE IS THE LAST THING WE LOSE 
+github_user: zriyansh
+---
