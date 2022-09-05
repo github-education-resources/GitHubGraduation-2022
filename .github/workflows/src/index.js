@@ -176,7 +176,7 @@ Feel free to re-request a review from me and I'll come back and take a look!
     `
   } else {
     // All checks pass
-    feedBackMessage = "It looks like you're all set! Thanks for the graduation submission."
+    feedBackMessage = "Thanks for your graduation submission. Unfortunately entries have closed at this time."
     try {
       // await octokit.mergePR()
       await octokit.addReviewLabel()
