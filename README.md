@@ -30,6 +30,11 @@
 
 *Read the instructions in your language or [contribute a translation](translations/README.md)!*
 
+## Sep 05, 2022
+Re-Print GitHub Graduation card. We are aware that some of you have not received the card yet. We are opening a form for a reprint. We will keep it open until Sep 30. 
+
+Please only fill out the form if you have not received your card. [form](https://airtable.com/shrq4pObYbyaxwlpD)
+
 ## May 30, 2022
 And that’s a wrap on the GitHub 2022 Yearbook ✨✅
 
