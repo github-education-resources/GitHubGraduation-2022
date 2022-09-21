@@ -80,7 +80,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide. Please note t
 
 ### First, create the folder \_data/YOUR-USERNAME/
 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
 
 ```
 _data/MonaTheOctocat/
