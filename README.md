@@ -39,7 +39,7 @@ Consider that all the information that you add to this repository will be public
 
 - If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
 
-# Who can apply 📝
+# Who can applyy 📝
 
 We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
 
